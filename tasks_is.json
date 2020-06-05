@@ -3645,24 +3645,6 @@
         "unique": true
     },
     {
-        "text": "Kaufe etwas im iSauf-Online-Shop oder exe dein Getr\u00e4nk",
-        "count": 2,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Kaufe etwas im iSauf-Online-Shop oder trinke {int} Schl\u00fccke!",
-        "count": 10,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
         "text": "Klatsche dir einmal gegen die Stirn und trinke {int} Schl\u00fccke",
         "count": 9,
         "uses": 0,
@@ -4734,7 +4716,7 @@
         "unique": true
     },
     {
-        "text": "Spielst du iSauf das erste Mal, verteile {int} Schl\u00fccke",
+        "text": "Spielst du dieses Spiel das erste Mal, verteile {int} Schl\u00fccke",
         "count": 1,
         "uses": 0,
         "rounds": 0,
