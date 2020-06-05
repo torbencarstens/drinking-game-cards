@@ -1134,35 +1134,8 @@
         "unique": true
     },
     {
-        "text": "Bestimme einen Mitspieler, dieser muss iSauf auf Facebook liken oder sein Getr\u00e4nk exen. Hat er iSauf schon geliked, muss er nicht exen",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
         "text": "Bestimme einen Mitspieler. Dieser darf {int} Schl\u00fccke verteilen",
         "count": 28,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Bestimme einen Mitspieler. Dieser muss iSauf auf Facebook liken oder sein Getr\u00e4nk exen. Hat dieser Mitspieler iSauf bereits geliked, passiert nichts",
-        "count": 4,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Bestimme einen Mitspieler. Dieser muss sein Getr\u00e4nk exen oder iSauf - das Trinkspiel auf Facebook liken. Hat er schon geliked, hast du Pech gehabt und es passiert nichts",
-        "count": 1,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -1532,15 +1505,6 @@
     {
         "text": "Dreh dich 8 mal im Kreis. Danach trinke {int} Schl\u00fccke",
         "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Dreh ein kurzes Video von eurem Team und poste es auf die iSauf Facebook-Seite. Machst du es nicht trinke {int} Schl\u00fccke. Hat euer Team schon ein Video gepostet, wird diese Aufgabe ignoriert",
-        "count": 4,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -3375,15 +3339,6 @@
         "unique": true
     },
     {
-        "text": "Jeder, der jetzt iSauf - Das Trinkspiel auf Facebook liked, darf {int} Schl\u00fccke verteilen. Ist man schon Fan, darf man auch verteilen",
-        "count": 3,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
         "text": "Jeder, der schon einmal in seinem Leben Fussball im Verein gespielt hat, trinkt {int} Schl\u00fccke",
         "count": 1,
         "uses": 0,
@@ -3762,33 +3717,6 @@
         "unique": true
     },
     {
-        "text": "Like iSauf auf Facebook und du darfst bis zu 3 Personen bestimmen, die ihr Getr\u00e4nk exen m\u00fcssen. Hast du uns schon geliked, bestimme eine Person die ihr Getr\u00e4nk exen muss. Machst du es nicht, trinke {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Like iSauf auf Facebook und du darfst {int} Schl\u00fccke verteilen. Machst du es nicht dann trinkst du {int} Schl\u00fccke. Hast du uns schon geliked verteile {int} Schl\u00fccke",
-        "count": 4,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Like uns auf Facebook oder exe dein Getr\u00e4nk. Hast du uns schon geliked, dann hast du Gl\u00fcck gehabt",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
         "text": "Mach die Augen zu, streck deinen linken Arm aus und versuche mit dem Mittelfinger, deine Nasenspitze zu ber\u00fchren. Schaffst du es, verteile {int} Schl\u00fccke. Schaffst du es nicht, trinke {int} Schl\u00fccke",
         "count": 1,
         "uses": 0,
@@ -3843,24 +3771,6 @@
         "unique": true
     },
     {
-        "text": "Markiere eine Person deiner Wahl unter einem beliebigen Beitrag auf der iSauf Facebook-Seite. Machst du es nicht, trinke {int} Schl\u00fccke",
-        "count": 4,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Markiere iSauf - das Trinkspiel in einem beliebigen Facebook-Beitrag deiner Wahl oder trinke {int} Schl\u00fccke",
-        "count": 2,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
         "text": "Nimm das Getr\u00e4nk von deinem linken Nachbar und exe es",
         "count": 1,
         "uses": 0,
@@ -3872,96 +3782,6 @@
     {
         "text": "Nimm das Getr\u00e4nk von deinem rechten Nachbar und exe es",
         "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Poste auf Facebook: (Ich bin der gr\u00f6\u00dfte Spast der Welt!) oder trinke {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Poste auf Facebook: (Ich bin sau der h\u00e4ssliche Vogel!) oder trinke {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Poste auf Facebook: (Ich hab da so ein Jucken unten, kann mir jemand helfen?) oder trinke {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Poste auf Facebook: (Ich liebe Justin Bieber und seine Musik!) oder trinke {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Poste auf Facebook: (Ich liebe iSauf - das Trinkspiel und bin grad mega dicht!) oder trinke {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Poste auf Facebook: (Ich steh voll auf N\u00fcsse!) oder trinke {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Poste auf Facebook: (Oh Gott, ich stinke so sehr!) oder trinke {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Poste auf Facebook: Hiermit k\u00fcndige ich euch allen die Freundschaft und verlinkte die Personen die du damit meinst. Machst du es nicht, trinke {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Poste den d\u00fcmmsten Satz, der dir gerade einf\u00e4llt, auf der iSauf Facebook-Seite. Machst du es nicht, trinke {int} Schl\u00fccke",
-        "count": 2,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Poste den d\u00fcmmsten Satz, der dir gerade einf\u00e4llt, unter einen Beitrag deiner Wahl auf der iSauf Facebook-Seite. Machst du es nicht, trinke {int} Schl\u00fccke",
-        "count": 5,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -4960,15 +4780,6 @@
     },
     {
         "text": "Stelle bis Morgen ein Bild von Justin Bieber als dein Whats App Profilbild ein, oder exe dein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Stelle einer Person auf Facebook eine Freundschaftsanfrage, die dich nicht sehr gut kennt. Weigerst du dich, musst du dein Getr\u00e4nk exen",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6391,15 +6202,6 @@
     },
     {
         "text": "\u00c4ndere deinen Whatsapp Status in: Spice up your life! oder trinke {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "\u00c4ndere ein Profilbild deiner Wahl(Whattsapp, Tinder, Facebook ect). W\u00e4hle als neues Bild entweder Justin Bieber oder ein Selfie vom Team. Machst du es nicht trinke {int} Schl\u00fccke",
         "count": 1,
         "uses": 0,
         "rounds": 0,
