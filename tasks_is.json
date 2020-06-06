@@ -1,32 +1,5 @@
 [
     {
-        "text": "Alle 1. FC K\u00f6ln Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Alligatoah Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Avicii Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
         "text": "Alle Azubis trinken {int} Schl\u00fccke",
         "count": 1,
         "uses": 0,
@@ -45,106 +18,7 @@
         "unique": true
     },
     {
-        "text": "Alle Bayer 04 Leverkusen Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Billy Talent Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Blink 182 Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Borussia Dortmund Fans trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Borussia M\u00f6nchengladbach Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle B\u00f6hse Onkelz Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Casper Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Cro Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Die \u00c4rzte Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
         "text": "Alle Drachenlord Hater trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Eintracht Frankfurt Fans trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Electro-House-Fans, trinken {int} Schl\u00fccke",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -162,124 +36,7 @@
         "unique": true
     },
     {
-        "text": "Alle Eminem Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle FC Bayern M\u00fcnchen Fans trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle FC Schalke 04 Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle FC St. Pauli Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Hamburger SV Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Hardwell Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Helene Fischer Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Hertha BSC Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Hip-Hop/Rap-Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Indie-Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Justin Bieber Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle KIZ Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
         "text": "Alle Kaffee-Trinker, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Linkin Park Fans, trinken {int} Schl\u00fccke",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -297,44 +54,8 @@
         "unique": true
     },
     {
-        "text": "Alle Lost Frequencies Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Metal-Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Metallica Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
         "text": "Alle Mitspieler m\u00fcssen 1 Runde lang schweigen. F\u00fcr jedes Wort, trinkt derjenige {int} Schl\u00fccke",
         "count": 2,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Modern Talking Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -369,25 +90,7 @@
         "unique": true
     },
     {
-        "text": "Alle Offspring Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
         "text": "Alle Opel-Fahrer, trinken {int} Schl\u00fccke. Ist kein Opel-Fahrer anwesend, trinkst Du {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Prinz Pi Fans, trinken {int} Schl\u00fccke",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -414,52 +117,7 @@
         "unique": true
     },
     {
-        "text": "Alle Red Hot Chillipeppers Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
         "text": "Alle Renault-Fahrer, trinken {int} Schl\u00fccke. Ist kein Renault-Fahrer anwesend, trinkst Du {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Rise Against Fans trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Robin Schulz Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle SV Darmstadt 98 Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle SV Werder Bremen Fans, trinken {int} Schl\u00fccke",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -477,25 +135,7 @@
         "unique": true
     },
     {
-        "text": "Alle Schlagerfans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
         "text": "Alle Sch\u00fcler trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Sido Fans, trinken {int} Schl\u00fccke",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -522,33 +162,6 @@
         "unique": true
     },
     {
-        "text": "Alle Sum 41 Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Tote Hosen Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle Trailerpark Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
         "text": "Alle Typen trinken {int} Schl\u00fccke",
         "count": 2,
         "uses": 0,
@@ -559,24 +172,6 @@
     },
     {
         "text": "Alle Veganer oder Vegetarier, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle VfB Stuttgart Fans, trinken {int} Schl\u00fccke",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle VfL Wolfsburg Fans, trinken {int} Schl\u00fccke",
         "count": 1,
         "uses": 0,
         "rounds": 0,
