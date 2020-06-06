@@ -351,44 +351,8 @@
         "unique": true
     },
     {
-        "text": "Alle trinken {int} Schl\u00fccke. Wer nicht trinken will, gibt sich stattdessen 5 Backpfeifen",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle trinken {int} Schl\u00fccke. Wer nicht trinken will, gibt sich stattdessen 6 Backpfeifen",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle trinken {int} Schl\u00fccke. Wer nicht trinken will, gibt sich stattdessen 7 Backpfeifen",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle trinken {int} Schl\u00fccke. Wer nicht trinken will, gibt sich stattdessen 8 Backpfeifen",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle trinken {int} Schl\u00fccke. Wer nicht trinken will, gibt sich stattdessen 9 Backpfeifen",
-        "count": 1,
+        "text": "Alle trinken {int} Schl\u00fccke. Wer nicht trinken will, gibt sich stattdessen {int} Backpfeifen",
+        "count": 5,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -2619,7 +2583,7 @@
         "unique": true
     },
     {
-        "text": "Jeder der noch nie Pok\u00e9mon Go gespielt hat, darf {int} Schl\u00fccke und zus\u00e4tzlich 2 Backpfeifen an die Person seiner Wahl verteilen",
+        "text": "Jeder der noch nie Pok\u00e9mon Go gespielt hat, darf {int} Schl\u00fccke und zus\u00e4tzlich {int} Backpfeifen an die Person seiner Wahl verteilen",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2646,7 +2610,7 @@
         "unique": true
     },
     {
-        "text": "Jeder der schon mal Pok\u00e9mon Go gespielt hat, gibt sich selbst 2 Backpfeifen und trinkt {int} Schl\u00fccke",
+        "text": "Jeder der schon mal Pok\u00e9mon Go gespielt hat, gibt sich selbst {int} Backpfeifen und trinkt {int} Schl\u00fccke",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -4455,89 +4419,8 @@
         "unique": true
     },
     {
-        "text": "Trinke {int} Schl\u00fccke oder gib dir 1 Backpfeife",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder gib dir 10 Backpfeifen",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder gib dir 2 Backpfeifen",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder gib dir 3 Backpfeifen",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder gib dir 4 Backpfeifen",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder gib dir 5 Backpfeifen",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder gib dir 6 Backpfeifen",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder gib dir 7 Backpfeifen",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder gib dir 8 Backpfeifen",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder gib dir 9 Backpfeifen",
-        "count": 1,
+        "text": "Trinke {int} Schl\u00fccke oder gib dir {int} Backpfeifen",
+        "count": 10,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -4932,89 +4815,8 @@
         "unique": true
     },
     {
-        "text": "Verteile {int} Schl\u00fccke oder zwinge jemanden sich selbst 1 Backpfeifen zu geben. Macht er es nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder zwinge jemanden sich selbst 10 Backpfeifen zu geben. Macht er es nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder zwinge jemanden sich selbst 2 Backpfeifen zu geben. Macht er es nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder zwinge jemanden sich selbst 3 Backpfeifen zu geben. Macht er es nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder zwinge jemanden sich selbst 4 Backpfeifen zu geben. Macht er es nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder zwinge jemanden sich selbst 5 Backpfeifen zu geben. Macht er es nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder zwinge jemanden sich selbst 6 Backpfeifen zu geben. Macht er es nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder zwinge jemanden sich selbst 7 Backpfeifen zu geben. Macht er es nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder zwinge jemanden sich selbst 8 Backpfeifen zu geben. Macht er es nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder zwinge jemanden sich selbst 9 Backpfeifen zu geben. Macht er es nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
+        "text": "Verteile {int} Schl\u00fccke oder zwinge jemanden sich selbst {int} Backpfeifen zu geben. Macht er es nicht, ext er sein Getr\u00e4nk",
+        "count": 10,
         "uses": 0,
         "rounds": 0,
         "personal": false,
