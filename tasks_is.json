@@ -360,44 +360,8 @@
         "unique": true
     },
     {
-        "text": "Alle trinken {int} Schl\u00fccke. Wer nicht trinken will, macht stattdessen 5 Liegest\u00fctze",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle trinken {int} Schl\u00fccke. Wer nicht trinken will, macht stattdessen 6 Liegest\u00fctze",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle trinken {int} Schl\u00fccke. Wer nicht trinken will, macht stattdessen 7 Liegest\u00fctze",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle trinken {int} Schl\u00fccke. Wer nicht trinken will, macht stattdessen 8 Liegest\u00fctze",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Alle trinken {int} Schl\u00fccke. Wer nicht trinken will, macht stattdessen 9 Liegest\u00fctze",
-        "count": 1,
+        "text": "Alle trinken {int} Schl\u00fccke. Wer nicht trinken will, macht stattdessen {int} Liegest\u00fctze",
+        "count": 5,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -1467,26 +1431,8 @@
         "unique": true
     },
     {
-        "text": "Du entscheidest: Alle trinken {int} Schl\u00fccke oder machen 1 Liegest\u00fctze",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Du entscheidest: Alle trinken {int} Schl\u00fccke oder machen 2 Liegest\u00fctze",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Du entscheidest: Alle trinken {int} Schl\u00fccke oder machen 3 Liegest\u00fctze",
-        "count": 1,
+        "text": "Du entscheidest: Alle trinken {int} Schl\u00fccke oder machen {int} Liegest\u00fctze",
+        "count": 3,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -4437,80 +4383,8 @@
         "unique": true
     },
     {
-        "text": "Trinke {int} Schl\u00fccke oder mache 1 Liegest\u00fctze",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder mache 2 Liegest\u00fctze",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder mache 3 Liegest\u00fctze",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder mache 4 Liegest\u00fctze",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder mache 5 Liegest\u00fctze",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder mache 6 Liegest\u00fctze",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder mache 7 Liegest\u00fctze",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder mache 8 Liegest\u00fctze",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Trinke {int} Schl\u00fccke oder mache 9 Liegest\u00fctze",
-        "count": 1,
+        "text": "Trinke {int} Schl\u00fccke oder mache {int} Liegest\u00fctze",
+        "count": 10,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -4725,89 +4599,8 @@
         "unique": true
     },
     {
-        "text": "Verteile {int} Schl\u00fccke oder lass jemanden 1 Liegest\u00fctze machen. Macht er sie nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder lass jemanden 10 Liegest\u00fctze machen. Macht er sie nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder lass jemanden 2 Liegest\u00fctze machen. Macht er sie nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder lass jemanden 3 Liegest\u00fctze machen. Macht er sie nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder lass jemanden 4 Liegest\u00fctze machen. Macht er sie nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder lass jemanden 5 Liegest\u00fctze machen. Macht er sie nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder lass jemanden 6 Liegest\u00fctze machen. Macht er sie nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder lass jemanden 7 Liegest\u00fctze machen. Macht er sie nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder lass jemanden 8 Liegest\u00fctze machen. Macht er sie nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true
-    },
-    {
-        "text": "Verteile {int} Schl\u00fccke oder lass jemanden 9 Liegest\u00fctze machen. Macht er sie nicht, ext er sein Getr\u00e4nk",
-        "count": 1,
+        "text": "Verteile {int} Schl\u00fccke oder lass jemanden {int} Liegest\u00fctze machen. Macht er sie nicht, ext er sein Getr\u00e4nk",
+        "count": 10,
         "uses": 0,
         "rounds": 0,
         "personal": false,
