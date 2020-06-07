@@ -1,0 +1,5681 @@
+[
+    {
+        "text": "Verteile {int} Schl\u00fccke",
+        "count": 19,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinke {int} Schl\u00fccke",
+        "count": 18,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du bist Question-Master. Wer dir eine Frage beantwortet, trinkt einen Schluck. Der bisherige Question-Master ist es nun nicht mehr.",
+        "count": 11,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Bestimme einen Mitspieler. Dieser darf {int} Schl\u00fccke verteilen.",
+        "count": 10,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Bestimme eine Kategorie (z.B. Automarken). Jeder nennt nun reihum etwas aus dieser Kategorie. Wer nichts mehr wei\u00df oder etwas wiederholt, trinkt {int} Schl\u00fccke.",
+        "count": 10,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle trinken {int} Schl\u00fccke",
+        "count": 8,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Sag ein Wort. Der Erste nach der Reihe, der kein Reim auf das Wort findet, trinkt {int} Schl\u00fccke",
+        "count": 8,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Denke dir eine Regel und eine Strafe, f\u00fcr den Bruch dieser Regel, aus. Diese Regel ist g\u00fcltig bis zum Ende des Spiels. Wahlweise darfst du auch stattdessen eine aktive Regel aufheben",
+        "count": 8,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "{int} Schl\u00fccke f\u00fcr dich.",
+        "count": 7,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Umarme eine Person deiner Wahl und trinke mit ihr {int} Schl\u00fccke",
+        "count": 6,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Ex dein Getr\u00e4nk.",
+        "count": 6,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die gerade Vodka trinken, verteilen {int} Schl\u00fccke.",
+        "count": 5,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die gerade Whisky trinken, verteilen {int} Schl\u00fccke.",
+        "count": 5,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die gerade Rum trinken, trinken {int} Schl\u00fccke.",
+        "count": 5,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die gerade Bier trinken, trinken {int} Schl\u00fccke.",
+        "count": 5,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die gerade Wein trinken, trinken {int} Schl\u00fccke.",
+        "count": 5,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Der Gastgeber verteilt {int} Schl\u00fccke. Gibt es keinen Gastgeber, trinken alle gemeinsam einen Schluck.",
+        "count": 5,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du beginnst mit \"Ich packe meinen Koffer\". Im Uhrzeigersinn nennt jeder Spieler etwas, das er mit in den Koffer packt. Der Verlierer trinkt {int} Schl\u00fccke.",
+        "count": 5,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der alle Folgen von \"How to sell drugs online\" gesehen hat, darf {int} Schl\u00fccke verteilen.",
+        "count": 4,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die Braunhaarigen unter euch trinken {int} Schl\u00fccke.",
+        "count": 4,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die Schwarzhaarigen unter euch trinken {int} Schl\u00fccke.",
+        "count": 4,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die Blondhaarigen unter euch trinken {int} Schl\u00fccke.",
+        "count": 4,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die Rothaarigen unter euch trinken {int} Schl\u00fccke.",
+        "count": 4,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Raucher trinken {int} Schl\u00fccke.",
+        "count": 4,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Nicht-Raucher verteilen {int} Schl\u00fccke.",
+        "count": 4,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die M\u00e4dels trinken so viele Schl\u00fccke, wie hei\u00dfe Kerle hier mitspielen.",
+        "count": 4,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "M\u00e4dels, ihr trinkt eure K\u00f6rpchengr\u00f6\u00dfe in Schlucken (A = 1, B = 2, etc.)",
+        "count": 4,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber permanent schlecht frisiertes und fettiges Haar oder immer eklige Z\u00e4hne haben? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 4,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber nie mehr Popel haben oder nie mehr schwitzen? Stimmt gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 4,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Der/diejenige, der/die zuletzt Flashclub gespielt hat, verteilt {int} Schl\u00fccke",
+        "count": 4,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du Flashclub noch nicht runtergeladen hast (wie kannst du nur..)",
+        "count": 4,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Riech an den F\u00fc\u00dfen aller Spieler oder trink {int} Schl\u00fccke.",
+        "count": 4,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Studenten trinken {int} Schl\u00fccke.",
+        "count": 3,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Azubis trinken {int} Schl\u00fccke.",
+        "count": 3,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn gerade Deutschrap l\u00e4uft, verteilst du {int} Schl\u00fccke.",
+        "count": 3,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn gerade Rock l\u00e4uft, verteilst du {int} Schl\u00fccke.",
+        "count": 3,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn gerade Pop l\u00e4uft, verteilst du {int} Schl\u00fccke.",
+        "count": 3,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn gerade Schlager l\u00e4uft, trinkst du {int} Schl\u00fccke.",
+        "count": 3,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Strategie-Videospiele\", du beginnst.",
+        "count": 3,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wer aus der Runde keine blaue Jeans an hat, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wer im Monat April oder November Geburtstag hat, muss einen Shot trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wessen Name mit \u201eS\u201c beginnt oder mit \u201eA\u201c endet, muss sein Glas austrinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wer sich nicht traut, seinen rechten Nachbarn auf die Backe zu k\u00fcssen, muss {int} Schl\u00fccke trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wer sich nicht traut, seinen rechten Nachbarn auf den Mund zu k\u00fcssen, muss {int} Schl\u00fccke trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Redet euch eine Viertelstunde nur mit \u201eSie\u201c an. Wer dagegen verst\u00f6\u00dft, muss einen Shot trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Ihr d\u00fcrft eine halbe Stunde nur noch fl\u00fcstern. Wer dagegen verst\u00f6\u00dft, muss sein Glas austrinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wer \u00e4lter als 25 und j\u00fcnger als 40 ist, trinkt {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Ihr d\u00fcrft eine halbe Stunde keine Frage stellen oder m\u00fcsst einen Shot trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Ihr d\u00fcrft nur aufs Klo gehen, nachdem ihr einen Shot getrunken habt.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Ihr d\u00fcrft nur noch mit der linken Hand trinken und wer dagegen verst\u00f6\u00dft, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die die Zunge rollen k\u00f6nnen, sind safe. Alle anderen m\u00fcssen einen Schluck trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Haltet f\u00fcr 30 Sekunden alle die Luft an und steht dabei auf einem Bein. Wer vorher ausatmet oder umf\u00e4llt, muss sein Glas austrinken. Derjenige, der diese Regel vorliest, stoppt die Zeit. Er muss nat\u00fcrlich nicht mitmachen.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinkt euer Glas aus. Der Letzte trinkt die n\u00e4chsten 3 Runden doppelte Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der alle Folgen von \"Haus des Geldes\" gesehen hat, darf {int} Schl\u00fccke verteilen.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der schon einmal die Serie \"Prison Break\" gesehen hat, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der schon einmal die Serie \"Breaking Bad\" gesehen hat, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der schon einmal einen \"Herr der Ringe\"-Film gesehen hat, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der schon einmal einen \"Star Wars\"-Film gesehen hat, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder trinkt mit seinem rechten Nachbarn auf die Br\u00fcderschaft. Vorher tauscht ihr eure Getr\u00e4nke und umarmt euch.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle BVB-Fans m\u00fcssen einen Schluck trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Bayern-M\u00fcnchen-Fans m\u00fcssen einen Schluck trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Lockenk\u00f6pfe m\u00fcssen einen Shot trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Kurzhaarigen m\u00fcssen einen Shot trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Langhaarigen trinken die n\u00e4chsten 3 Runden doppelt.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Brillentr\u00e4ger m\u00fcssen drei Sch\u00fccke trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Hundebesitzer trinken die n\u00e4chsten 3 Runden doppelt.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Einer bekommt f\u00fcr den ganzen Abend den Namen \u201eHorst\u201c. Sobald jemand ihn nicht mit diesem Namen anredet, muss derjenige einen Kurzen trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder muss seinem Nachbarn die Hand f\u00fcr f\u00fcnf Minuten auf den Schritt legen. Wer sich nicht traut, muss einen Schnaps trinken, den derjenige ausw\u00e4hlt.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle in der Runde, die schon einmal etwas miteinander hatten, m\u00fcssen das Getr\u00e4nk desjenigen auf ex austrinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Einer aus der Runde muss seinem Ex oder seiner Ex schreiben, dass es ihm leidtut, wie er sich damals verhalten hat. Wer sich nicht traut, muss zwei Shots auf ex trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle von euch m\u00fcssen 10 Liegest\u00fctzen machen. Wer es innerhalb von einer Minute nicht schafft, muss ein alkoholisches Getr\u00e4nk zu sich nehmen, dass er sonst nicht gern mag.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle aus der Runde, die schon Tante oder Onkel sind, m\u00fcssen ein Bier trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Bis zum Ende des Spiels sind die W\u00f6rter \u201eFuck\u201c und \u201eSchei\u00dfe\u201c verboten. Wer dagegen verst\u00f6\u00dft, muss immer zwei Schl\u00fccke trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der eine Silvia pers\u00f6nlich kennt, muss f\u00fcnf Schl\u00fccke trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Tauscht einmal komplett reihum die Getr\u00e4nke jeweils mit dem linken Sitznachbarn.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Avicii Fans, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Z\u00e4hlt nach der Reihe St\u00e4dte auf, die mit dem Buchstaben D anfangen. Der Erste, der eine Stadt nicht wei\u00df oder doppelt sagt, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Capital Bra Fans, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wer als Letzter \"Apfelkuchen\" schreit, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Der Gr\u00f6\u00dfte in der Runde, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Der Kleinste in der Runde, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die vergeben sind, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die single sind, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die verheiratet sind, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wer nicht wei\u00df, wer Isaac Newton ist, trinke {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle klatschen in die H\u00e4nde und trinken danach {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wer als Letzter einen Pokemon-Namen schreit, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Anstatt \"Trinken\" m\u00fcsst ihr absofort \"Konsumieren\" sagen. Wer diese Regel bricht, trinkt einen Schluck.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle trinken {int} Schl\u00fccke. Wer nicht trinken will, macht stattdessen 9 Liegest\u00fctze",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die das Flashclub-Trinkspiel heute das erste Mal spielen, trinken gemeinsam {int} Schl\u00fccke. Willkommen im Flashclub!",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der ein Festival-B\u00e4ndchen tr\u00e4gt, trinkt f\u00fcr jedes B\u00e4ndchen {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Trailerpark Fans, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die schon einmal auf einem Konzert waren, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die schon einmal auf einem Festival waren, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die keinen Autof\u00fchrerschein besitzen, trinken {int} Schl\u00fccke. Der Rest, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Einmal im Uhrzeigersinn: Jeder nennt die Anzahl der Punkte auf seinem F\u00fchrerschein und trinkt soviele Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder der ein gerades Alter hat, trinkt einen Schluck.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der noch zur Schule geht, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder der in der Metallbranche arbeiten, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die im Marketing arbeiten, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wer ein Auto besitzt, trinkt {int} Schl\u00fccke. Wer nicht, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle die 2000 oder danach geboren sind, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wer vor 2000 geboren ist, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wer als Letzter seinen Namen sagt, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der diesen Monat Geburtstag hat, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die eine schwarze Unterhose tragen, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die eine wei\u00dfe Unterhose tragen, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Uhrentr\u00e4ger verteilen {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn ihr heute noch vor habt in einen Club oder auf ein Fest zu gehen, trinkt gemeinsam {int} Schl\u00fccke. Wir w\u00fcnschen euch viel Spa\u00df!",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Bestimmt den Ausrei\u00dfer des Abends, er trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder der ein Samsung Smartphone nutzt, verteilt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder der ein Apple Smartphone nutzt, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Markenb*tches, die mehr als 3 Sachen von einer Marke an haben, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wer heute mit Nike Schuhen gekommen ist, trinkt {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wer heute mit Adidas Schuhen gekommen ist, verteilt {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die T\u00e4towierten unter euch trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die gepierct sind, trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder der in den letzten 48 Stunden Geschlechtsverkehr hatte, verteilt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wer in den letzten 72 Stunden masturbiert hat, verteilt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Der letzte, der heute auf dem Klo war, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Katzenbesitzer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der mindestens einen Kratzer oder anderen Schaden auf seinem Smartpohne-Display hat, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder der ein T-Shirt tr\u00e4gt, verteilt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die einen Hoodie tragen, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die sich im letzten Monat einen Porno angesehen haben, verteilen {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die Geschminkten unter euch trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Dorfkinder trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wer in einer Stadt wohnt, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder Netflix-Schnorrer, der den Account eines anderen nutzt, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber einen Pferdeapfel oder einen Hamster essen?",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber unbegrenzt viele Bekanntschaften haben oder die Welt regieren? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die aus dem S\u00fcden kommen, trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber als total bekloppt durchgehen oder einfach stinklangweilig normal sein? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die ihre Nase mit ihrer Zunge ber\u00fchren k\u00f6nnen, verteilen {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteil {int} Schl\u00fccke, wenn du schon einmal Sex hattest, obwohl deine Freunde im selben Raum geschlafen haben",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal in einen Blumentopf gepinkelt hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die Person, die k\u00fcrzsten Weg hierher hatte, trinkt {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber mit 1 Million Euro vorzeitig in Rente gehen oder euren Traumjob haben, und dabei 2000 Euro pro Monat verdienen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die Beschnittenen trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber der beste Kumpel von Harry Potter sein oder von Katniss Everdeen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Breakdance oder Capoeira perfekt beherrschen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile {int} Schl\u00fccke, wenn du schon einmal in einem anderen Land gelebt hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber fliegen oder sich jederzeit unsichtbar machen k\u00f6nnen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber BMW oder Audi? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "W\u00e4hlt den Handys\u00fcchtigsten unter euch. Er trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die schon einmal gekifft haben, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die schon einmal Drogen au\u00dfer Gras genommen haben, trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der in einem Verein ist, verteilt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die Hauptsch\u00fcler unter euch verteilen {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die Realsch\u00fcler unter euch verteilen {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die Abiturienten unter euch verteilen {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber D\u00f6ner oder Pizza? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber seine Tr\u00e4ume kontrollieren oder sie filmen k\u00f6nnen, um sie sich danach anzugucken? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber niemals sein Herkunftsland verlassen oder niemals ein Auto fahren? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Der/diejenige mit der gr\u00f6\u00dften Nase trinkt {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "W\u00e4hlt den H\u00fcbschesten unter euch. Er trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Einer z\u00e4hlt bis 3. Gleichzeitig zeigt ihr auf den Schlausten unter euch. Er trinkt {int} Schl\u00fccke. Lasst uns Hirnzellen verbrennen.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Der/die Letzte, der beim Feiern gekotzt hat, trinkt {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber ein Bankkonto mit 10 Milliarden Euro haben oder 3 W\u00fcnsche ohne Geld erf\u00fcllen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du dich diese Woche schon einmal mit deinem/r Partner/in gestritten hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der brav sein Fitness-Studio-Abo zahlt, aber nicht hin geht, trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Mc Donalds oder Burger King? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Basketball- und Handballspieler trinken {int} Schl\u00fccke!",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Fu\u00dfballer trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Kampfsportler trinken {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Der/diejenige mit den wenigsten Haaren trinkt {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Derjenige mit dem gr\u00f6\u00dften Bart unter euch trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber dir von montags bis freitags nicht mehr den Hintern abwischen oder am Wochenende nicht mehr poppen k\u00f6nnen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber eine Flasche Palm\u00f6l trinken oder 400 g Entenfett essen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die schnarchen, trinken {int} Schl\u00fccke und machen dabei Schnarchger\u00e4usche",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Wangen haben, die st\u00e4ndig unabh\u00e4ngig von einander ihre Gr\u00f6\u00dfe \u00e4ndern oder dasselbe Ph\u00e4nomen bei deinen Pobacken haben? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die sich den Anus rasieren oder epilieren, trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Kippen anstelle der Z\u00e4hne oder keine Nase haben? Stimmt gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die heute schon kacken waren, trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber eine siamesische Zwillingsschwester haben oder eine Ratte sein? Stimmt gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Blut ejakulieren oder Sperma bluten? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder trinkt so viele Schl\u00fccke wie er denkt, dass Idioten anwesend sind",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber dein Geschlechtsteil mit einem Taser 2 Sekunden lang unter Strom setzen oder einen Shot Regelblutung trinken? Stimmt gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber einen einzigen Freund das ganze Leben haben oder jedem Unbekannten auf der Stra\u00dfe die Finger in die Augen stecken wollen? Stimmt gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Daf\u00fcr oder dagegen 100.000\u20ac zu gewinnen und deine/n beste/n Freund/in 10 Minuten lang foltern zu lassen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber f\u00fcr den Rest deines Lebens Atem haben, der nach Pfurz oder nach Wichse riecht? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Bier anstelle von Wasser trinken oder dein Leben mit Maske und Schnorchel verbringen m\u00fcssen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die liebend gerne mit ihrem/r rechten Nachbarn/in f*cken w\u00fcrden, trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Weltmeister im Boxen oder Fu\u00dfball sein? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die schon einmal masturbiert haben und dabei an eine/n Freund/in gedacht haben, trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber den Anus eines Hundes lecken oder ihm einen blasen? W\u00e4hlt alle gleichzeitig, die Minderheit trinkt {int} Schl\u00fccke!",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber einen halben Liter Kotze trinken, die nicht von dir stammt oder mit einer 500 kg schweren Person Liebe machen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber jederzeit unersch\u00f6pflich Schlagsahne aus deinem Finger herausholen oder einen Camembert jederzeit wieder herausw\u00fcrgen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber jeden Tag neue wei\u00dfe Pickel im Gesicht haben oder Essig als Speichel haben? Stimmt gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "M\u00f6chtest du lieber niemals eine sexuelle Erfahrung gemacht haben oder zuf\u00e4llig eine sexuell \u00fcbertragbare Krankheit bekommen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber keine H\u00e4nde haben oder einen dicken nackten Kerl, der dich ausspioniert und dir \u00fcberall hinfolgt? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Kumpel von King Kong oder Godzilla sein? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber mit einem Analplug Sex machen, der jedes Mal tief reingeht oder einmal mit einem zuf\u00e4lligen Familienmitglied Vorspiel machen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, deren Glas weniger als halb voll ist, trinken auf ex!",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "M\u00f6chtest du in deinem Wohnzimmer lieber ein Bild mit Kacke oder eine Penis-Skulptur haben? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber blind und ohne Arme oder taub und ohne Beine sein? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber bei jedem Augenzwinkern den Ton einer Glocke im Kopf haben oder jedes Mal, wenn du jemanden ansprichst, mit \u201eIch bin solo\u201c beginnen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber eine ultra-sexistische oder ultra-rassistische Schwiegerfamilie haben? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber lebenslang Durchfall haben oder beim Sprechen miauen? W\u00e4hlt alle gleichzeitig, die Minderheit trinkt {int} Schl\u00fccke!",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die sich schon einmal einen Finger in den Hintern gesteckt haben, trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber nach dem kleinsten Tropfen Alkohol v\u00f6llig betrunken sein und \u00fcberall hinkotzen oder 3 Flaschen starken Alkohol trinken m\u00fcssen, um betrunken zu sein? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber einem Kind sagen m\u00fcssen, dass es den Weihnachtsmann nicht gibt oder ihm auf einem Whiteboard erkl\u00e4ren, wie Sex funktioniert? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber blind sein oder einen Penis an der Schulter wachsen haben? W\u00e4hlt alle gleichzeitig, die Minderheit trinkt {int} Schl\u00fccke!",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Der/diejenige, der/die sich zuletzt masturbiert hat, trinkt {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Der/diejenige, der/die zuletzt kotzt hat, verteilt {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber einer Schildkr\u00f6te einen Cunnilingus machen oder einem Labrador einen herunterholen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber \u201eGuten Tag\u201c gegen \u201eSchnauze\u201c oder \u201eDanke\u201c gegen \u201edumme Kuh\u201c eintauschen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber mit den Fingern schnipsen, damit jemand auf die Nase f\u00e4llt oder damit er einen Riesenr\u00fclps ausst\u00f6\u00dft? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die Person, die zuerst das Geburtsjahr von Jesus nennt, verteilt {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die schon einmal wegen einer Zeichentrickfigur fantasiert haben, trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der gern Pickel ausdr\u00fcckt, trinkt {int} Schl\u00fccke, +1, wenn der-/diejenige das auch gern bei anderen macht.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Von den M\u00e4dels, diejenige, die zuletzt ihre Tage hatte, trinkt {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die beim Vorspiel schon einmal ein paar Tropfen Pisse geschmeckt haben, trinken {int} Schl\u00fccke!",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Gandalf oder Gimli einen blasen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber eine Woche aufs Z\u00e4hneputzen oder aufs Duschen verzichten? W\u00e4hlt gleichzeitig, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Sich lieber in ein beliebiges Tier verwandeln oder in eine andere Person? W\u00e4hlt gleichzeitig, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Kreaturen durch die Gedanken erschaffen k\u00f6nnen oder 300 Euro pro Tag bekommen, die nur in Kleidugn ausgegeben werden k\u00f6nnen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber lispeln oder schielen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber dein Leben ab dem 14. Lebensjahr mit deinem jetzigen Gehirn neu anfangen oder Supermans Kraft haben? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Der/diejenige mit den l\u00e4ngsten Haaren trinkt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Es trinken alle {int} Schl\u00fccke, die ein gerades Alter haben",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinke {int} Schl\u00fccke oder gib einem Spieler deiner Wahl 1 Euro.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile {int} Schl\u00fccke oder erhalte f\u00fcr eine Runde Immunit\u00e4t",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinke {int} Schl\u00fccke oder verteile {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile {int} Schl\u00fccke und trinke {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile soviele Schl\u00fccke, wie du m\u00f6chtest. Du trinkst jeden Schluck mit.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinke {int} Schl\u00fccke oder gib dir 3 Backpfeifen",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Sage den Zungenbrecher \"Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschw\u00e4tzige Schwalben.\" auf. Schaffst du es, verteile {int} Schl\u00fccke. Schaffst du es nicht, trinke sie selbst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Stelle, einem Mitspieler deiner Wahl, eine Additionsaufgabe, welche aus zwei Zahlen zwischen 0 und 100 besteht. Schafft er sie nicht innerhalb von 10 Sek zu l\u00f6sen, trinkt er {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Dein linker Sitznachbar darf dir einen Spitznamen geben. Diesen Namen beh\u00e4ltst du bis zum Ende des Spiels. Jeder der dich mit deinem richtigen Namen anspricht, trinkt jeweils {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile {int} Schl\u00fccke. Diese m\u00fcssen auf mindestens 2 Personen aufgeteilt werden",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Exe dein Getr\u00e4nk oder frag in die Runde wie viel Geld es kosten w\u00fcrde, dass du nicht exen musst. Bezahl den Spieler mit dem niedrigsten Angebot oder ex dein Getr\u00e4nk.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Denke dir eine Regel und eine Strafe, f\u00fcr den Bruch dieser Regel, aus. Diese Regel ist g\u00fcltig bis zum Ende des Spiels. Wahlweise darfst du auch stattdessen eine aktive Regel aufheben.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile {int} Schl\u00fccke, trinke {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinke, die letzte Ziffer deiner Handynummer, als Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Schreibe jemandem den Satz \"Ich habe Vagina-Herpes\". Machst du es nicht trinke {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Dein rechter Sitznachbar ist nun dein Trinkpartner. Ihr trinkt immer die selbe Anzahl an Schl\u00fccken. Diese Regel geht bis zum Spielende.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du nicht wei\u00dft, wer Elon Musk ist, trinke {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Schreibe jemandem den Satz \"Hodenkobolde sind seltene Tiere\". Machst du es nicht trinke {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Ber\u00fchre jemanden an seinem Arsch. Danach trinkt jeder von euch beiden {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du musst, bis zum Ende des Spieles, immer wenn du dran bist dein linken Fuss ber\u00fchren. Machst du es nicht trinke {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, au\u00dfer du, exen ihr Getr\u00e4nk",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du darfst einmalig zu einem Zeitpunkt, den du bestimmst {int} Schl\u00fccke verteilen.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Sch\u00fcttel einem Spieler deiner Wahl die Hand und trinke mit ihm {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Erz\u00e4hle ein Witz. Wenn keiner lacht, trinke {int} Schl\u00fccke. Wenn dir kein Witz einf\u00e4llt, ext du dein Glas.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "W\u00e4hle einen Spieler aus. Er entscheidet wie viele Schl\u00fccke du trinken musst. Die Anzahl darf nicht {int} Schl\u00fccke \u00fcbersteigen",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lecke am Mittelfinger deines linken Mitspielers oder trinke {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, einmal in die H\u00e4nde klatschen. F\u00fcr jeden Bruch der Regel, trinkst du {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du heute das erste Mal das Flashclub-Trinkspiel spielst, trinke {int} Schl\u00fccke. Willkommen im Flashclub!",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verstecke etwas in deiner geschlossenen Faust. Wer nicht err\u00e4t, in welcher Hand es sich befindet, muss {int} Schl\u00fccke trinken.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Erkl\u00e4re der Gruppe einen Begriff, den sich derjenige aussucht, der vorliest (er spielt diese Runde nicht mit). Err\u00e4t es jemand, darf er {int} Schl\u00fccke verteilen, wenn nicht, trinkst du {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Sage den Namen jedes Mitspielers mit seinem Alter. F\u00fcr jeden Fehler trinkst du {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Sage den Namen jedes Mitspielers mit dem Monat seines Geburtstags. F\u00fcr jeden Fehler trinkst du {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du willst, exe jetzt dein Getr\u00e4nk und die n\u00e4chsten Schl\u00fccke die du vergeben darfst werden einmalig verdreifacht.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder Mitspieler darf die Hand heben. Wenn mehr als die H\u00e4lfte aller Mitspieler dies tun, ext du dein Glas. Ansonsten nicht.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Ist es gerade zwischen 19 und 22 Uhr, trinke {int} Schl\u00fccke. Ist es zwischen 22 und 2 Uhr, verteile {int} Schl\u00fccke. Trifft nichts zu, trinkt jeder {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du sprichst bis dein Getr\u00e4nk leer ist, nur noch englisch. F\u00fcr jeden Fehler f\u00fcllen wir einen Schluck Alkohol in dein Glas.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Schreibe jemandem \u00fcber SMS oder WhatsApp, der nicht im Raum ist. Frage diese Person, wie das neue Justin Bieber Album hei\u00dft. Machst du es nicht, trinke {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wirf eine M\u00fcnze. Bei Kopf trinken alle {int} Schl\u00fccke, bei Zahl trinken alle {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du schon einmal einen Motorroller gefahren bist, trinke {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Geh\u00f6rst du zu den 94,6% der Menschheit, die das Gef\u00fchl kennen, wenn der Cityroller gegen den Kn\u00f6chel knallt? Wenn ja, trinke {int} Schl\u00fccke. Wenn nicht, verteile sie.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile {int} Schl\u00fccke und bestimme jemanden der auch {int} Schl\u00fccke verteilen darf",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jedes Mal, wenn jemand dein Namen sagt, darfst du {int} Schl\u00fccke verteilen. Die Regel gilt bis zum Ende des Spieles",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du hei\u00dft bis zum Ende des Spiels Kim Jong-un. Jeder der dich mit deinem richtigen Namen anspricht trinkt {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du in Deutschland geboren bist, verteile {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du im Ausland geboren bist, verteile {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Suche dir einen Mitspieler aus. Nach 3 Sekunden schreit jeder von euch gleichzeitig eine Zahl zwischen 1 und 5. Schreit ihr die selbe Zahl, trinkt ihr beide {int} Schl\u00fccke. Schreit ihr eine unterschiedliche Zahl, trinkst nur du {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Mache ein Selfie mit deinem linken Nachbarn und trinkt gemeinsam {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du wei\u00dft, wie der Bundespr\u00e4sident hei\u00dft, verteile {int} Schl\u00fccke. Wenn nicht, trinke {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Ist es zwischen 13 und 17 Uhr, trinke {int} Schl\u00fccke. Ist es zwischen 17 und 23 Uhr, verteile {int} Schl\u00fccke. Trifft beides nicht zu, passiert nichts.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der dir am Ellenbogen leckt, darf {int} Schl\u00fccke verteilen. Will es keiner machen, darfst du sie verteilen. L\u00e4sst du es nicht zu, trinkst du {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Sto\u00dfe mit deinem rechten Sitznachbarn an und trinkt gemeinsam einen Schluck.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Sto\u00dfe mit deinem linken Sitznachbarn an und trinkt gemeinsam einen Schluck.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Bestimme einen Spieler, der die n\u00e4chsten 3 Runden doppelte Schl\u00fccke trinkt.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Einmal im Uhrzeigersinn: Du trinkst {int} Schl\u00fccke, der N\u00e4chste {int} Schl\u00fccke, der N\u00e4chste {int} Schl\u00fccke, usw.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du schon einmal \u00fcber einen Dreier nachgedacht hast, trinke {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn gerade der Fernseher l\u00e4uft, verteilst du {int} Schl\u00fccke. Wenn nicht, trinkst du sie.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Besitzt du Spotify Premium, verteilst du {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Nutzt du Amazon Prime Music trinkst du {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du schon einmal Shisha geraucht hast, trinke {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du innerhalb der letzten Woche Shisha geraucht hast, verteile {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteil {int} Schl\u00fccke, wenn es hier Spieler gibt, mit denen du einen besonderen Check hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "\"Hunderassen\". Die Person, die keine Ideen mehr hat, oder eine Rasse wiederholt, trinkt {int} Schl\u00fccke! Du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "\"Farben der Power Rangers\". Die Person, die keine Ideen mehr hat, oder eine Farbe wiederholt, trinkt {int} Schl\u00fccke! Du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Sagt nacheinander \"Danke\" in einer anderen Sprache als auf Deutsch, derjenige, der etwas wiederholt oder nichts mehr wei\u00df, trinkt {int} Schl\u00fccke. Du beginnst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Personen, die betrunkener als du sind, trinken {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Horrorfilme\". Du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal ein Gummi unbeabsichtigt herausgeholt hast, vor Personen, die es lieber nicht sehen sollten",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile f\u00fcr jedes E in deinem Vornamen einen Schluck und trinke f\u00fcr jedes A einen selbst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Neues Thema und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Figuren aus dem K\u00f6nig der L\u00f6wen\". Du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Neues Thema und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Deutsche Rapper\". Du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Neues Thema und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Vodkamarken\". Du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Neues Thema und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Whiskymarken\". Du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Neues Thema und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Biermarken\". Du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Neues Thema und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Verh\u00fctungsmittel\". Du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Neues Thema und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Diskotheken im Umkreis von 100 Kilometer\". Du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Einmal im Uhrzeigersinn: Jeder sagt das, was beim ersten Date am Schlimmsten ist. Anschlie\u00dfend stimmt ihr ab, wessen Argument das Schlimmste war. Derjenige verteilt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Nenne ein Lied von Peter Fox. Wenn du eins wei\u00dft, verteile {int} Schl\u00fccke, wenn nicht trinke sie.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Nenne ein Lied von Bon Jovi. Wenn du eins wei\u00dft, verteile {int} Schl\u00fccke, wenn nicht trinke {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Nenne eine Band, die sich aufgel\u00f6st hat. Wenn du eine wei\u00dft, verteile {int} Schl\u00fccke, wenn nicht trinke {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Hat dein linker Nachbar einen Zweitnamen? Wei\u00dft du es, trinkt ihr gemeinsam {int} Schl\u00fccke. Falls nicht, trinkst nur du sie.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn man dir schon mal eine Flashclub-Regel erneut vorlesen musste, weil du nicht zugeh\u00f6rt hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteil {int} Schl\u00fccke, wenn du schon einmal gelaufen bist, um dein Leben zu retten",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke aus dem Glas deines rechten Nachbarn.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du schon einmal der Chauffeur f\u00fcr alle warst, verteile {int} Schl\u00fccke. Ansonsten trink sie selbst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du trinkst {int} Schl\u00fccke und verteilst {int} Schl\u00fccke",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteil {int} Schl\u00fccke an einen Spieler, der gr\u00f6\u00dfer ist als du, wenn m\u00f6glich. Ansonsten trink sie selbst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du in der Regel nackt schl\u00e4fst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle W\u00f6rter/Ausdr\u00fccke f\u00fcr \"Vagina\". Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schl\u00fccke! Du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du bei der letzten Party erst nach 6 zu Hause warst, verteile {int} Schl\u00fccke, ansonsten trink sie selbst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal einen Lehrer bl\u00f6d angemacht hast, ansonsten verteile sie",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Neues Thema und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Hei\u00dfe S\u00e4nger\", du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Hattest du schon einmal einen One-Night-Stand? Wenn ja, verteile {int} Schl\u00fccke, wenn nicht, dann trink sie selbst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Les die erste Nachricht vor, die angezeigt wird, wenn du \"Sorry\" in die WhatsApp-Suchleiste eingibst. Wenn du dich weigerst: {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Les die erste Nachricht vor, die angezeigt wird, wenn du \"Sex\" in die WhatsApp-Suchleiste eingibst. Wenn du dich weigerst: {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Neues Thema und {int} Schl\u00fccke f\u00fcr den Verlierer: \"KFC Burger\", du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile {int} Schl\u00fccke, wenn du noch nie einen der Wilde Kerle Filme gesehen hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Dinge, die weniger als 1 Minute brauchen\", du beginnst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du es dir schon mal selbst gemacht hast, um besser schlafen zu k\u00f6nnen",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile {int} Schl\u00fccke an eine Person, die heute Abend schon pinkeln war",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Einmal im Kreis: Jeder sagt etwas, was er/sie noch nie gemacht hat. Alle, die es schon einmal gemacht haben, trinken. Du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Dinge, die man nicht mehr macht, wenn man alt ist\", du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du schon einmal einen anderen Spieler zu dir eingeladen hast, bei dir Party zu machen, verteile {int} Schl\u00fccke. Ansonsten trink sie selbst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du ein Hemd oder eine Bluse tr\u00e4gst, du Spie\u00dfer.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Mach einen Handstand oder trink {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile {int} Schl\u00fccke, wenn du schon einmal au\u00dferhalb von Europa verreist bist",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du Sandalen/Flip-Flops tr\u00e4gst, verteile {int} Schl\u00fccke - wenn nicht, dann trink sie selbst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn deine F\u00fc\u00dfe kleiner sind, als die deines rechten Nachbarn, trink {int} Schl\u00fccke, ansonsten verteil sie",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn dein linker Nachbar gr\u00f6\u00dfere H\u00e4nde als du hat, trinke {int} Schl\u00fccke. Ansonsten verteilst du sie.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal einen Wettbewerb im Auf-ex-Trinken gemacht hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinke {int} Schl\u00fccke, falls einer deiner Kumpel schon mal beim Sex eingeschlafen ist. +1, wenn du es warst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Falls du schon mal komplett angezogen geduscht hast, weil du zu betrunken warst, trink {int} Schl\u00fccke. Falls nicht, verteile sie",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal auf dem Boden geschlafen hast, obwohl in 20 Metern ein Bett frei war",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteil {int} Schl\u00fccke, wenn du schon einmal einen freundschaftlichen Kuss auf den Hintern einer anderen Person gegeben hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinke zwei Gl\u00e4ser deiner Wahl aus",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du dir im Unterricht schon einmal in die Hose gekackt hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal eine Klistierspritze gekauft hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink dein Glas aus, w\u00e4hrend alle Anderen dich beleidigen",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Idiotenduell zwischen dir und deinem linken Nachbarn! Der/diejenige, der/die sich am st\u00e4rksten auf den Hintern schl\u00e4gt, gewinnt. Der Verlierer trinkt {int} Schl\u00fccke!",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Orte, an denen du gekotzt hast\", die Person, die wiederholt oder nichts mehr wei\u00df, trinkt {int} Schl\u00fccke! Du beginnst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Leck den Boden oder trink {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alles, was stinkt\", die Person, die wiederholt oder nichts mehr wei\u00df, trinkt {int} Schl\u00fccke! Du beginnst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lass dir etwas auf die Wange schreiben oder trink {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn auch du deine Latte versteckst, indem du sie unter das Gummiband der Boxershorts klemmst, trink {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal jemandem deine Finger in den Mund gesteckt hast, um ihm an der Innenseite der Wangen zu ziehen",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink so viele Schl\u00fccke, wie dumme Personen im Raum sind",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteil {int} Schl\u00fccke, wenn du schon mit mehr als 20 Personen Sex hattest",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du schon einmal deinen Finger, der nach Anus oder Muschi riecht, einem/r Freund/in unter die Nase gehalten hast, verteil {int} Schl\u00fccke. Ansonsten trink sie selbst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Leck die Nippel aller Freiwilligen ab und trinke f\u00fcr jeden, der sich meldet!",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Falls du ein Mann bist, schicke ein Foto deines Penis an eine Ex oder trinke {int} Schl\u00fccke. Falls du eine Frau bist, muss es dein Slip sein",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinke das Glas vom Spieler deiner Wahl aus",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Zieh einen Morgenmantel an und frag beim Nachbarn nach Eisw\u00fcrfeln f\u00fcr dein Getr\u00e4nk oder trink {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteil {int} Schl\u00fccke, wenn du schon eine Person des gleichen Geschlechts gek\u00fcsst hast. Ansonsten trink sie selbst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Denk an eine \u00e4u\u00dferst hei\u00dfe amerikanische Schauspielerin. Alle Spieler werden nacheinander versuchen es herauszufinden. Der Erste, der es herausfindet darf {int} Schl\u00fccke austeilen. Dein linker Nachbar f\u00e4ngt an.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Erz\u00e4hl einen dreckigen Witz. Wenn dir keiner einf\u00e4llt oder niemand lacht, trink {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du schon einmal versucht hast, dich mit einem Produkt zuzudr\u00f6hnen, das hierf\u00fcr urspr\u00fcnglich nicht gedacht war, verteil {int} Schl\u00fccke. Ansonsten trink sie selbst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "W\u00e4hle zwischen {int} Schl\u00fccke trinken, oder die F\u00fc\u00dfe deines rechten Nachbarn k\u00fcssen",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Stecke einen Strumpf in deinen Mund oder trinke {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Dreh dich 5 Mal im Kreis und trink jedes Mal einen Schluck, wenn du dich zu den Idioten drehst, die dich angucken",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinke einen Schluck durch deine Socke oder trink dein Glas aus",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du beim Masturbieren schon einmal an deine/n Cousin/e gedacht hast, trink {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lass dich von jedem Spieler einmal ohrfeigen oder trink {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Der/die Spieler, der/die den \u00e4ltesten Sexpartner hatte, verteilt {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal deine Hand in die Hose gesteckt hast, um zu pr\u00fcfen, ob beim Furz nicht mehr rausgekommen ist",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal Fotos von deiner Kacke verschickt hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du regelm\u00e4\u00dfig Fotos vom Klo aus verschickst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinke {int} Schl\u00fccke, falls man dir schon mal ein Wattest\u00e4bchen in den Penis gesteckt hat, weil du auf Chlamydien oder andere Geschlechtskrankheiten getestet wurdest",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Denk an eine sexuell \u00fcbertragbare Erkrankung. Alle Spieler werden nacheinander versuchen es herauszufinden. Der Erste, der es herausfindet darf {int} Schl\u00fccke austeilen. Dein linker Nachbar f\u00e4ngt an.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink aus jeder Flasche, die auf dem Tisch steht",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Steck dir 5 Minuten lang die Zeigefinger in die Ohren oder trink pro Minute {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal in einem \u00f6ffentlichen Verkehrsmittel Sex hattest",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Kneif deinem rechten Nachbarn in die Brustwarzen oder trink {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Mach einen Radschlag oder trink {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Stecke Gras in dein Glas und trinke es aus.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du dich schon einmal in der \u00f6ffentlichen Dusche auf dem Campingplatz befummelt hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile {int} Schl\u00fccke, wenn du schon einmal in die Dusche gepinkelt hat. Ansonsten trink sie selbst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile {int} Schl\u00fccke, wenn du schon einmal in den Wald gekackt hast.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteil {int} Schl\u00fccke, wenn du schon einmal ins Essen gepisst hast, bevor du es jemandem zu essen gegeben hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteil {int} Schl\u00fccke, wenn du schon einmal ins Trinken gespuckt hast, bevor du es jemandem zu trinken gegeben hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Jobs, die oft in Pornos dargestellt werden\", du beginnst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"sexuelle oder \u00e4rztliche Praktiken, die \u00fcber den Anus laufen\", du beginnst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Beschimpfungen, die das Wort \"Schwanz\" beinhalten\", wer nichts mehr wei\u00df oder etwas wiederholt, trinkt {int} Schl\u00fccke. Du beginnst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Fr\u00fcchte, die in die Vagina einer Pornodarstellerin passen\", die Person, die wiederholt oder nichts mehr wei\u00df, trinkt {int} Schl\u00fccke! Du beginnst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinke {int} Schl\u00fccke, falls du schon mal auf dem Klo mit jemandem telefonierst hast, +{int} Schl\u00fccke falls es jemand aus deiner Familie war",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal mit deinem rechten Nachbarn gekotzt hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du dieses Jahr Verstopfung hattest, trink {int} Schl\u00fccke. Ansonsten verteil sie",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal in eine Menschenmenge gespuckt hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du dieses Jahr schon einmal krankgeschrieben warst, trink {int} Schl\u00fccke. Ansonsten verteile sie.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal \"Karotten Bukkake\" gegoogelt hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal mit jemandem Sex hattest und dich nicht mehr an den Vornamen erinnerst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn dein linker Nachbar dich schon einmal kotzen gesehen hat, trink {int} Schl\u00fccke. Ansonsten verteil sie",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal den Schwanz eines Kumpels auf freundschaftliche Weise ber\u00fchrt hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal deinen Finger in den Arsch deines Sexualpartners gesteckt und danach daran gerochen hast",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Fr\u00fcchte oder Gem\u00fcse, die nur zum Teil in den Arsch deines rechten Nachbars passen\", der Spieler, der etwas wiederholt oder nichts mehr wei\u00df, muss {int} Schl\u00fccke trinken. Du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Orte, an denen es erregend ist f\u00fcr einen Mann, Sperma abzuspritzen\", du beginnst.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke falls du schon mal einen Affen gesehen hast, der einem anderen einen bl\u00e4st. Falls es nicht der Fall ist, schau auf YouTube nach",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Denk an eine \u00e4u\u00dferst hei\u00dfe S\u00e4ngerin. Alle Spieler werden nacheinander versuchen es herauszufinden. Der Erste, der es herausfindet darf {int} Schl\u00fccke austeilen. Dein linker Nachbar f\u00e4ngt an",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Farben, die eine Brustwarze haben kann\", du beginnst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Teile {int} Schl\u00fccke aus, falls Sperma- oder Vaginalsekret-Flecken auf deiner Bettw\u00e4sche sind. Falls nicht, musst du sie trinken",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Tu 10 Sekunden lang so, als w\u00fcrdest du masturbieren",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Tauscht eure Gl\u00e4ser von rechts nach links. Du trinkst dein Glas aus, bevor du es abgeben musst",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Adjektive, die zu deinem linken Nachbarn passen\". Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schl\u00fccke! Du beginnst!",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du dich schon einmal arbeitslos melden musstest, trink {int} Schl\u00fccke, ansonsten verteil sie",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du ein Kondom einstecken hast, verteilst du {int} Schl\u00fccke.",
+        "count": 2,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle M\u00e4nner trinken!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Frauen trinken!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle M\u00e4nner trinken einen Schluck!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Frauen trinken einen Schluck!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle M\u00e4nner trinken zwei Schl\u00fccke!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Frauen trinken zwei Schl\u00fccke!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle M\u00e4nner trinken drei Schl\u00fccke!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Frauen trinken drei Schl\u00fccke!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle M\u00e4nner trinken vier Schl\u00fccke!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Frauen trinken vier Schl\u00fccke!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle M\u00e4nner trinken f\u00fcnf Schl\u00fccke!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Frauen trinken f\u00fcnf Schl\u00fccke!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Rum oder Whiskey? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die gerne in ihrer Freizeit Gitarre spielen, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber die Sonne 1 Minute lang ansehen oder 30 Minuten drau\u00dfen im Regen warten, ohne dich zu bewegen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Sich lieber mit einem Messer in den Bauch stechen lassen (ohne zu sterben) oder mit einer Waffe ins Knie schie\u00dfen lassen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber alle Spinnen und Insekten mit einem Blick t\u00f6ten oder eine Flamme am Zeigefinger aufflammen lassen k\u00f6nnen? W\u00e4hlt gleichzeitig, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Der Spieler, der zuletzt von der Polizei kontrolliert wurde, trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber im Wasser mit einem Alligator k\u00e4mpfen oder an Land gegen einen Tiger? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die Umweltwesen studieren oder in dieser Branche arbeiten, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Tattoos oder Piercings? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der in der Versicherungs- und Finanzbranche arbeitet, trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber ohne Beine oder ohne Arme leben? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber nie wieder Sex oder nie wieder Alkohol trinken? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber nie wieder Fleisch essen oder nie wieder feiern gehen?",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber doppelter Lohn oder doppelte Urlaubstage? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der in der Informatikbranche t\u00e4tig ist, trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Strandurlaub oder St\u00e4dtetrip? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, denen es nach der letzten Party ganz schlecht ging, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "F\u00fcr die Paare: Das Paar, das sich zuletzt gestritten hat, trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle \u00dcberflieger, die eine Klasse \u00fcbersprungen haben, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Der j\u00fcngste Spieler weint wie ein Baby und trinkt sein Glas aus",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Katze oder Hund? W\u00e4hlt gleichzeitig, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Spieler/innen, die es nicht schaffen, den Boden - stehend mit durchgestreckten Beinen - mit ihren H\u00e4nden zu ber\u00fchren, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber nur ein Glas Alkohol pro Party trinken k\u00f6nnen oder gezwungen sein, jede Party mit 5 Whiskys pur auf ex beginnen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die Person, die zuerst zwei Kleidungsst\u00fccke ausgezogen hat, verteilt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die schon einmal in Anwesenheit ihres Partners mit einer anderen Person geflirtet haben ... {int} Schl\u00fccke, ihr Verr\u00e4ter",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der schon einmal besoffen eine Business-Idee mit einem Freund hatte, trinkt {int} Schl\u00fccke. Ist er/sie da, trinkt ihr beide doppelt.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die Person, die zuletzt in einem Erlebnisbad war, trinkt {int} Schl\u00fccke!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Orangensaft pinkeln oder Spucke mit Zitronengeschmack haben? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die schon einmal heimlich die SMS im Handy ihres/seiner Partners/in gelesen haben, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber im Lotto gewinnen oder doppelt so alt werden, wie der Durchschnitt? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber 3 oder 14 Stunden pro Nacht schlafen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der seinen 18. Geburtstag gefeiert hat, trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die diesen Monat Geburtstag haben, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die schon einmal Mario Kart gespielt haben, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die schon einmal Mario Run gespielt haben, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber gesunde Nahrungsmittel bekommen, die wie von Zauberhand t\u00e4glich bei dir eintreffen oder ein lebenslanges Abonnement f\u00fcr s\u00e4mtlichen Fast Food und alle Buffets? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die es nicht schaffen, den oberen Rand ihres Glases komplett in den Mund zu nehmen, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du den Geschmack des Geschlechts deines/r Partners/in magst",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber 60 Euro pro Stunde bekommen oder 20 Euro, jedes Mal, wenn Du \u00f6ffentlich \u201eFUCK\u201c rufst? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn dein R\u00fccken behaart ist.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die erst nach Beginn des Spiels Flashclub dazugesto\u00dfen sind, trinken {int} Schl\u00fccke!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn dein Handy von Huawei ist.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn dein Handy von Samsung ist.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinke {int} Schl\u00fccke, wenn du dieses Jahr eine Reise ins Ausland geplant hast.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal von der Polizei angehalten wurdest.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal dein Smartphone gesucht hast, obwohl es in deiner Hosentasche oder Hand war.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal deine Schl\u00fcssel in der Wohnung gesucht hast und du sie in der Toilette oder im Bad wiedergefunden hast.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal alleine Alkohol getrunken hast.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal einen Salat in einem Fastfood-Restaurant gegessen hast.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon mal einen Strip-tease gesehen hast.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal bei einem Horrorfilm die Augen geschlossen hast. {int} Schl\u00fccke zus\u00e4tzlich, wenns vor weniger als einem Jahr war.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du nach deinem 16. Geburtstag mit jemandem zusammen warst ohne jemals Sex mit ihm/ihr zu haben",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber heute Abend nur Wasser trinken oder allen ihre Getr\u00e4nke bezahlen? W\u00e4hlt gleichzeitig, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die im medizinischen Bereich studieren oder arbeiten, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "F\u00fcr oder gegen Gel in den Haaren? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber f\u00e4hig sein, L\u00fcgen sofort zu erkennen oder perfekt zu l\u00fcgen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal einen Flammen-Furz gemacht hast.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber die F\u00fc\u00dfe von deinem rechten Nachbarn lecken oder die von deinem linken? W\u00e4hlt gleichzeitig, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du dich diese Woche schon einmal mit deinem/r Partner/in gestritten hast.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Sich lieber an jede Erinnerung erinnern k\u00f6nnen oder am Daumen lutschen, um sch\u00f6nes Wetter erscheinen zu lassen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber sein Geschlecht wechseln k\u00f6nnen wann immer ihr wollt, oder einen echten Schiggy besitzen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber alle Musikinstrumente spielen k\u00f6nnen oder 15 Sprachen perfekt sprechen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber das Auto deiner Tr\u00e4ume haben oder einen Hubschrauber? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber sich eine Hand oder einen Fu\u00df abschneiden? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die letzte Person, die heute Abend angekommen ist, trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die schon einmal von einem Tier angegriffen wurden, trinken {int} Schl\u00fccke!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal dein Unterrichtsmaterial zum Jahresende verbrannt hast.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn schon einmal jemand wegen dir ins Krankenhaus musste",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteil {int} Schl\u00fccke, wenn du schon einmal vor dem Ende eines Films das Kino verlassen hast.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die schon einmal in einer Disco Sex hatten, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Daf\u00fcr oder dagegen: Eine Hinfahrt ohne R\u00fcckfahrt zu einem neuen bewohnbaren Planeten mit 1000 Personen machen und am Aufbau einer neuen Welt teilnehmen, aber deine Nahestehenden daf\u00fcr verlassen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Der Spieler, der den kleinsten Geldschein bei sich tr\u00e4gt, verteilt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber alle Sprachen sprechen, bis auf die Sprache des Landes, in dem du dich befindest oder nicht mehr als 4 W\u00f6rter pro Satz sagen k\u00f6nnen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Arschl\u00f6cher, die jemandem aus ihrer Familie schon einmal Geld geklaut haben, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du schon einmal etwas geklaut hast, trinke {int} Schl\u00fccke. Ansonsten verteile sie.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die letzte Person, die ihre F\u00fc\u00dfe vom Boden hebt, trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die Angst vor Spinnen haben (also alle, etwa nicht?), trinken {int} Schl\u00fccke!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber einen Oscar oder einen Nobelpreis gewinnen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber eine Million Euro gewinnen oder ein echtes Lichtschwert besitzen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon mal unabsichtlich den Salzstreuer auf deinem Teller geleert hast.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Ketchup oder Mayo? W\u00e4hlt gleichzeitig, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn dir schon einmal das Fahrrad geklaut wurde.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal geglaubt hast, dass es tats\u00e4chlich ein Mittel gibt, um zu wissen wer in ein Schwimmbad gepinkelt hat.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Die Person, die dein Haus abgebrannt hat, lieber auf dem elektrischen Stuhl sterben lassen oder erh\u00e4ngen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber unf\u00e4hig sein, sich an Dinge vor drei Monanten zu erinnern oder keinen Tastsinn haben? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber Thor oder Iron Man sein? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die ein M im Vornamen haben, trinken ihr Glas auf Ex!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Lieber von einem L\u00f6wen angegriffen werden oder von 100 hysterischen Katzen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, dem der Film \"Hangcock\" gefallen hat, trinkt {int} Schl\u00fccke. Falls du ihn noch nicht gesehen hast, verteile {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der den Film \"Ey Mann, wo is mein Auto?\" noch nicht gesehen hat, trinkt {int} Schl\u00fccke. Ansonsten verteile {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der ein blaues Oberteil tr\u00e4gt, verteilt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der ein schwarzes Oberteil tr\u00e4gt, trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der ein wei\u00dfes Oberteil tr\u00e4gt, trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der ein graues Oberteil tr\u00e4gt, trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der ein rotes Oberteil tr\u00e4gt, verteilt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Ist es Freitag, verteilst du {int} Schl\u00fccke. Wenn nicht, trinkst du {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Stehen Flaschen auf dem Tisch, trinkt jeder von euch {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Steht bereits eine leere Flasche auf dem Tisch, trinkt jeder von euch {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle die kleiner als 1.80 sind, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle die gr\u00f6\u00dfer als 1.80 sind, trinken {int} Schl\u00fccke",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Sch\u00fcler trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der LOVOO schon einmal genutzt hat, trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der schon ein Date \u00fcber Tinder hatte, trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du musst, jedes Mal wenn du dran bist, einmal in die H\u00e4nde klatschen. Diese Regel gilt bis zum Ende des Spieles. F\u00fcr jeden Bruch der Regel, trinkst du {int} Schl\u00fccke",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du musst, jedes Mal wenn du dran bist, einen Schluck trinken. Diese Regel gilt bis zum Ende des Spieles. F\u00fcr jeden Bruch der Regel, trinkst du {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Sido Fans, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Bushido Fans, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Helene Fischer Fans, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der schon einmal im Bierk\u00f6nig war, trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die schon einmal einen Partyurlaub gemacht haben, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der gerne einen Affen als Haustier h\u00e4tte, trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile {int} Schl\u00fccke, wenn du Jungfrau bist. Ansonsten trinke sie.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die noch ein Kuscheltier im Bett haben, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die einen Bruder haben, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die eine Schwester haben, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Einzelkinder trinken jetzt {int} Schl\u00fccke",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die Halbgeschwister haben, trinken {int} Schl\u00fccke",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": true,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "trink {int} Schl\u00fccke, wenn du schon einmal deinen Penis (oder den deines Partners) gemessen hast",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinke einen Schluck",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal deinen Penis (oder den deines Partners) gemessen hast",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Zigarettenhersteller\". Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Superm\u00e4rkte\". Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Baumarten\". Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Soziale Netzwerke\". Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Charaktere aus \"Haus des Geldes\"\". Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Smartphone-Marken\". Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Schuhmarken\". Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Neues Thema und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Deutsche Schauspieler\". Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Neues Thema und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Rummarken\". Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Neues Thema und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Weinmarken\". Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Neues Thema und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Knochen des menschlichen K\u00f6rpers\", du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Beleidigungen mit Tiernamen\". Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schl\u00fccke! Du beginnst!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle Personen, die weniger betrunken sind, als du, trinken {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du dein Oberteil vor weniger als einem Monat gekauft hast, trink {int} Schl\u00fccke, ansonsten verteil sie",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jobs, die mit G beginnen\", derjenige, der etwas wiederholt oder nichts mehr wei\u00df, trinkt {int} Schl\u00fccke. Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du noch nie ein Handy gekauft hast, das \u00fcber 300 Euro gekostet hat, trink {int} Schl\u00fccke. Ansonsten verteil sie",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du schon einmal nachsitzen musstest, trink {int} Schl\u00fccke. Ansonsten verteil sie",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Figuren aus Shrek\" der Spieler, der etwas wiederholt oder keine Idee mehr hat, trinkt {int} Schl\u00fccke! Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "\"Lieder von Justin Bieber\", derjenige, der etwas wiederholt oder nichts mehr wei\u00df, trinkt {int} Schl\u00fccke. Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Dinge, die man im Kofferraum eines Autos finden kann\", du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "\"Filme von Dwayne Johnson\", derjenige, der etwas wiederholt oder nichts mehr wei\u00df, trinkt {int} Schl\u00fccke. Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Schlie\u00df die Augen. Wenn du es schaffst, zu sagen, was jeder einzelne am Tisch in seinem Glas hat, verteil {int} Schl\u00fccke, ansonsten trink sie selbst",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "\"Adjektive, die zu dir passen\". Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schl\u00fccke! Dein linker Nachbar beginnt.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Im Uhrzeigersinn: Jeder buchstabiert den Vornamen der Person, die rechts von euch sitzt. 4 f\u00fcr den/die Verlierer/in! Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Stra\u00dfenschilder, in denen Blau enthalten ist\", derjenige, der etwas wiederholt oder nichts mehr wei\u00df, trinkt {int} Schl\u00fccke. Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du schon einmal in einer Schl\u00e4gerei mit Besoffenen verwickelt warst, trink {int} Schl\u00fccke. Wenn nicht, verteile sie.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du schon einmal in einer Schl\u00e4gerei verursacht hast, trink {int} Schl\u00fccke. Ansonsten verteile sie.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Neues Thema und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Personen aus Marvel The Avengers\", du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trink {int} Schl\u00fccke, wenn du schon einmal mit deinem linken Sitznachbar an der Spielkonsole gespielt hast",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "W\u00e4hle deinen Sklaven. Dieser muss \u00fcber drei Runden deine Schl\u00fccke trinken",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "\"Sexstellungen\". Die Person, die keine Ideen mehr hat, oder eine Idee wiederholt, trinkt {int} Schl\u00fccke! Du beginnst!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Festivals\", du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteil so viele Schl\u00fccke, wie du schon Gl\u00e4ser geleert hast",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du deinen letzten Geburtstag gefeiert hast, verteile {int} Schl\u00fccke. Ansonsten trink sie selbst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Dinge, die man oft am Tag \u00f6ffnet\", du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile so viele Schl\u00fccke, wie es Singles an diesem Tisch gibt",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du und dein linker Nachbar trinkt gemeinsam {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du schon einmal mit deinem rechten Nachbarn in den Urlaub gefahren bist, verteil {int} Schl\u00fccke. Ansonsten trink sie selbst",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "\"Ideen, um keinen Kater zu bekommen\". Sagt nacheinander eure Ideen. Die Person, die keine Ideen mehr hat, oder eine Idee wiederholt, trinkt {int} Schl\u00fccke! Du beginnst!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinke {int} Schl\u00fccke, wenn du dieses Jahr im Ausland warst oder noch gehst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Jobs im Bereich Handwerk\", du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Alkoholsorten, die mit einem Softdrink verd\u00fcnnt werden\", du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "\"Rum-Marken\", derjenige, der etwas wiederholt oder nichts mehr wei\u00df, trinkt {int} Schl\u00fccke. Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "\"Vodka-Marken\", derjenige, der etwas wiederholt oder nichts mehr wei\u00df, trinkt {int} Schl\u00fccke. Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "\"Andere Saucen als Ketchup und Mayo\". Die Persontrink {int} Schl\u00fccke, ansonsten verteil sie",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Spiele \"Schere, Stein, Papier\" gegen deinen rechten Nachbar. Der Gewinner verteilt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile einen Schluck an eine Person deiner Wahl oder dein linker Nachbar trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Gib deinem rechten Nachbarn eine Aufgabe. Wenn er sie erf\u00fcllt, darf er {int} Schl\u00fccke verteilen.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteil {int} Schl\u00fccke, wenn du deine Bettw\u00e4sche vor weniger als einem Monat gewechselt hast, ansonsten trink sie selbst",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Alle, die kleiner sind als du trinken {int} Schl\u00fccke auf unseren Riesen",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du schon einmal Studenten Nachhilfe gegeben hast, verteil {int} Schl\u00fccke. Ansonsten trink sie selbst",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "\"Apps und Dating-Seiten\", der/die Erste, der/die keine Ideen mehr hat oder etwas wiederholt, trinkt {int} Schl\u00fccke, du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du schon mehr als 3 Personen verlassen hast, trink {int} Schl\u00fccke. Ansonsten verteil sie",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Such einen Gegner zum Armdr\u00fccken aus, der Verlierer trinkt {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Methoden, um zu kommunizieren, bevor es das Handy gab\", du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Imitiere 5 Sekunden lang eine Schlange oder trink {int} Schl\u00fccke!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Imitiere 5 Sekunden lang eine Schildkr\u00f6te oder trink {int} Schl\u00fccke!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du 3 Titel kennst, die spanische Hits sind oder waren, verteile {int} Schl\u00fccke. Sonst trinke sie selbst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Verschiedene Todesf\u00e4lle aus den Final Destination Filmen\", du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "\"Was man alles in der Handtasche einer Frau findet\". Die Person, die keine Ideen mehr hat, oder eine Idee wiederholt, trinkt {int} Schl\u00fccke! Du beginnst!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Schauspielerinnen mit einem dicken Hintern\", du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Neues Thema und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Vorteile, ein Mann zu sein\", du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Tanz wie ein Roboter oder trink {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinkt {int} Schl\u00fccke, wenn du oder dein linker Nachbar heute schon gemault hat.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verstorbene oder lebende Gitarristen aus der Rockmusik\", der Spieler, der etwas wiederholt oder keine Idee mehr hat, trinkt {int} Schl\u00fccke! Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn das dein erstes Glas ist, trink es halb leer, ansonsten verteil {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wenn du schon einmal am Ende einer Party mit deinem linken oder rechten Nachbarn im selben Zimmer geschlafen hast, verteil {int} Schl\u00fccke. Ansonsten trink sie selbst",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "\"Pizzanamen\", alle sagen nacheinander einen Pizzanamen. Die Person, die keinen mehr sagen kann, oder einen Namen wiederholt, trinkt {int} Schl\u00fccke! Du beginnst!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "\"D\u00f6nerl\u00e4den im Umkreis von 25 km\", die Person, die keinen mehr sagen kann, oder einen Namen wiederholt, trinkt {int} Schl\u00fccke! Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel und {int} Schl\u00fccke f\u00fcr den Verlierer: \"Dinge, die man b\u00fcrsten kann\", du beginnst",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "\"Lieder von Nena\". Die Person, die keine Ideen mehr hat, oder ein Lied wiederholt, trinkt {int} Schl\u00fccke! Du beginnst!",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Rufe jemanden an, der nicht im Raum ist und frage ihn ob er gerade auf der A8 ist, weil im Radio gesagt wurde, dass dort eine Behinderung ist. Machst du es nicht oder derjenige geht nicht dran, trinke {int} Schl\u00fccke, du Damenradfahrer.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Mache einen Dap und trinke {int} Schl\u00fccke oder trinke {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du bekommst die Penis-Karte. Irgendwann im Laufe des Spiels, darfst du Penis schreien. Der Letzte, der dann auch Penis schreit, muss sein Getr\u00e4nk exen.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Bestimme wieviele Backpfeifen dir die anderen Spieler geben d\u00fcrfen. Verteile f\u00fcr jede {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile {int} Schl\u00fccke. Diese m\u00fcssen auf mindestens 2 Personen aufgeteilt werden.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Trinke {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du bekommst die Polen-Karte. Irgendwann im Laufe des Spieles kannst du eine Aufgabe, die f\u00fcr jemanden anderen bestimmt war, klauen und f\u00fcr dich benutzen.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Ber\u00fchre jemanden an seiner Nase. Danach trinkt jeder von euch beiden {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du entscheidest: Alle trinken 6 oder {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder, der dir am Ohrl\u00e4ppchen leckt, darf {int} Schl\u00fccke verteilen. Will dir keiner am Ohrl\u00e4ppchen lecken, darfst du {int} Schl\u00fccke verteilen. Erlaubst du das Lecken nicht, trinkst du {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Wirf eine M\u00fcnze. Bei Kopf trinken alle {int} Schl\u00fccke, bei Zahl trinkst du {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Zeige allen Mitspielern das letzte Foto was du auf deinem Handy gemacht hast. Hast du kein Handy dabei oder weigerst du dich, trinke {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "W\u00e4hle eine Zahl zwischen 5 und 10. Alle trinken die gew\u00e4hlte Zahl als Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Gib einem Spieler deiner Wahl einen High Five. Trinke danach mit ihm {int} Schl\u00fccke. Weigert er sich, muss er {int} Schl\u00fccke trinken.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du entscheidest: Alle trinken 7 oder {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Verteile {int} Schl\u00fccke und bestimme jemanden der auch {int} Schl\u00fccke verteilen darf.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Das Wort \"Schl\u00fccke\" ist bis zum Ende des Spieles verboten. F\u00fcr jeden Bruch dieser Regel, trinkt derjenige {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Jeder bestimmt einen Mitspieler. Der Mitspieler mit den meisten Stimmen, muss {int} Schl\u00fccke trinken. Du beginnst.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Rufe eine Person des anderen Geschlechts an und bitte ihn/sie um ein Date. Weigerst du dich, trinkst du {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du hei\u00dft bis zum Ende des Spiels Justin Bieber. Wer dich mit deinem richtigen Namen anspricht, muss jedesmal {int} Schl\u00fccke trinken.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Hast du mehr als 50 Prozent Akku, trinke {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Dreh dich 8 mal im Kreis. Danach trinke {int} Schl\u00fccke.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Du darfst das n\u00e4chste Lied bestimmen.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    },
+    {
+        "text": "Themenspiel: \"Motors\u00e4genmarken\". Derjenige, der nichts mehr wei\u00df oder eine Marke wiederholt, trinkt {int} Schl\u00fccke. Dein linker Nachbar beginnt.",
+        "count": 1,
+        "uses": 0,
+        "rounds": 0,
+        "personal": false,
+        "remote": true,
+        "unique": true
+    }
+]
