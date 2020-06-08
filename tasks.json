@@ -30,7 +30,7 @@
         "id": 2
     },
     {
-        "text": "Alle, die liebend gerne mit ihrem/r rechten Nachbarn/in f*cken würden, trinken {int} Schlücke",
+        "text": "Alle, die liebend gerne mit ihrem/r rechten Nachbarn/in ficken würden, trinken {int} Schlücke",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -1980,7 +1980,7 @@
         "id": 198
     },
     {
-        "text": "Verteile {int} Schlücke oder erhalte für eine Runde *Immunität",
+        "text": "Verteile {int} Schlücke oder erhalte für eine Runde Immunität",
         "count": 20,
         "uses": 0,
         "rounds": 0,
@@ -6360,7 +6360,7 @@
         "id": 636
     },
     {
-        "text": "Alle Markenb*tches, die mehr als 3 Sachen von einer Marke an haben, trinken {int} Schlücke.",
+        "text": "Alle Markenbitches, die mehr als 3 Sachen von einer Marke an haben, trinken {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -6960,7 +6960,7 @@
         "id": 696
     },
     {
-        "text": "Wenn du willst, kannst du dein Glas exen und erhälst *Immunität für die nächste Runde",
+        "text": "Wenn du willst, kannst du dein Glas exen und erhälst Immunität für die nächste Runde",
         "count": 4,
         "uses": 0,
         "rounds": 0,
