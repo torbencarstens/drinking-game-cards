@@ -7,12 +7,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-        with:
-          persist-credentials: false
       - run: ls
       - run: cat tasks.json | head -n 10
-      - name: Minify tasks.json
-        run: echo $(jq -c < tasks.json) > minified.json
+      - run: cat tasks.json | jq -c
+      - run: cat tasks.json | jq -c > minified.json
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
@@ -23,4 +21,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: feature/github_actions
+          branch: ${GITHUB_REF}
