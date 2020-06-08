@@ -3,7 +3,7 @@ name: Minify json
 on: [push]
 
 jobs:
-  build:
+  minify:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
@@ -19,6 +19,6 @@ jobs:
           git add minified.json
           git commit -m "Minify tasks.json > minified.json"
       - name: Push changes
-        uses: ad-m/github-push-action@${GITHUB_REF##*/}
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
