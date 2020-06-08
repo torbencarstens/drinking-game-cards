@@ -1,0 +1,24 @@
+name: Minify json
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Minify tasks.json
+        run: jq -c < tasks.json > minified.json
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add minified.json
+          git commit -m "Minify tasks.json > minified.json"
+      - name: Push changes
+        uses: ad-m/github-push-action@${GITHUB_REF##*/}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
