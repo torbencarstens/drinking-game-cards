@@ -10,17 +10,17 @@
         "id": 0
     },
     {
-        "text": "Wer als Letzter beide Hände auf seine Knie legt, trinkt {int} Schlücke",
+        "text": "Wer als Letzter beide Hände auf seine Knie legt trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 1
     },
     {
-        "text": "Sagt nacheinander \"Danke\" in einer anderen Sprache als auf Deutsch, derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst",
+        "text": "Sagt nacheinander \"Danke\" in einer anderen Sprache als auf Deutsch. Derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst!",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -30,7 +30,7 @@
         "id": 2
     },
     {
-        "text": "Alle, die liebend gerne mit ihrem/r rechten Nachbarn/in ficken würden, trinken {int} Schlücke",
+        "text": "Alle, die liebend gerne mit ihrem/r rechten Nachbarn/in ficken würden, trinken {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -40,27 +40,27 @@
         "id": 3
     },
     {
-        "text": "Berühre jemanden an seinem Arsch. Danach trinkt jeder von euch beiden {int} Schlücke",
+        "text": "Berühre jemanden an seinem Arsch. Danach trinkt jeder von euch beiden {int} Schlücke.",
         "count": 9,
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 4
     },
     {
-        "text": "Frage einen Mitspieler deiner Wahl, was er gerne haben möchte: {int} Schlücke trinken oder einen Klaps auf die Schulter. Erfülle seinen Wunsch",
+        "text": "Frage einen Mitspieler deiner Wahl, was er gerne haben möchte: {int} Schlücke trinken oder einen Klaps auf die Schulter. Erfülle seinen Wunsch.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 6
     },
     {
-        "text": "Du darfst entscheiden: Du und jemand den du bestimmst, trinken gemeinsam jeweils {int} oder {int} Schlücke",
+        "text": "Du darfst entscheiden: Du und jemand den du bestimmst trinken gemeinsam jeweils {int} oder {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
