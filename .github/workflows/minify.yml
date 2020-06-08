@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - run: python minify.py
+      - run: python3 minify.py
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
