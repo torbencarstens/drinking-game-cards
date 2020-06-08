@@ -20,11 +20,11 @@
         "id": 1
     },
     {
-        "text": "Sagt nacheinander \"Danke\" in einer anderen Sprache als auf Deutsch. Derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst!",
+        "text": "Sagt nacheinander \"Danke\" in einer anderen Sprache als auf Deutsch. Derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": true,
+        "personal": false,
         "remote": true,
         "unique": true,
         "id": 2
@@ -44,17 +44,17 @@
         "count": 9,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": false,
         "unique": true,
         "id": 4
     },
     {
-        "text": "Frage einen Mitspieler deiner Wahl, was er gerne haben möchte: {int} Schlücke trinken oder einen Klaps auf die Schulter. Erfülle seinen Wunsch.",
+        "text": "Frage einen Mitspieler deiner Wahl, was er lieber haben möchte: {int} Schlücke trinken oder einen Klaps auf die Schulter. Erfülle seinen Wunsch.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": false,
         "unique": true,
         "id": 6
@@ -64,43 +64,43 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 7
     },
     {
-        "text": "Rufe eine Person deiner Wahl an und gestehe ihr deine Liebe. Machst du es nicht, trinke {int} Schlücke.",
+        "text": "Rufe eine Person deiner Wahl an und gestehe ihr deine Liebe. Machst du es nicht: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 8
     },
     {
-        "text": "Frage einen Mitspieler deiner Wahl, was er gerne haben möchte: {int} Schlücke trinken oder dir einen Kuss auf den Handrücken geben. Erfülle seinen Wunsch.",
+        "text": "Frage einen Mitspieler deiner Wahl, was er lieber haben möchte: {int} Schlücke trinken oder dir einen Kuss auf den Handrücken geben. Erfülle seinen Wunsch.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 9
     },
     {
-        "text": "Jeder muss seinem Nachbarn die Hand für eine Minute in den Schritt legen. Wer sich nicht traut, muss einen Schnaps trinken, den derjenige auswählt.",
+        "text": "Jeder muss seinem Nachbarn die Hand für eine Minute in den Schritt legen. Wer sich nicht traut, muss einen Schnaps trinken.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 10
     },
     {
-        "text": "Jeder, der schon einmal in seinem Leben Fussball im Verein gespielt hat, trinkt {int} Schlücke.",
+        "text": "Jeder, der schon einmal in seinem Leben Fußball im Verein gespielt hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -130,31 +130,31 @@
         "id": 13
     },
     {
-        "text": "Schreie (Mama-Mia!) und trinke danach {int} Schlücke.",
+        "text": "Schreie \"Mamma-Mia!\" und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 14
     },
     {
-        "text": "Du bekommst die Urlaubs-Karte. Irgendwann wenn du an der Reihe bist kannst du sagen, dass du zwei Runden Pause machen willst. Somit setzt du für zwei Runden aus und musst nicht trinken oder sonstige Regeln beachten. Deine nächste Aufgabe wird ignoriert.",
+        "text": "Du bekommst die Urlaubskarte. Irgendwann wenn du an der Reihe bist, kannst du sagen, dass du zwei Runden Pause machen willst. Somit setzt du für zwei Runden aus und musst nicht trinken oder sonstige Regeln beachten. Deine nächste Aufgabe wird ignoriert.",
         "count": 3,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
+        "uses": 1,
+        "rounds": 2,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 15
     },
     {
-        "text": "Zeige die letzten 10 aufgenommen Bilder auf deinem Handy. Weigerst du dich, trinke {int} Schlücke.",
+        "text": "Zeige die letzten 10 aufgenommen Bilder auf deinem Handy. Weigerst du dich: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 16
@@ -290,7 +290,7 @@
         "id": 29
     },
     {
-        "text": "Alle aktiven Regeln werden aufgehoben. Damit es nicht langweilig wird, trinke {int} Schlücke.",
+        "text": "Alle aktiven Regeln werden aufgehoben. Damit es nicht langweilig wird: Trinke {int} Schlücke.",
         "count": 3,
         "uses": 0,
         "rounds": 0,
@@ -440,7 +440,7 @@
         "id": 44
     },
     {
-        "text": "Wenn du nicht weißt, wer Viggo Mortensen ist, trinke {int} Schlücke.",
+        "text": "Wenn du nicht weißt, wer Viggo Mortensen ist: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -450,7 +450,7 @@
         "id": 45
     },
     {
-        "text": "Sage den Zungenbrecher (Zehn zahme Ziegen zogen zehn Zentner Zucker zum Zoo.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher (Zehn zahme Ziegen zogen zehn Zentner Zucker zum Zoo.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -470,7 +470,7 @@
         "id": 47
     },
     {
-        "text": "Sage den Zungenbrecher (Wenn der Benz bremst, brennt das Benzbremslicht.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher (Wenn der Benz bremst, brennt das Benzbremslicht.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -540,7 +540,7 @@
         "id": 54
     },
     {
-        "text": "Du musst eine Runde lang die Augen zu machen und darfst nicht sehen was passiert. Für jeden Bruch der Regel, trinke {int} Schlücke.",
+        "text": "Du musst eine Runde lang die Augen zu machen und darfst nicht sehen was passiert. Trinke {int} Schlücke für jeden Bruch der Regel.",
         "count": 2,
         "uses": 0,
         "rounds": 1,
@@ -660,7 +660,7 @@
         "id": 66
     },
     {
-        "text": "Sag so schnell wie möglich das ABC auf. Schaffst du es nicht, trinke {int} Schlücke.",
+        "text": "Sag so schnell wie möglich das ABC auf. Schaffst du es nicht: Trinke {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -750,7 +750,7 @@
         "id": 75
     },
     {
-        "text": "Wenn du nicht weißt, wer Sir Ian Mckellen ist, trinke {int} Schlücke.",
+        "text": "Wenn du nicht weißt, wer Sir Ian McKellen ist, trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -920,7 +920,7 @@
         "id": 92
     },
     {
-        "text": "Jeder, der alle Folgen von \"How to sell drugs online\" gesehen hat, darf {int} Schlücke verteilen.",
+        "text": "Jeder, der alle Folgen von \"How to Sell Drugs Online (Fast)\" gesehen hat, darf {int} Schlücke verteilen.",
         "count": 4,
         "uses": 0,
         "rounds": 0,
@@ -930,7 +930,7 @@
         "id": 93
     },
     {
-        "text": "Sage den Zungenbrecher (Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher (Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -1070,7 +1070,7 @@
         "id": 107
     },
     {
-        "text": "Sage den Zungenbrecher (Klitzekleine Kinder können keinen Kirschkern knacken.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher (Klitzekleine Kinder können keinen Kirschkern knacken.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -1190,7 +1190,7 @@
         "id": 119
     },
     {
-        "text": "Sage den Zungenbrecher (Der kleine plappernde Kaplan klebt klappbare poppige Pappplakate an die klappernde Kapellwand) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher (Der kleine plappernde Kaplan klebt klappbare poppige Pappplakate an die klappernde Kapellwand) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -1270,7 +1270,7 @@
         "id": 127
     },
     {
-        "text": "Mach die Augen zu, streck deinen linken Arm aus und versuche mit dem Mittelfinger, deine Nasenspitze zu berühren. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke {int} Schlücke.",
+        "text": "Mach die Augen zu, streck deinen linken Arm aus und versuche mit dem Mittelfinger, deine Nasenspitze zu berühren. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -1410,7 +1410,7 @@
         "id": 141
     },
     {
-        "text": "Ist es zwischen 20 und 21 Uhr, trinke {int} Schlücke. Ist es zwischen 22 und 23 Uhr, verteile {int} Schlücke. Trifft beides nicht zu, hast du Pech gehabt.",
+        "text": "Ist es zwischen 20 und 21 Uhr: Trinke {int} Schlücke. Ist es zwischen 22 und 23 Uhr: Verteile {int} Schlücke. Trifft beides nicht zu, hast du Pech gehabt.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -1470,11 +1470,11 @@
         "id": 147
     },
     {
-        "text": "Sei für eine Runde ein Huhn. Brichst du die Regel, trinke {int} Schlücke für jede regelwidrige Aktion.",
+        "text": "Sei für eine Runde ein Huhn. Trinke {int} Schlücke für jede regelwidrige Aktion.",
         "count": 2,
         "uses": 0,
-        "rounds": 0,
-        "personal": false,
+        "rounds": 1,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 148
@@ -1510,11 +1510,11 @@
         "id": 151
     },
     {
-        "text": "Verteile {int} Schlücke, trinke {int} Schlücke.",
+        "text": "Verteile {int} Schlücke und trinke {int} Schlücke.",
         "count": 18,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 152
@@ -1660,7 +1660,7 @@
         "id": 166
     },
     {
-        "text": "Wenn du schon einmal Shisha geraucht hast, trinke {int} Schlücke.",
+        "text": "Trinke {int} Schlücke, wenn du schon einmal Shisha geraucht hast.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -1740,11 +1740,11 @@
         "id": 174
     },
     {
-        "text": "Rufe jemanden an, der nicht im Raum ist und frage ihn was besser ist. Drei Vierkornbrötchen oder vier Dreikornbrötchen. Machst du es nicht oder derjenige geht nicht dran, trinke {int} Schlücke.",
+        "text": "Rufe jemanden an, der nicht im Raum ist, und frage ihn, was besser ist: Drei Vierkornbrötchen oder vier Dreikornbrötchen. Machst du es nicht oder derjenige nicht dran geht, trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 175
@@ -1860,7 +1860,7 @@
         "id": 186
     },
     {
-        "text": "Berühre jemanden an seinem Fuss. Danach trinkt jeder von euch beiden {int} Schlücke.",
+        "text": "Berühre jemanden an seinem Fuß. Danach trinkt jeder von euch beiden {int} Schlücke.",
         "count": 9,
         "uses": 0,
         "rounds": 0,
@@ -1900,7 +1900,7 @@
         "id": 190
     },
     {
-        "text": "Sage den Zungenbrecher (Lang schwang der Klang den Hang entlang.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher (Lang schwang der Klang den Hang entlang.) auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -2100,7 +2100,7 @@
         "id": 210
     },
     {
-        "text": "Frage einen Mitspieler deiner Wahl, was er gerne haben möchte: Sein Getränk exen oder dir 2 Euro geben. Erfülle seinen Wunsch.",
+        "text": "Frage einen Mitspieler deiner Wahl, was er lieber haben möchte: Sein Getränk exen oder dir 2 Euro geben. Erfülle seinen Wunsch.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2400,7 +2400,7 @@
         "id": 240
     },
     {
-        "text": "Ist es zwischen 19 und 1 Uhr, trinke {int} Schlücke. Ist es zwischen 7 und 13 Uhr, verteile {int} Schlücke. Trifft beides nicht zu, hast du Pech gehabt.",
+        "text": "Ist es zwischen 19 und 1 Uhr: Trinke {int} Schlücke. Ist es zwischen 7 und 13 Uhr: Verteile {int} Schlücke. Trifft beides nicht zu, hast du Pech gehabt.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2560,7 +2560,7 @@
         "id": 256
     },
     {
-        "text": "Rufe eine Person deiner Wahl an und frage sie ob sie schon ihre Wäsche gewaschen hat. Machst du es nicht oder die Person geht nicht dran, trinke {int} Schlücke.",
+        "text": "Rufe eine Person deiner Wahl an und frage sie, ob sie schon ihre Wäsche gewaschen hat. Machst du es nicht oder geht die Person nicht dran: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2640,7 +2640,7 @@
         "id": 264
     },
     {
-        "text": "Du musst, bis zum Ende des Spieles, immer wenn du dran bist dein linken Fuss berühren. Machst du es nicht trinke {int} Schlücke.",
+        "text": "Du musst, bis zum Ende des Spieles, immer wenn du dran bist dein linken Fuß berühren. Machst du es nicht trinke {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -2760,7 +2760,7 @@
         "id": 276
     },
     {
-        "text": "Ist es gerade zwischen 19 und 22 Uhr, trinke {int} Schlücke. Ist es zwischen 22 und 2 Uhr, verteile {int} Schlücke. Trifft nichts zu, trinkt jeder {int} Schlücke.",
+        "text": "Ist es gerade zwischen 19 und 22 Uhr: Trinke {int} Schlücke. Ist es zwischen 22 und 2 Uhr: Verteile {int} Schlücke. Trifft nichts zu, trinkt jeder {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -2810,7 +2810,7 @@
         "id": 281
     },
     {
-        "text": "Verteile {int} Schlücke, trinke {int} Schlücke.",
+        "text": "Verteile {int} Schlücke und trinke {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3260,7 +3260,7 @@
         "id": 326
     },
     {
-        "text": "Sage den Zungenbrecher (Zwischen Zwetschgenzweigen sitzen zwei tschechisch zwitschernde Schwalben. Zwei tschechisch zwitschernde Schwalben sitzen zwischen Zwetschgenzweigen.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher (Zwischen Zwetschgenzweigen sitzen zwei tschechisch zwitschernde Schwalben. Zwei tschechisch zwitschernde Schwalben sitzen zwischen Zwetschgenzweigen.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3280,7 +3280,7 @@
         "id": 328
     },
     {
-        "text": "Sei für eine Runde eine Katze. Brichst du die Regel, trinke {int} Schlücke für jede regelwidrige Aktion.",
+        "text": "Sei für eine Runde eine Katze. Trinke {int} Schlücke für jede regelwidrige Aktion.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3320,7 +3320,7 @@
         "id": 332
     },
     {
-        "text": "Schreibe jemandem über SMS oder WhatsApp, der nicht im Raum ist. Frage diese Person, wie das neue Justin Bieber Album heißt. Machst du es nicht, trinke {int} Schlücke.",
+        "text": "Schreibe jemandem über SMS oder WhatsApp, der nicht im Raum ist. Frage diese Person, wie das neue Justin Bieber Album heißt. Machst du es nicht: Trinke {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3420,7 +3420,7 @@
         "id": 342
     },
     {
-        "text": "Streichle kreisend 5 sek. deinen Bauch und klopfe dir dabei mit der Faust auf den Kopf. Schaffst du es nicht auf Anhieb, trinke {int} Schlücke.",
+        "text": "Streichle kreisend 5 sek. deinen Bauch und klopfe dir dabei mit der Faust auf den Kopf. Schaffst du es nicht auf Anhieb: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3500,7 +3500,7 @@
         "id": 350
     },
     {
-        "text": "Ist es zwischen 13 und 17 Uhr, trinke {int} Schlücke. Ist es zwischen 17 und 21 Uhr, verteile {int} Schlücke. Trifft beides nicht zu, hast du Pech gehabt.",
+        "text": "Ist es zwischen 13 und 17 Uhr: Trinke {int} Schlücke. Ist es zwischen 17 und 21 Uhr: Verteile {int} Schlücke. Trifft beides nicht zu, hast du Pech gehabt.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3630,7 +3630,7 @@
         "id": 363
     },
     {
-        "text": "Zeige allen Mitspielern das letzte Foto was du auf deinem Handy gemacht hast. Hast du kein Handy dabei oder weigerst du dich, trinke {int} Schlücke.",
+        "text": "Zeige allen Mitspielern das letzte Foto was du auf deinem Handy gemacht hast. Hast du kein Handy dabei oder weigerst du dich: trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3710,7 +3710,7 @@
         "id": 371
     },
     {
-        "text": "Mach die Augen zu, streck deinen rechten Arm aus und versuche mit dem Mittelfinger, deine Nasenspitze zu berühren. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke {int} Schlücke.",
+        "text": "Mach die Augen zu, streck deinen rechten Arm aus und versuche, mit dem Mittelfinger deine Nasenspitze zu berühren. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3840,7 +3840,7 @@
         "id": 384
     },
     {
-        "text": "Ist es zwischen 13 und 17 Uhr, trinke {int} Schlücke. Ist es zwischen 17 und 23 Uhr, verteile {int} Schlücke. Trifft beides nicht zu, passiert nichts.",
+        "text": "Ist es zwischen 13 und 17 Uhr: Trinke {int} Schlücke. Ist es zwischen 17 und 23 Uhr: Verteile {int} Schlücke. Trifft beides nicht zu, passiert nichts.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3860,7 +3860,7 @@
         "id": 386
     },
     {
-        "text": "Schreibe jemandem über SMS oder WhatsApp, der nicht im Raum ist. Sage dieser Person dass du sie hasst und sie nie wieder sehen willst. Machst du es nicht, trinke 6 Schücke.",
+        "text": "Schreibe jemandem über SMS oder WhatsApp, der nicht im Raum ist. Sage dieser Personm dass du sie hasst und sie nie wieder sehen willst. Machst du es nicht: Trinke 6 Schücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -4090,7 +4090,7 @@
         "id": 409
     },
     {
-        "text": "Wenn du weißt, wie der Bundespräsident heißt, verteile {int} Schlücke. Wenn nicht, trinke {int} Schlücke.",
+        "text": "Wenn du weißt, wie der Bundespräsident heißt, verteile {int} Schlücke, ansonsten trinke {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4215,7 +4215,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 422
     },
@@ -4510,7 +4510,7 @@
         "id": 451
     },
     {
-        "text": "Verteile und trinke {int} Schlücke oder verteile {int} Schlücke , trinke {int} Schlücke.",
+        "text": "Verteile und trinke {int} Schlücke oder verteile {int} Schlücke und trinke {int} Schlücke.",
         "count": 5,
         "uses": 0,
         "rounds": 0,
@@ -4590,7 +4590,7 @@
         "id": 459
     },
     {
-        "text": "Du musst, bis zum Ende des Spieles, immer wenn du dran bist dein linken Fuss berühren. Machst du es nicht trinke {int} Schlücke.",
+        "text": "Du musst, bis zum Ende des Spieles, immer wenn du dran bist dein linken Fuß berühren. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -4630,7 +4630,7 @@
         "id": 463
     },
     {
-        "text": "Sage das ABC rückwärts auf. Schaffst du es nicht, trinke {int} Schlücke.",
+        "text": "Sage das ABC rückwärts auf. Schaffst du es nicht: Trinke {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4660,7 +4660,7 @@
         "id": 466
     },
     {
-        "text": "Rufe eine Person des anderen Geschlechts an und bitte ihn/sie um ein Date. Weigerst du dich, trinkst du {int} Schlücke.",
+        "text": "Rufe eine Person des anderen Geschlechts an und bitte ihn/sie um ein Date. Weigerst du dich: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -4760,7 +4760,7 @@
         "id": 476
     },
     {
-        "text": "Du bist 1 Runde lang von allen Regeln ausgeschlossen. Gibt es noch keine Regeln, trinke {int} Schlücke.",
+        "text": "Du bist 1 Runde lang von allen Regeln ausgeschlossen. Gibt es noch keine Regeln: Trinke {int} Schlücke.",
         "count": 10,
         "uses": 0,
         "rounds": 1,
@@ -4900,7 +4900,7 @@
         "id": 490
     },
     {
-        "text": "Schreibe jemandem über SMS oder WhatsApp, der nicht im Raum ist. Frage diese Person, welches Pokemon cooler ist: Pumeluff oder Relaxo. Machst du es nicht, trinke {int} Schlücke.",
+        "text": "Schreibe jemandem über SMS oder WhatsApp, der nicht im Raum ist. Frage diese Person, welches Pokemon cooler ist: Pumeluff oder Relaxo. Machst du es nicht: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5190,7 +5190,7 @@
         "id": 519
     },
     {
-        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einen Klotz auf die Schulter geben. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einen Klaps auf die Schulter geben. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -5520,7 +5520,7 @@
         "id": 552
     },
     {
-        "text": "Zeige allen Mitspielern das letzte Foto was du auf deinem Handy gemacht hast. Hast du kein Handy dabei oder weigerst du dich, trinke {int} Schlücke.",
+        "text": "Zeige allen Mitspielern das letzte Foto was du auf deinem Handy gemacht hast. Hast du kein Handy dabei oder weigerst du dich: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5690,11 +5690,11 @@
         "id": 569
     },
     {
-        "text": "Rufe einen Mann deiner Wahl an und lache ihn aus. Machst du es nicht oder er geht nicht dran, trinke {int} Schlücke.",
+        "text": "Rufe einen Mann deiner Wahl an und lache ihn aus. Machst du es nicht oder er geht nicht dran: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 570
@@ -5810,11 +5810,11 @@
         "id": 581
     },
     {
-        "text": "Rülpse das Alphabet bis F. Schaffst du es nicht, trinke {int} Schlücke. Schaffst du es, verteile {int} Schlücke.",
+        "text": "Rülpse das Alphabet bis F. Schaffst du es nicht: Trinke {int} Schlücke. Schaffst du es: Verteile {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 582
@@ -5840,11 +5840,11 @@
         "id": 584
     },
     {
-        "text": "Du und der jüngste Mitspieler trinken {int} Schlücke. Bist du der Jüngste, trinke {int} Schlücke.",
+        "text": "Du und der jüngste Mitspieler trinken {int} Schlücke. Bist du der Jüngste: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 585
@@ -6000,12 +6000,12 @@
         "id": 600
     },
     {
-        "text": "Rieche an einem Fuß von deinem rechten Sitznachbar. Machst du es nicht, trinke {int} Schlücke.",
+        "text": "Rieche an einem Fuß von deinem rechten Sitznachbar. Machst du es nicht: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 601
     },
@@ -6510,7 +6510,7 @@
         "id": 651
     },
     {
-        "text": "Gehörst du zu den 94,6% der Menschheit, die das Gefühl kennen, wenn der Cityroller gegen den Knöchel knallt? Wenn ja, trinke {int} Schlücke. Wenn nicht, verteile sie.",
+        "text": "Gehörst du zu den 94,6% der Menschheit, die das Gefühl kennen, wenn der Cityroller gegen den Knöchel knallt? Wenn ja: Trinke {int} Schlücke. Wenn nicht: Verteile sie.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -6630,11 +6630,11 @@
         "id": 663
     },
     {
-        "text": "Rufe jemanden an, der nicht im Raum ist und frage ihn warum die Banane krumm ist. Machst du es nicht oder derjenige geht nicht dran, trinke {int} Schlücke.",
+        "text": "Rufe jemanden an, der nicht im Raum ist und frage ihn, warum die Banane krumm ist. Machst du es nicht oder geht derjenige nicht dran: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 664
@@ -7890,7 +7890,7 @@
         "id": 789
     },
     {
-        "text": "Frage einen Mitspieler deiner Wahl, was er gerne haben möchte: {int} Schlücke trinken oder einen Klaps auf die Backe. Erfülle seinen Wunsch.",
+        "text": "Frage einen Mitspieler deiner Wahl, was er lieber haben möchte: {int} Schlücke trinken oder einen Klaps auf die Backe. Erfülle seinen Wunsch.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8160,7 +8160,7 @@
         "id": 816
     },
     {
-        "text": "Du entscheidest: Alle trinken {int} Schlücke oder geben sich 1 Klotz auf die Schulter.",
+        "text": "Du entscheidest: Alle trinken {int} Schlücke oder geben sich 1 Klaps auf die Schulter.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8640,7 +8640,7 @@
         "id": 864
     },
     {
-        "text": "Du und der älteste Mitspieler trinken {int} Schlücke. Bist du der Älteste, trinke {int} Schlücke.",
+        "text": "Du und der älteste Mitspieler trinken {int} Schlücke. Bist du der Älteste: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8840,7 +8840,7 @@
         "id": 884
     },
     {
-        "text": "Erzähle ein Witz. Wenn keiner lacht, trinke {int} Schlücke. Wenn dir kein Witz einfällt, ext du dein Glas.",
+        "text": "Erzähle ein Witz. Trinke {int} Schlücke, wenn keiner lacht. Wenn dir kein Witz einfällt, ext du dein Glas.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -8910,7 +8910,7 @@
         "id": 891
     },
     {
-        "text": "Ist es zwischen 19 und 22 Uhr, trinke {int} Schlücke. Ist es zwischen 22 und 2 Uhr, verteile {int} Schlücke. Trifft beides nicht zu, hast du Pech gehabt.",
+        "text": "Ist es zwischen 19 und 22 Uhr: Trinke {int} Schlücke. Ist es zwischen 22 und 2 Uhr: Verteile {int} Schlücke. Trifft beides nicht zu, hast du Pech gehabt.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9150,7 +9150,7 @@
         "id": 915
     },
     {
-        "text": "Schrei aus dem Fenster: (Scheiß auf Schicki Micki, ich will noch nen Bier!). Machst du es nicht, trinke {int} Schlücke.",
+        "text": "Schrei aus dem Fenster: (Scheiß auf Schicki Micki, ich will noch nen Bier!). Machst du es nicht: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9330,7 +9330,7 @@
         "id": 933
     },
     {
-        "text": "Rufe eine Frau deiner Wahl an und lache sie aus. Machst du es nicht oder sie geht nicht dran, trinke {int} Schlücke.",
+        "text": "Rufe eine Frau deiner Wahl an und lache sie aus. Machst du es nicht oder sie geht nicht dran: Trinke {int} Schlücke.",
         "count": 3,
         "uses": 0,
         "rounds": 0,
@@ -9530,16 +9530,6 @@
         "id": 953
     },
     {
-        "text": "Wenn du heute das erste Mal das Flashclub-Trinkspiel spielst, trinke {int} Schlücke. Willkommen im Flashclub!",
-        "count": 2,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 954
-    },
-    {
         "text": "Wenn du schon einmal nachsitzen musstest, trink {int} Schlücke. Ansonsten verteil sie.",
         "count": 1,
         "uses": 0,
@@ -9670,7 +9660,7 @@
         "id": 967
     },
     {
-        "text": "Hast du mehr als 50 Prozent Akku, trinke {int} Schlücke.",
+        "text": "Trinke {int} Schlücke, wenn du noch mehr als 50 Prozent Akku hast.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9710,7 +9700,7 @@
         "id": 971
     },
     {
-        "text": "Rufe eine Mann deiner Wahl an und lache ihn aus. Machst du es nicht oder er geht nicht dran, trinke {int} Schlücke.",
+        "text": "Rufe eine Mann deiner Wahl an und lache ihn aus. Machst du es nicht oder er geht nicht dran: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9720,12 +9710,12 @@
         "id": 972
     },
     {
-        "text": "Bestimme jemanden, diese Person darf dir eine Backpfeife geben. Danach verteile {int} Schlücke. Lässt du dich nicht Backpfeifen, trinke die {int} Schlücke selbst.",
+        "text": "Bestimme jemanden, der dir eine Backpfeife geben. Danach verteile {int} Schlücke. Lässt du dich nicht backpfeifen: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 973
     },
@@ -9850,7 +9840,7 @@
         "id": 985
     },
     {
-        "text": "Rufe jemanden an, der nicht im Raum ist und frage ihn ob er gerade auf der A8 ist, weil im Radio gesagt wurde, dass dort eine Behinderung ist. Machst du es nicht oder derjenige geht nicht dran, trinke {int} Schlücke, du Damenradfahrer.",
+        "text": "Rufe jemanden an, der nicht im Raum ist und frage ihn, ob er gerade auf der A8 ist, weil im Radio gesagt wurde, dass dort eine Behinderung ist. Machst du es nicht oder geht derjenige nicht dran: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -10000,12 +9990,12 @@
         "id": 1000
     },
     {
-        "text": "Tanze 10 Sekunden mit einem Mitspieler deiner Wahl. Trinke danach mit ihm {int} Schlücke. Machst du es nicht, trinke die {int} Schlücke alleine.",
+        "text": "Tanze 10 Sekunden mit einem Mitspieler deiner Wahl. Trinke danach mit ihm {int} Schlücke. Machst du es nicht: Trinke {int} Schlücke.",
         "count": 5,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 1001
     },
@@ -10080,7 +10070,7 @@
         "id": 1008
     },
     {
-        "text": "Erzähle ein Witz, wenn du damit niemanden zum lachen bringst, trinke {int} Schlücke. Fällt dir kein Witz ein exe dein Getränk.",
+        "text": "Erzähle ein Witz. Wenn du damit niemanden zum Lachen bringst, trinke {int} Schlücke. Fällt dir kein Witz ein, dann exe dein Getränk.",
         "count": 4,
         "uses": 0,
         "rounds": 0,
@@ -10110,12 +10100,12 @@
         "id": 1011
     },
     {
-        "text": "Küsse jemanden vom anderen Geschlecht und trinke mit ihm oder ihr {int} Schlücke. Ist kein anderes Geschlecht da oder will dich keiner küssen, trinke die {int} Schlücke selbst.",
+        "text": "Küsse jemanden vom anderen Geschlecht und trinke mit ihm oder ihr {int} Schlücke. Ist kein anderes Geschlecht da oder will dich keiner küssen: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 1012
     },
@@ -10310,7 +10300,7 @@
         "id": 1031
     },
     {
-        "text": "Wer sich als Letzter eine Klotz auf die Schulter gibt, trinkt {int} Schlücke.",
+        "text": "Wer sich als Letzter einen Klaps auf die Schulter gibt, trinkt {int} Schlücke.",
         "count": 3,
         "uses": 0,
         "rounds": 0,
@@ -10480,7 +10470,7 @@
         "id": 1048
     },
     {
-        "text": "Sei für eine Runde ein Hund. Brichst du die Regel, trinke {int} Schlücke für jede regelwidrige Aktion.",
+        "text": "Sei für eine Runde ein Hund. Trinke {int} Schlücke für jede regelwidrige Aktion.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11130,7 +11120,7 @@
         "id": 1113
     },
     {
-        "text": "Rieche an einem Fuß von deinem linken Sitznachbar. Machst du es nicht, trinke {int} Schlücke.",
+        "text": "Rieche an einem Fuß von deinem linken Sitznachbar. Machst du es nicht: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11510,7 +11500,7 @@
         "id": 1151
     },
     {
-        "text": "Du darfst eine Runde lang nicht reden oder sonstige Geräusche von dir geben. Für jeden Bruch der Regel, trinke {int} Schlücke.",
+        "text": "Du darfst eine Runde lang nicht reden oder sonstige Geräusche von dir geben. Trinke {int} Schlücke für jeden Bruch der Regel.",
         "count": 2,
         "uses": 0,
         "rounds": 1,
@@ -11520,7 +11510,7 @@
         "id": 1152
     },
     {
-        "text": "Schreibe jemandem über SMS oder WhatsApp, der nicht im Raum ist. Frage diese Person, wie das neue Justin Bieber Album heißt. Machst du es nicht, trinke {int} Schlücke.",
+        "text": "Schreibe jemandem über SMS oder WhatsApp, der nicht im Raum ist. Frage diese Person, wie das neue Justin Bieber Album heißt. Machst du es nicht: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11760,11 +11750,11 @@
         "id": 1176
     },
     {
-        "text": "Wenn du schon einmal etwas geklaut hast, trinke {int} Schlücke. Ansonsten verteile sie.",
+        "text": "Trinke {int} Schlücke, wenn du schon einmal etwas geklaut hast. Ansonsten verteile sie.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1177
@@ -11890,7 +11880,7 @@
         "id": 1189
     },
     {
-        "text": "Schreibe einer Person deiner Wahl, die nicht im Raum ist: Ich möchte mich jetzt gern in dein Bett legen. Machst du es nicht, trinke {int} Schlücke.",
+        "text": "Schreibe einer Person deiner Wahl, die nicht im Raum ist: Ich möchte mich jetzt gern in dein Bett legen. Machst du es nicht: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11990,11 +11980,11 @@
         "id": 1199
     },
     {
-        "text": "Hast du mehr als 50 Prozent Akku, trinke {int} Schlücke.",
+        "text": "Trinke {int} Schlücke, wenn du mehr als 50 Prozent Akku hast.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1200
@@ -12050,7 +12040,7 @@
         "id": 1205
     },
     {
-        "text": "Wenn du schon einmal einen Motorroller gefahren bist, trinke {int} Schlücke.",
+        "text": "Trinke {int} Schlücke, wenn du schon einmal einen Motorroller gefahren bist.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
