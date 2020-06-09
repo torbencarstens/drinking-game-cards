@@ -1,0 +1,25 @@
+name: Create doc page
+
+on: [push]
+
+jobs:
+  minify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          ref: 'gh-pages'
+      - run: npm install -g bootprint
+      - run: npm install -g bootprint-json-schema
+      - run: bootprint json-schema https://raw.githubusercontent.com/OpenAlcoholics/drinking-game-cards/develop/schema.json .
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update schema docs" | true
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
