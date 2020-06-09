@@ -4090,7 +4090,7 @@
         "id": 410
     },
     {
-        "text": "Spreche alle Mitspieler nur noch mit „Kollege“ an. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch, trinkst du {int} Schlücke.",
+        "text": "Spreche alle Mitspieler nur noch mit „Kollege“ an. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
