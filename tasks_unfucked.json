@@ -1670,7 +1670,7 @@
         "id": 167
     },
     {
-        "text": "Alle Bushido Fans, trinken {int} Schlücke.",
+        "text": "Alle Bushido Fans trinken {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -4860,7 +4860,7 @@
         "id": 487
     },
     {
-        "text": "Alle Avicii Fans, trinken {int} Schlücke.",
+        "text": "Alle Avicii Fans trinken {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4930,7 +4930,7 @@
         "id": 494
     },
     {
-        "text": "Alle Helene Fischer Fans, trinken {int} Schlücke.",
+        "text": "Alle Helene Fischer Fans trinken {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5720,7 +5720,7 @@
         "id": 576
     },
     {
-        "text": "Alle Capital Bra Fans, trinken {int} Schlücke.",
+        "text": "Alle Capital Bra Fans trinken {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -9380,7 +9380,7 @@
         "id": 943
     },
     {
-        "text": "Alle Sido Fans, trinken {int} Schlücke.",
+        "text": "Alle Sido Fans trinken {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -10660,7 +10660,7 @@
         "id": 1072
     },
     {
-        "text": "Alle Trailerpark Fans, trinken {int} Schlücke.",
+        "text": "Alle Trailerpark Fans trinken {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
