@@ -305,7 +305,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 31
     },
@@ -525,7 +525,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 53
     },
@@ -915,7 +915,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 92
     },
@@ -965,7 +965,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 97
     },
@@ -1155,7 +1155,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 116
     },
@@ -1385,7 +1385,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 139
     },
@@ -1545,7 +1545,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 155
     },
@@ -2975,7 +2975,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 298
     },
@@ -4965,7 +4965,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 498
     },
@@ -4995,7 +4995,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 501
     },
@@ -5205,7 +5205,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 522
     },
@@ -5425,7 +5425,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 546
     },
@@ -6525,7 +6525,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 658
     },
@@ -7255,7 +7255,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 731
     },
@@ -7595,7 +7595,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 765
     },
@@ -7785,7 +7785,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 784
     },
@@ -9605,7 +9605,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 967
     },
@@ -9805,7 +9805,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 987
     },
@@ -10415,7 +10415,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 1048
     },
@@ -11755,7 +11755,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 1183
     },
