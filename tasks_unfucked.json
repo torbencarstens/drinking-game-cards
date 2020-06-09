@@ -450,7 +450,7 @@
         "id": 45
     },
     {
-        "text": "Sage den Zungenbrecher „Zehn zahme Ziegen zogen zehn Zentner Zucker zum Zoo.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Zehn zahme Ziegen zogen zehn Zentner Zucker zum Zoo.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -470,7 +470,7 @@
         "id": 47
     },
     {
-        "text": "Sage den Zungenbrecher „Wenn der Benz bremst, brennt das Benzbremslicht.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn der Benz bremst, brennt das Benzbremslicht.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -930,7 +930,7 @@
         "id": 93
     },
     {
-        "text": "Sage den Zungenbrecher „Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -1070,7 +1070,7 @@
         "id": 107
     },
     {
-        "text": "Sage den Zungenbrecher „Klitzekleine Kinder können keinen Kirschkern knacken.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Klitzekleine Kinder können keinen Kirschkern knacken.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -1190,7 +1190,7 @@
         "id": 119
     },
     {
-        "text": "Sage den Zungenbrecher „Der kleine plappernde Kaplan klebt klappbare poppige Pappplakate an die klappernde Kapellwand“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der kleine plappernde Kaplan klebt klappbare poppige Pappplakate an die klappernde Kapellwand“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -2000,7 +2000,7 @@
         "id": 200
     },
     {
-        "text": "Sage den Zungenbrecher „Zwanzig Zwerge zeigen Handstand, zehn im Wandschrank, zehn am Sandstrand.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Zwanzig Zwerge zeigen Handstand, zehn im Wandschrank, zehn am Sandstrand.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -2460,7 +2460,7 @@
         "id": 246
     },
     {
-        "text": "Sage den Zungenbrecher „Der Kottbusser Postkutscher putzt den Kottbusser Postkutschkasten.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der Kottbusser Postkutscher putzt den Kottbusser Postkutschkasten.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -2830,7 +2830,7 @@
         "id": 283
     },
     {
-        "text": "Sage den Zungenbrecher „Willy Millowitsch mixt Whisky, Whisky mixt Willy Millowitsch.“ auf, schaffst du es verteile {int} Schlücke, schaffst du es nicht trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Willy Millowitsch mixt Whisky, Whisky mixt Willy Millowitsch.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3250,7 +3250,7 @@
         "id": 326
     },
     {
-        "text": "Sage den Zungenbrecher „Zwischen Zwetschgenzweigen sitzen zwei tschechisch zwitschernde Schwalben. Zwei tschechisch zwitschernde Schwalben sitzen zwischen Zwetschgenzweigen.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Zwischen Zwetschgenzweigen sitzen zwei tschechisch zwitschernde Schwalben. Zwei tschechisch zwitschernde Schwalben sitzen zwischen Zwetschgenzweigen.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3690,7 +3690,7 @@
         "id": 370
     },
     {
-        "text": "Sage den Zungenbrecher „Immer, wenn die tütelige Tee Tante den Tee in die Kaffeetüte getan hatte, tütete die patente Nichte der Tee Tante den Tee von der Kaffeetüte in die Tee Tüte um.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Immer, wenn die tütelige Tee Tante den Tee in die Kaffeetüte getan hatte, tütete die patente Nichte der Tee Tante den Tee von der Kaffeetüte in die Tee Tüte um.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4130,7 +4130,7 @@
         "id": 414
     },
     {
-        "text": "Sage den Zungenbrecher „Wenn viele flinke Frösche viele fliegende Fliegen fangen, fangen viele flinke Frösche viele fliegende Fliegen.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn viele flinke Frösche viele fliegende Fliegen fangen, fangen viele flinke Frösche viele fliegende Fliegen.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4190,7 +4190,7 @@
         "id": 420
     },
     {
-        "text": "Sage den Zungenbrecher „Auf den sieben Robbenklippen sitzen sieben Robbensippen, die sich in die Rippen stippen, bis sie von den Klippen kippen.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Auf den sieben Robbenklippen sitzen sieben Robbensippen, die sich in die Rippen stippen, bis sie von den Klippen kippen.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4290,7 +4290,7 @@
         "id": 430
     },
     {
-        "text": "Sage den Zungenbrecher „Kontstantinopolitanischer Dudelsackpfeifersgeselle.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Kontstantinopolitanischer Dudelsackpfeifersgeselle.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4380,7 +4380,7 @@
         "id": 439
     },
     {
-        "text": "Sage den Zungenbrecher „Der Pralli prallt die Ralle bis die Schnalle knallt, bis die Schnalle knallt, prallt der Pralli die Ralle.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der Pralli prallt die Ralle bis die Schnalle knallt, bis die Schnalle knallt, prallt der Pralli die Ralle.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4440,7 +4440,7 @@
         "id": 445
     },
     {
-        "text": "Sage den Zungenbrecher „Die Katze tritt die Treppe krumm, krumm tritt die Katze die Treppe.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Die Katze tritt die Treppe krumm, krumm tritt die Katze die Treppe.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4560,7 +4560,7 @@
         "id": 457
     },
     {
-        "text": "Sage den Zungenbrecher „Sensitive Selektionssimulatoren sondieren sogar sekundärstrukturierte Sonarselektoren,  sogar sekundärstrukturierte Sonarselektoren sondieren sensitive Selektionssimulatoren.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Sensitive Selektionssimulatoren sondieren sogar sekundärstrukturierte Sonarselektoren,  sogar sekundärstrukturierte Sonarselektoren sondieren sensitive Selektionssimulatoren.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4680,7 +4680,7 @@
         "id": 469
     },
     {
-        "text": "Sage den Zungenbrecher „Eseln essen Nesseln nicht, Nesseln essen Eseln nicht.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Eseln essen Nesseln nicht, Nesseln essen Eseln nicht.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4950,7 +4950,7 @@
         "id": 496
     },
     {
-        "text": "Sage den Zungenbrecher „Klaus Knopf liebt Knödel, Klöße, Klöpse. Knödel, Klöße, Klöpse liebt Klaus Knopf.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Klaus Knopf liebt Knödel, Klöße, Klöpse. Knödel, Klöße, Klöpse liebt Klaus Knopf.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -5190,7 +5190,7 @@
         "id": 520
     },
     {
-        "text": "Sage den Zungenbrecher „Ein Dutzend nuschelnde Dutzer dutzen nuschelnd dutzende dutzender Nuschler nuschelnd.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Ein Dutzend nuschelnde Dutzer dutzen nuschelnd dutzende dutzender Nuschler nuschelnd.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -5340,7 +5340,7 @@
         "id": 537
     },
     {
-        "text": "Sage den Zungenbrecher „Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschwätzige Schwalben.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschwätzige Schwalben.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -6220,7 +6220,7 @@
         "id": 627
     },
     {
-        "text": "Sage den Zungenbrecher „Wenn der Grießkochkoch im Grießkochkochtopf Grießkoch kocht, kocht der Grießkochkoch Grießkoch im Grießkochkochtopf.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn der Grießkochkoch im Grießkochkochtopf Grießkoch kocht, kocht der Grießkochkoch Grießkoch im Grießkochkochtopf.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -6780,7 +6780,7 @@
         "id": 683
     },
     {
-        "text": "Sage den Zungenbrecher „In dem dichten Fichtendickicht pickten dicke Finken tüchtig, dicke Finken pickten tüchtig in dem dicken Fichtendickicht.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „In dem dichten Fichtendickicht pickten dicke Finken tüchtig, dicke Finken pickten tüchtig in dem dicken Fichtendickicht.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -7020,7 +7020,7 @@
         "id": 707
     },
     {
-        "text": "Sage den Zungenbrecher „Dicke Nichten dichten im dichten Fichtendickicht. Im dichten Fichtendickicht dichten dicke Nichten.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Dicke Nichten dichten im dichten Fichtendickicht. Im dichten Fichtendickicht dichten dicke Nichten.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -7130,7 +7130,7 @@
         "id": 718
     },
     {
-        "text": "Sage den Zungenbrecher \"Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschwätzige Schwalben.\" auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher \"Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschwätzige Schwalben.\" auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -7810,7 +7810,7 @@
         "id": 786
     },
     {
-        "text": "Sage den Zungenbrecher „In Ulm und um Ulm und um Ulm herum.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „In Ulm und um Ulm und um Ulm herum.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -7910,7 +7910,7 @@
         "id": 796
     },
     {
-        "text": "Sage den Zungenbrecher „Wenn prahlerische Piraten pikanten Piratenbraten braten, wird pikanter Piratenbraten von prahlerischen Piraten gebraten.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn prahlerische Piraten pikanten Piratenbraten braten, wird pikanter Piratenbraten von prahlerischen Piraten gebraten.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -8020,7 +8020,7 @@
         "id": 807
     },
     {
-        "text": "Sage den Zungenbrecher „Blaukraut bleibt Blaukraut, Brautkleid bleibt Brautkleid.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Blaukraut bleibt Blaukraut, Brautkleid bleibt Brautkleid.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -8450,7 +8450,7 @@
         "id": 850
     },
     {
-        "text": "Sage den Zungenbrecher „Wenn Schnecken an Schnecken schlecken, merken sie zu ihrem Schrecken, dass Schnecken nicht schmecken.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn Schnecken an Schnecken schlecken, merken sie zu ihrem Schrecken, dass Schnecken nicht schmecken.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -8640,7 +8640,7 @@
         "id": 869
     },
     {
-        "text": "Sage den Zungenbrecher „Der fiese friesische Fliesenleger fliest mit fiesem, friesischen Fliesenkleber.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der fiese friesische Fliesenleger fliest mit fiesem, friesischen Fliesenkleber.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -9760,7 +9760,7 @@
         "id": 982
     },
     {
-        "text": "Sage den Zungenbrecher „Kreischende Krähen knabbern im kalten Winter Kerne und Körner.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Kreischende Krähen knabbern im kalten Winter Kerne und Körner.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -10130,7 +10130,7 @@
         "id": 1019
     },
     {
-        "text": "Sage den Zungenbrecher „Der Schmied beschließt die Schmiede, Die Schmiede hat der Schmied beschlossen.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der Schmied beschließt die Schmiede, Die Schmiede hat der Schmied beschlossen.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -10220,7 +10220,7 @@
         "id": 1028
     },
     {
-        "text": "Sage den Zungenbrecher „Wenn Hessen in Essen Essen essen, essen Hessen Essen in Essen.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn Hessen in Essen Essen essen, essen Hessen Essen in Essen.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -10500,7 +10500,7 @@
         "id": 1056
     },
     {
-        "text": "Sage den Zungenbrecher „Der Zweck hat den Zweck den Zweck zu bezwecken. Und wenn der Zweck den Zweck nicht bezweckt, dann hat der Zweck überhaupt keinen Zweck.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der Zweck hat den Zweck den Zweck zu bezwecken. Und wenn der Zweck den Zweck nicht bezweckt, dann hat der Zweck überhaupt keinen Zweck.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11010,7 +11010,7 @@
         "id": 1107
     },
     {
-        "text": "Sage den Zungenbrecher „Fischers frisch frisierter Fritze frisst friesische frisch frittierte Frischfischfrikadellen“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Fischers frisch frisierter Fritze frisst friesische frisch frittierte Frischfischfrikadellen“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11140,7 +11140,7 @@
         "id": 1120
     },
     {
-        "text": "Sage den Zungenbrecher „Ein sehr schwer sehr schnell zu sprechender Spruch ist ein Schnellsprechspruch, auch ein nur schwer schnell zu sprechender Spruch heißt Schnellsprechspruch.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Ein sehr schwer sehr schnell zu sprechender Spruch ist ein Schnellsprechspruch, auch ein nur schwer schnell zu sprechender Spruch heißt Schnellsprechspruch.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11170,7 +11170,7 @@
         "id": 1123
     },
     {
-        "text": "Sage den Zungenbrecher „Als der KlapperschlangÂ´ Klapper schlapper klang, klang der KlapperschlangÂ´ Klapper schlapper“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Als der KlapperschlangÂ´ Klapper schlapper klang, klang der KlapperschlangÂ´ Klapper schlapper“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11210,7 +11210,7 @@
         "id": 1127
     },
     {
-        "text": "Sage den Zungenbrecher „Der Flugplatzspatz nahm auf dem Flugplatz platz. Auf dem Flugplatz nahm der Flugplatzspatz platz.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der Flugplatzspatz nahm auf dem Flugplatz platz. Auf dem Flugplatz nahm der Flugplatzspatz platz.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11410,7 +11410,7 @@
         "id": 1147
     },
     {
-        "text": "Sage den Zungenbrecher „Das Schleimschwein schleimt schweinisch im Schleim, im Schleim schweint schweinisch das Schleimschwein.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Das Schleimschwein schleimt schweinisch im Schleim, im Schleim schweint schweinisch das Schleimschwein.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
