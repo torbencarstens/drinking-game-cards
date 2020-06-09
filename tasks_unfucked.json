@@ -10060,7 +10060,7 @@
         "id": 1012
     },
     {
-        "text": "Bist du länger wie zwei Jahre single trinke {int} Schlücke.",
+        "text": "Bist du länger als zwei Jahre single trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
