@@ -1470,7 +1470,7 @@
         "id": 147
     },
     {
-        "text": "Sei für eine Runde ein Huhn. Trinke {int} Schlücke für jede regelwidrige Aktion.",
+        "text": "Sei für eine Runde ein Huhn. Trinke {int} Schlücke für jeden Regelbruch.",
         "count": 2,
         "uses": 0,
         "rounds": 1,
@@ -3270,7 +3270,7 @@
         "id": 328
     },
     {
-        "text": "Sei für eine Runde eine Katze. Trinke {int} Schlücke für jede regelwidrige Aktion.",
+        "text": "Sei für eine Runde eine Katze. Trinke {int} Schlücke für jeden Regelbruch.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -10420,7 +10420,7 @@
         "id": 1048
     },
     {
-        "text": "Sei für eine Runde ein Hund. Trinke {int} Schlücke für jede regelwidrige Aktion.",
+        "text": "Sei für eine Runde ein Hund. Trinke {int} Schlücke für jeden Regelbruch.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
