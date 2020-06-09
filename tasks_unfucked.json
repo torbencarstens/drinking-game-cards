@@ -1520,7 +1520,7 @@
         "id": 152
     },
     {
-        "text": "Du darfst eine Runde lang nur das Wort (Blablabla) benutzen. Trinke {int} Schlücke für jedes andere Wort.",
+        "text": "Du darfst eine Runde lang nur das Wort \"Blablabla\" benutzen. Trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -1700,7 +1700,7 @@
         "id": 170
     },
     {
-        "text": "Du darfst eine Runde lang nur das Wort (Hamster) benutzen. Trinke {int} Schlücke für jedes andere Wort.",
+        "text": "Du darfst eine Runde lang nur das Wort \"Hamster\" benutzen. Trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -2870,7 +2870,7 @@
         "id": 287
     },
     {
-        "text": "Lieber 60 Euro pro Stunde bekommen oder 20 Euro, jedes Mal, wenn Du öffentlich â€žFUCKâ€œ rufst? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
+        "text": "Lieber 60 Euro pro Stunde bekommen oder 20 Euro, jedes Mal, wenn Du öffentlich „FUCK“ rufst? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3040,7 +3040,7 @@
         "id": 304
     },
     {
-        "text": "Lieber â€žGuten Tagâ€œ gegen â€žSchnauzeâ€œ oder â€žDankeâ€œ gegen â€ždumme Kuhâ€œ eintauschen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
+        "text": "Lieber „Guten Tag“ gegen „Schnauze“ oder „Danke“ gegen „dumme Kuh“ eintauschen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4160,7 +4160,7 @@
         "id": 417
     },
     {
-        "text": "Lieber bei jedem Augenzwinkern den Ton einer Glocke im Kopf haben oder jedes Mal, wenn du jemanden ansprichst, mit â€žIch bin soloâ€œ beginnen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
+        "text": "Lieber bei jedem Augenzwinkern den Ton einer Glocke im Kopf haben oder jedes Mal, wenn du jemanden ansprichst, mit „Ich bin solo“ beginnen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -5900,7 +5900,7 @@
         "id": 594
     },
     {
-        "text": "Du darfst eine Runde lang nur das Wort (Vagina) benutzen. Trinke {int} Schlücke für jedes andere Wort.",
+        "text": "Du darfst eine Runde lang nur das Wort \"Vagina\" benutzen. Trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -8350,7 +8350,7 @@
         "id": 840
     },
     {
-        "text": "In dieser Runde darfst du nur das Wort (Lululu) benutzen. Brichst du die Regel, trinke {int} Schlücke für jedes andere Wort.",
+        "text": "In dieser Runde darfst du nur das Wort \"Lululu\" benutzen. Brichst du die Regel, trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8370,7 +8370,7 @@
         "id": 842
     },
     {
-        "text": "Redet euch eine Viertelstunde nur mit â€žSieâ€œ an. Wer dagegen verstößt, muss einen Shot trinken.",
+        "text": "Redet euch eine Viertelstunde nur mit „Sie“ an. Wer dagegen verstößt, muss einen Shot trinken.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -8720,7 +8720,7 @@
         "id": 877
     },
     {
-        "text": "Einer bekommt für den ganzen Abend den Namen â€žHorstâ€œ. Sobald jemand ihn nicht mit diesem Namen anredet, muss derjenige einen Kurzen trinken.",
+        "text": "Einer bekommt für den ganzen Abend den Namen „Horst“. Sobald jemand ihn nicht mit diesem Namen anredet, muss derjenige einen Kurzen trinken.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -9010,7 +9010,7 @@
         "id": 906
     },
     {
-        "text": "Du darfst eine Runde lang nur das Wort (Pussy) benutzen. Trinke {int} Schlücke für jedes andere Wort.",
+        "text": "Du darfst eine Runde lang nur das Wort \"Pussy\" benutzen. Trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -11640,7 +11640,7 @@
         "id": 1171
     },
     {
-        "text": "Bis zum Ende des Spiels sind die Wörter â€žFuckâ€œ und â€žScheißeâ€œ verboten. Wer dagegen verstößt, muss immer zwei Schlücke trinken.",
+        "text": "Bis zum Ende des Spiels sind die Wörter „Fuck“ und „Scheiße“ verboten. Wer dagegen verstößt, muss immer zwei Schlücke trinken.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11850,7 +11850,7 @@
         "id": 1192
     },
     {
-        "text": "Du darfst eine Runde lang nur das Wort (Pimmel) benutzen. Trinke {int} Schlücke für jedes andere Wort.",
+        "text": "Du darfst eine Runde lang nur das Wort \"Pimmel\" benutzen. Trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -11990,7 +11990,7 @@
         "id": 1206
     },
     {
-        "text": "Wessen Name mit â€žSâ€œ beginnt oder mit â€žAâ€œ endet, muss sein Glas austrinken.",
+        "text": "Wessen Name mit „S“ beginnt oder mit „A“ endet, muss sein Glas austrinken.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
