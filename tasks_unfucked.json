@@ -220,7 +220,7 @@
         "id": 22
     },
     {
-        "text": "Du bekommst die Wenn-ich-du-wäre-Karte. Du kannst im Laufe des Spiels einen Mitspieler bestimmen. Dieser muss eine (Wenn ich du wäre...) Aufgabe, die du dir ausdenkst, erledigen. Erledigt er sie nicht, ext er sein Getränk.",
+        "text": "Du bekommst die Wenn-ich-du-wäre-Karte. Du kannst im Laufe des Spiels einen Mitspieler bestimmen. Dieser muss eine „Wenn ich du wäre...“ Aufgabe, die du dir ausdenkst, erledigen. Erledigt er sie nicht, ext er sein Getränk.",
         "count": 3,
         "uses": 0,
         "rounds": 0,
@@ -240,7 +240,7 @@
         "id": 24
     },
     {
-        "text": "Schreibe jemandem den Satz (Kann ich mir deine Hand in den Mund stecken?). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Kann ich mir deine Hand in den Mund stecken?“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -400,7 +400,7 @@
         "id": 40
     },
     {
-        "text": "Jeder, dem der Film (Forrest Gump) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Forrest Gump“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -450,7 +450,7 @@
         "id": 45
     },
     {
-        "text": "Sage den Zungenbrecher (Zehn zahme Ziegen zogen zehn Zentner Zucker zum Zoo.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Zehn zahme Ziegen zogen zehn Zentner Zucker zum Zoo.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -470,7 +470,7 @@
         "id": 47
     },
     {
-        "text": "Sage den Zungenbrecher (Wenn der Benz bremst, brennt das Benzbremslicht.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn der Benz bremst, brennt das Benzbremslicht.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -490,7 +490,7 @@
         "id": 49
     },
     {
-        "text": "Jedes Mal, wenn jemand das Wort (Ich) sagt, darfst du {int} Schlücke verteilen. Die Regel gilt bis zum Ende des Spieles.",
+        "text": "Jedes Mal, wenn jemand das Wort „Ich“ sagt, darfst du {int} Schlücke verteilen. Die Regel gilt bis zum Ende des Spieles.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -530,7 +530,7 @@
         "id": 53
     },
     {
-        "text": "Jeder, dem der Film (Hangover) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Hangover“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -670,7 +670,7 @@
         "id": 67
     },
     {
-        "text": "Singe einmal (Ich gehe mit meiner Laterne) oder trinke {int} Schlücke.",
+        "text": "Singe einmal „Ich gehe mit meiner Laterne“ oder trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -690,7 +690,7 @@
         "id": 69
     },
     {
-        "text": "Schreibe jemandem den Satz (Ich liebe deine Mutter). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Ich liebe deine Mutter“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -700,7 +700,7 @@
         "id": 70
     },
     {
-        "text": "Schreibe jemandem den Satz (Angela Merkel ist dein Vater). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Angela Merkel ist dein Vater“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -930,7 +930,7 @@
         "id": 93
     },
     {
-        "text": "Sage den Zungenbrecher (Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -980,7 +980,7 @@
         "id": 98
     },
     {
-        "text": "Das Wort ( Trinken ) ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel, trinkt derjenige {int} Schlücke.",
+        "text": "Das Wort „Trinken“ ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel, trinkt derjenige {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -1070,7 +1070,7 @@
         "id": 107
     },
     {
-        "text": "Sage den Zungenbrecher (Klitzekleine Kinder können keinen Kirschkern knacken.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Klitzekleine Kinder können keinen Kirschkern knacken.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -1190,7 +1190,7 @@
         "id": 119
     },
     {
-        "text": "Sage den Zungenbrecher (Der kleine plappernde Kaplan klebt klappbare poppige Pappplakate an die klappernde Kapellwand) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der kleine plappernde Kaplan klebt klappbare poppige Pappplakate an die klappernde Kapellwand“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -1900,7 +1900,7 @@
         "id": 190
     },
     {
-        "text": "Sage den Zungenbrecher (Lang schwang der Klang den Hang entlang.) auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Lang schwang der Klang den Hang entlang.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -1930,7 +1930,7 @@
         "id": 193
     },
     {
-        "text": "Wer als Letzter ( Amena koyum ) schreit, trinkt {int} Schlücke.",
+        "text": "Wer als Letzter „Amena koyum“ schreit, trinkt {int} Schlücke.",
         "count": 3,
         "uses": 0,
         "rounds": 0,
@@ -2000,7 +2000,7 @@
         "id": 200
     },
     {
-        "text": "Sage den Zungenbrecher (Zwanzig Zwerge zeigen Handstand, zehn im Wandschrank, zehn am Sandstrand.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Zwanzig Zwerge zeigen Handstand, zehn im Wandschrank, zehn am Sandstrand.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -2130,7 +2130,7 @@
         "id": 213
     },
     {
-        "text": "Alle trinken Ihr Alter/3 als Schlücke.",
+        "text": "Alle trinken ein Drittel ihres Alters in Schlücken.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2340,7 +2340,7 @@
         "id": 234
     },
     {
-        "text": "Schreie (It se me, Mario!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „It se me, Mario!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2460,7 +2460,7 @@
         "id": 246
     },
     {
-        "text": "Sage den Zungenbrecher (Der Kottbusser Postkutscher putzt den Kottbusser Postkutschkasten.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der Kottbusser Postkutscher putzt den Kottbusser Postkutschkasten.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -2500,7 +2500,7 @@
         "id": 250
     },
     {
-        "text": "Jeder, dem der Film (Jurassic World) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Jurassic World“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2510,7 +2510,7 @@
         "id": 251
     },
     {
-        "text": "Verteile (dein Alter/2) als Schlücke.",
+        "text": "Verteile dein halbes Alter in Schlücken.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2670,7 +2670,7 @@
         "id": 267
     },
     {
-        "text": "Schreie (Ich bin Dieter Bohlen!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „Ich bin Dieter Bohlen!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2830,7 +2830,7 @@
         "id": 283
     },
     {
-        "text": "Sage den Zungenbrecher (Willy Millowitsch mixt Whisky, Whisky mixt Willy Millowitsch.) auf, schaffst du es verteile {int} Schlücke, schaffst du es nicht trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Willy Millowitsch mixt Whisky, Whisky mixt Willy Millowitsch.“ auf, schaffst du es verteile {int} Schlücke, schaffst du es nicht trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3010,7 +3010,7 @@
         "id": 301
     },
     {
-        "text": "Jeder, dem der Film (Inception) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Inception“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3040,7 +3040,7 @@
         "id": 304
     },
     {
-        "text": "Lieber „Guten Tag“ gegen „Schnauze“ oder „Danke“ gegen „dumme Kuh“ eintauschen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
+        "text": "Lieber „Guten Tag“ gegen „Schnauze“, oder „Danke“ gegen „dumme Kuh“ eintauschen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3130,7 +3130,7 @@
         "id": 313
     },
     {
-        "text": "Hat dir ( Star Wars VII ) gefallen, dann trinke {int} Schlücke.",
+        "text": "Hat dir „Star Wars VII“ gefallen, dann trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3250,7 +3250,7 @@
         "id": 326
     },
     {
-        "text": "Sage den Zungenbrecher (Zwischen Zwetschgenzweigen sitzen zwei tschechisch zwitschernde Schwalben. Zwei tschechisch zwitschernde Schwalben sitzen zwischen Zwetschgenzweigen.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Zwischen Zwetschgenzweigen sitzen zwei tschechisch zwitschernde Schwalben. Zwei tschechisch zwitschernde Schwalben sitzen zwischen Zwetschgenzweigen.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3520,7 +3520,7 @@
         "id": 353
     },
     {
-        "text": "Schreie (Holla die Waldfee!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „Holla die Waldfee!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3560,7 +3560,7 @@
         "id": 357
     },
     {
-        "text": "Schreibe jemandem den Satz (Lutsch mein kleinen Finger). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Lutsch mein kleinen Finger“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3650,7 +3650,7 @@
         "id": 366
     },
     {
-        "text": "Schreie (Pikachu, ich wähle dich!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „Pikachu, ich wähle dich!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3690,7 +3690,7 @@
         "id": 370
     },
     {
-        "text": "Sage den Zungenbrecher (Immer, wenn die tütelige Tee Tante den Tee in die Kaffeetüte getan hatte, tütete die patente Nichte der Tee Tante den Tee von der Kaffeetüte in die Tee Tüte um.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Immer, wenn die tütelige Tee Tante den Tee in die Kaffeetüte getan hatte, tütete die patente Nichte der Tee Tante den Tee von der Kaffeetüte in die Tee Tüte um.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4090,7 +4090,7 @@
         "id": 410
     },
     {
-        "text": "Spreche alle Mitspieler nur noch mit (Kollege) an. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch, trinkst du {int} Schlücke.",
+        "text": "Spreche alle Mitspieler nur noch mit „Kollege“ an. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch, trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -4130,7 +4130,7 @@
         "id": 414
     },
     {
-        "text": "Sage den Zungenbrecher (Wenn viele flinke Frösche viele fliegende Fliegen fangen, fangen viele flinke Frösche viele fliegende Fliegen.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn viele flinke Frösche viele fliegende Fliegen fangen, fangen viele flinke Frösche viele fliegende Fliegen.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4170,7 +4170,7 @@
         "id": 418
     },
     {
-        "text": "Schreibe jemandem den Satz (Fick dein Hamster). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Fick dein Hamster“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -4190,7 +4190,7 @@
         "id": 420
     },
     {
-        "text": "Sage den Zungenbrecher (Auf den sieben Robbenklippen sitzen sieben Robbensippen, die sich in die Rippen stippen, bis sie von den Klippen kippen.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Auf den sieben Robbenklippen sitzen sieben Robbensippen, die sich in die Rippen stippen, bis sie von den Klippen kippen.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4210,7 +4210,7 @@
         "id": 422
     },
     {
-        "text": "Schreibe jemandem den Satz (Hodenkobolde sind seltene Tiere). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Hodenkobolde sind seltene Tiere“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -4290,7 +4290,7 @@
         "id": 430
     },
     {
-        "text": "Sage den Zungenbrecher (Kontstantinopolitanischer Dudelsackpfeifersgeselle.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Kontstantinopolitanischer Dudelsackpfeifersgeselle.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4380,7 +4380,7 @@
         "id": 439
     },
     {
-        "text": "Sage den Zungenbrecher (Der Pralli prallt die Ralle bis die Schnalle knallt, bis die Schnalle knallt, prallt der Pralli die Ralle.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der Pralli prallt die Ralle bis die Schnalle knallt, bis die Schnalle knallt, prallt der Pralli die Ralle.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4440,7 +4440,7 @@
         "id": 445
     },
     {
-        "text": "Sage den Zungenbrecher (Die Katze tritt die Treppe krumm, krumm tritt die Katze die Treppe.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Die Katze tritt die Treppe krumm, krumm tritt die Katze die Treppe.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4560,7 +4560,7 @@
         "id": 457
     },
     {
-        "text": "Sage den Zungenbrecher (Sensitive Selektionssimulatoren sondieren sogar sekundärstrukturierte Sonarselektoren,  sogar sekundärstrukturierte Sonarselektoren sondieren sensitive Selektionssimulatoren.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Sensitive Selektionssimulatoren sondieren sogar sekundärstrukturierte Sonarselektoren,  sogar sekundärstrukturierte Sonarselektoren sondieren sensitive Selektionssimulatoren.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4670,7 +4670,7 @@
         "id": 468
     },
     {
-        "text": "Jeder, dem der Film (21 Jumpstreet) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „21 Jumpstreet“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -4680,7 +4680,7 @@
         "id": 469
     },
     {
-        "text": "Sage den Zungenbrecher (Eseln essen Nesseln nicht, Nesseln essen Eseln nicht.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Eseln essen Nesseln nicht, Nesseln essen Eseln nicht.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4800,7 +4800,7 @@
         "id": 481
     },
     {
-        "text": "Erkläre der Gruppe einen Begriff, den sich derjenige aussucht, der vorliest (er spielt diese Runde nicht mit). Errät es jemand, darf er {int} Schlücke verteilen, wenn nicht, trinkst du {int} Schlücke.",
+        "text": "Erkläre der Gruppe einen Begriff, den sich derjenige aussucht, der vorliest „er spielt diese Runde nicht mit“. Errät es jemand, darf er {int} Schlücke verteilen, wenn nicht, trinkst du {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4920,7 +4920,7 @@
         "id": 493
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist (Justin Bieber ist so geil!) sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
+        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist „Justin Bieber ist so geil!“ sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -4950,7 +4950,7 @@
         "id": 496
     },
     {
-        "text": "Sage den Zungenbrecher (Klaus Knopf liebt Knödel, Klöße, Klöpse. Knödel, Klöße, Klöpse liebt Klaus Knopf.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Klaus Knopf liebt Knödel, Klöße, Klöpse. Knödel, Klöße, Klöpse liebt Klaus Knopf.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4970,7 +4970,7 @@
         "id": 498
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, jedes Mal nachdem du getrunken hast, (Danke, noch mehr bitte!) sagen. Bei jedem Verstoß trinkst du ein Schluck.",
+        "text": "Du musst bis zum Ende des Spiels, jedes Mal nachdem du getrunken hast, „Danke, noch mehr bitte!“ sagen. Bei jedem Verstoß trinkst du ein Schluck.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5000,7 +5000,7 @@
         "id": 501
     },
     {
-        "text": "Singe einmal (Backe backe Kuchen) oder trinke {int} Schlücke.",
+        "text": "Singe einmal „Backe backe Kuchen“ oder trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5190,7 +5190,7 @@
         "id": 520
     },
     {
-        "text": "Sage den Zungenbrecher (Ein Dutzend nuschelnde Dutzer dutzen nuschelnd dutzende dutzender Nuschler nuschelnd.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Ein Dutzend nuschelnde Dutzer dutzen nuschelnd dutzende dutzender Nuschler nuschelnd.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -5230,7 +5230,7 @@
         "id": 524
     },
     {
-        "text": "Jeder, dem der Film (Titanic) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Titanic“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5340,7 +5340,7 @@
         "id": 537
     },
     {
-        "text": "Sage den Zungenbrecher (Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschwätzige Schwalben.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschwätzige Schwalben.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -5700,7 +5700,7 @@
         "id": 574
     },
     {
-        "text": "Jeder, dem der Film (Hangcock) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Hangcock“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5980,7 +5980,7 @@
         "id": 602
     },
     {
-        "text": "Alle, die Angst vor Spinnen haben (also alle, etwa nicht?), trinken {int} Schlücke!",
+        "text": "Alle, die Angst vor Spinnen haben „also alle, etwa nicht?“, trinken {int} Schlücke!",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5990,7 +5990,7 @@
         "id": 603
     },
     {
-        "text": "Schreie (Ich habe kleine Hoden!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „Ich habe kleine Hoden!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6200,7 +6200,7 @@
         "id": 625
     },
     {
-        "text": "Schreie (Ich bin eine dumme Ratte!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „Ich bin eine dumme Ratte!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6220,7 +6220,7 @@
         "id": 627
     },
     {
-        "text": "Sage den Zungenbrecher (Wenn der Grießkochkoch im Grießkochkochtopf Grießkoch kocht, kocht der Grießkochkoch Grießkoch im Grießkochkochtopf.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn der Grießkochkoch im Grießkochkochtopf Grießkoch kocht, kocht der Grießkochkoch Grießkoch im Grießkochkochtopf.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -6260,7 +6260,7 @@
         "id": 631
     },
     {
-        "text": "Jedes Mal, wenn jemand das Wort (Trinken) sagt, darfst du {int} Schlücke verteilen. Die Regel gilt bis zum Ende des Spieles.",
+        "text": "Jedes Mal, wenn jemand das Wort „Trinken“ sagt, darfst du {int} Schlücke verteilen. Die Regel gilt bis zum Ende des Spieles.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6410,7 +6410,7 @@
         "id": 646
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist (Ich bin so blau wie ein Schlumpf!) sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
+        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist „Ich bin so blau wie ein Schlumpf!“ sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6600,7 +6600,7 @@
         "id": 665
     },
     {
-        "text": "Jeder, dem der Film (König der Löwen) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „König der Löwen“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6710,7 +6710,7 @@
         "id": 676
     },
     {
-        "text": "Das Wort ( Schlücke ) ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel, trinkt derjenige {int} Schlücke.",
+        "text": "Das Wort „Schlücke“ ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel, trinkt derjenige {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6780,7 +6780,7 @@
         "id": 683
     },
     {
-        "text": "Sage den Zungenbrecher (In dem dichten Fichtendickicht pickten dicke Finken tüchtig, dicke Finken pickten tüchtig in dem dicken Fichtendickicht.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „In dem dichten Fichtendickicht pickten dicke Finken tüchtig, dicke Finken pickten tüchtig in dem dicken Fichtendickicht.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -7020,7 +7020,7 @@
         "id": 707
     },
     {
-        "text": "Sage den Zungenbrecher (Dicke Nichten dichten im dichten Fichtendickicht. Im dichten Fichtendickicht dichten dicke Nichten.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Dicke Nichten dichten im dichten Fichtendickicht. Im dichten Fichtendickicht dichten dicke Nichten.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -7240,7 +7240,7 @@
         "id": 729
     },
     {
-        "text": "Jeder, dem der Film (Findet Nemo) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Findet Nemo“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7310,7 +7310,7 @@
         "id": 736
     },
     {
-        "text": "Schreie (Ich bin eine geile Eule!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „Ich bin eine geile Eule!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7610,7 +7610,7 @@
         "id": 766
     },
     {
-        "text": "Schreibe jemandem den Satz (Ich esse deine scheiss Haare auf). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Ich esse deine scheiss Haare auf“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7650,7 +7650,7 @@
         "id": 770
     },
     {
-        "text": "Jeder, dem der Film (Avatar) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Avatar“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7660,7 +7660,7 @@
         "id": 771
     },
     {
-        "text": "Verteile (dein Alter/3) als Schlücke.",
+        "text": "Verteile ein Drittel deines Alters in Schlücken.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7800,7 +7800,7 @@
         "id": 785
     },
     {
-        "text": "Schreibe jemandem den Satz (Ich würde gerne deine beine brechen). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Ich würde gerne deine beine brechen“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7810,7 +7810,7 @@
         "id": 786
     },
     {
-        "text": "Sage den Zungenbrecher (In Ulm und um Ulm und um Ulm herum.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „In Ulm und um Ulm und um Ulm herum.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -7910,7 +7910,7 @@
         "id": 796
     },
     {
-        "text": "Sage den Zungenbrecher (Wenn prahlerische Piraten pikanten Piratenbraten braten, wird pikanter Piratenbraten von prahlerischen Piraten gebraten.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn prahlerische Piraten pikanten Piratenbraten braten, wird pikanter Piratenbraten von prahlerischen Piraten gebraten.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -7950,7 +7950,7 @@
         "id": 800
     },
     {
-        "text": "trink {int} Schlücke, wenn du schon einmal deinen Penis (oder den deines Partners) gemessen hast.",
+        "text": "trink {int} Schlücke, wenn du schon einmal deinen Penis „oder den deines Partners“ gemessen hast.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8000,7 +8000,7 @@
         "id": 805
     },
     {
-        "text": "Schreie (Ich bin eine Lady!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „Ich bin eine Lady!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8020,7 +8020,7 @@
         "id": 807
     },
     {
-        "text": "Sage den Zungenbrecher (Blaukraut bleibt Blaukraut, Brautkleid bleibt Brautkleid.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Blaukraut bleibt Blaukraut, Brautkleid bleibt Brautkleid.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -8040,7 +8040,7 @@
         "id": 809
     },
     {
-        "text": "Jeder, dem der Film (I am Legend) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „I am Legend“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8210,7 +8210,7 @@
         "id": 826
     },
     {
-        "text": "Jedes Mal, wenn jemand das Wort (Du) sagt, darfst du {int} Schlücke verteilen. Die Regel gilt bis zum Ende des Spieles.",
+        "text": "Jedes Mal, wenn jemand das Wort „Du“ sagt, darfst du {int} Schlücke verteilen. Die Regel gilt bis zum Ende des Spieles.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8450,7 +8450,7 @@
         "id": 850
     },
     {
-        "text": "Sage den Zungenbrecher (Wenn Schnecken an Schnecken schlecken, merken sie zu ihrem Schrecken, dass Schnecken nicht schmecken.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn Schnecken an Schnecken schlecken, merken sie zu ihrem Schrecken, dass Schnecken nicht schmecken.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -8610,7 +8610,7 @@
         "id": 866
     },
     {
-        "text": "Schreibe jemandem den Satz (Ich finde deine Schwester verdammt heiß). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Ich finde deine Schwester verdammt heiß“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8640,7 +8640,7 @@
         "id": 869
     },
     {
-        "text": "Sage den Zungenbrecher (Der fiese friesische Fliesenleger fliest mit fiesem, friesischen Fliesenkleber.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der fiese friesische Fliesenleger fliest mit fiesem, friesischen Fliesenkleber.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -8710,7 +8710,7 @@
         "id": 876
     },
     {
-        "text": "Brülle aus dem Fenster (Dicke Titten Kartoffelsalat) oder trinke {int} Schlücke.",
+        "text": "Brülle aus dem Fenster „Dicke Titten Kartoffelsalat“ oder trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8910,7 +8910,7 @@
         "id": 896
     },
     {
-        "text": "Sich lieber mit einem Messer in den Bauch stechen lassen (ohne zu sterben) oder mit einer Waffe ins Knie schießen lassen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
+        "text": "Sich lieber mit einem Messer in den Bauch stechen lassen „ohne zu sterben“ oder mit einer Waffe ins Knie schießen lassen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8950,7 +8950,7 @@
         "id": 900
     },
     {
-        "text": "Singe einmal (Hänschen klein) oder trinke {int} Schlücke.",
+        "text": "Singe einmal „Hänschen klein“ oder trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9100,7 +9100,7 @@
         "id": 915
     },
     {
-        "text": "Schrei aus dem Fenster: (Scheiß auf Schicki Micki, ich will noch nen Bier!). Machst du es nicht: Trinke {int} Schlücke.",
+        "text": "Schrei aus dem Fenster: „Scheiß auf Schicki Micki, ich will noch nen Bier!“. Machst du es nicht: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9290,7 +9290,7 @@
         "id": 934
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, (Juhu... Ich hab so bock drauf!..) sagen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, „Juhu... Ich hab so bock drauf!..“ sagen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9300,7 +9300,7 @@
         "id": 935
     },
     {
-        "text": "Singe einmal (Alle meine Entchen) oder trinke {int} Schlücke.",
+        "text": "Singe einmal „Alle meine Entchen“ oder trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9580,7 +9580,7 @@
         "id": 964
     },
     {
-        "text": "Singe einmal (old macdonald had a farm) oder trinke {int} Schlücke.",
+        "text": "Singe einmal „old macdonald had a farm“ oder trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9760,7 +9760,7 @@
         "id": 982
     },
     {
-        "text": "Sage den Zungenbrecher (Kreischende Krähen knabbern im kalten Winter Kerne und Körner.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Kreischende Krähen knabbern im kalten Winter Kerne und Körner.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -9990,7 +9990,7 @@
         "id": 1005
     },
     {
-        "text": "Wer als Letzter ( Muuuuuuuuh ) schreit, trinkt {int} Schlücke.",
+        "text": "Wer als Letzter „Muuuuuuuuh“ schreit, trinkt {int} Schlücke.",
         "count": 3,
         "uses": 0,
         "rounds": 0,
@@ -10110,7 +10110,7 @@
         "id": 1017
     },
     {
-        "text": "Schreibe jemandem den Satz (Ich habe Vagina-Herpes). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Ich habe Vagina-Herpes“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -10130,7 +10130,7 @@
         "id": 1019
     },
     {
-        "text": "Sage den Zungenbrecher (Der Schmied beschließt die Schmiede, Die Schmiede hat der Schmied beschlossen.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der Schmied beschließt die Schmiede, Die Schmiede hat der Schmied beschlossen.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -10220,7 +10220,7 @@
         "id": 1028
     },
     {
-        "text": "Sage den Zungenbrecher (Wenn Hessen in Essen Essen essen, essen Hessen Essen in Essen.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn Hessen in Essen Essen essen, essen Hessen Essen in Essen.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -10440,7 +10440,7 @@
         "id": 1050
     },
     {
-        "text": "Bestimme eine Kategorie (z.B. Automarken). Jeder nennt nun reihum etwas aus dieser Kategorie. Wer nichts mehr weiß oder etwas wiederholt, trinkt {int} Schlücke.",
+        "text": "Bestimme eine Kategorie „z.B. Automarken“. Jeder nennt nun reihum etwas aus dieser Kategorie. Wer nichts mehr weiß oder etwas wiederholt, trinkt {int} Schlücke.",
         "count": 10,
         "uses": 0,
         "rounds": 0,
@@ -10500,7 +10500,7 @@
         "id": 1056
     },
     {
-        "text": "Sage den Zungenbrecher (Der Zweck hat den Zweck den Zweck zu bezwecken. Und wenn der Zweck den Zweck nicht bezweckt, dann hat der Zweck überhaupt keinen Zweck.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der Zweck hat den Zweck den Zweck zu bezwecken. Und wenn der Zweck den Zweck nicht bezweckt, dann hat der Zweck überhaupt keinen Zweck.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -10590,7 +10590,7 @@
         "id": 1065
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist (Juhu ich freue mich!) sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
+        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist „Juhu ich freue mich!“ sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11010,7 +11010,7 @@
         "id": 1107
     },
     {
-        "text": "Sage den Zungenbrecher (Fischers frisch frisierter Fritze frisst friesische frisch frittierte Frischfischfrikadellen) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Fischers frisch frisierter Fritze frisst friesische frisch frittierte Frischfischfrikadellen“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11020,7 +11020,7 @@
         "id": 1108
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, (Muuuuh!) sagen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, „Muuuuh!“ sagen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11050,7 +11050,7 @@
         "id": 1111
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist (Jawohl, der Oberficker ist dran!) sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
+        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist „Jawohl, der Oberficker ist dran!“ sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11140,7 +11140,7 @@
         "id": 1120
     },
     {
-        "text": "Sage den Zungenbrecher (Ein sehr schwer sehr schnell zu sprechender Spruch ist ein Schnellsprechspruch, auch ein nur schwer schnell zu sprechender Spruch heißt Schnellsprechspruch.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Ein sehr schwer sehr schnell zu sprechender Spruch ist ein Schnellsprechspruch, auch ein nur schwer schnell zu sprechender Spruch heißt Schnellsprechspruch.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11170,7 +11170,7 @@
         "id": 1123
     },
     {
-        "text": "Sage den Zungenbrecher (Als der KlapperschlangÂ´ Klapper schlapper klang, klang der KlapperschlangÂ´ Klapper schlapper) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Als der KlapperschlangÂ´ Klapper schlapper klang, klang der KlapperschlangÂ´ Klapper schlapper“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11210,7 +11210,7 @@
         "id": 1127
     },
     {
-        "text": "Sage den Zungenbrecher (Der Flugplatzspatz nahm auf dem Flugplatz platz. Auf dem Flugplatz nahm der Flugplatzspatz platz.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der Flugplatzspatz nahm auf dem Flugplatz platz. Auf dem Flugplatz nahm der Flugplatzspatz platz.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11410,7 +11410,7 @@
         "id": 1147
     },
     {
-        "text": "Sage den Zungenbrecher (Das Schleimschwein schleimt schweinisch im Schleim, im Schleim schweint schweinisch das Schleimschwein.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Das Schleimschwein schleimt schweinisch im Schleim, im Schleim schweint schweinisch das Schleimschwein.“ auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11760,7 +11760,7 @@
         "id": 1183
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist (Ich liebe Angela Merkel!) sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
+        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist „Ich liebe Angela Merkel!“ sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11940,7 +11940,7 @@
         "id": 1201
     },
     {
-        "text": "Schreie (Ich bin ein taubes Nüsschen!) und trinke {int} Schlücke.",
+        "text": "Schreie „Ich bin ein taubes Nüsschen!“ und trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
