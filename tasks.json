@@ -164,8 +164,8 @@
         "count": 10,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 17
     },
@@ -190,13 +190,13 @@
         "id": 19
     },
     {
-        "text": "Eine Runde dürfen keine Personalpronomen ( ich, du, er, sie, es, wir, ihr, sie) benutzt werden. Wer die Regel bricht, trinkt {int} Schlücke.",
+        "text": "Eine Runde dürfen keine Personalpronomen (ich, du, er, sie, es, wir, ihr, sie) benutzt werden. Wer die Regel bricht, trinkt {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 1,
         "personal": false,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 20
     },
     {
@@ -214,17 +214,17 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 22
     },
     {
-        "text": "Du bekommst die Wenn-ich-du-wäre-Karte. Du kannst im Laufe des Spiels einen Mitspieler bestimmen. Dieser muss eine (Wenn ich du wäre...) Aufgabe, die du dir ausdenkst, erledigen. Erledigt er sie nicht, ext er sein Getränk.",
+        "text": "Du bekommst die Wenn-ich-du-wäre-Karte. Du kannst im Laufe des Spiels einen Mitspieler bestimmen. Dieser muss eine „Wenn ich du wäre...“ Aufgabe, die du dir ausdenkst, erledigen. Erledigt er sie nicht, ext er sein Getränk.",
         "count": 3,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 23
@@ -240,11 +240,11 @@
         "id": 24
     },
     {
-        "text": "Schreibe jemandem den Satz (Kann ich mir deine Hand in den Mund stecken?). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Kann ich mir deine Hand in den Mund stecken?“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 25
@@ -304,8 +304,8 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 31
     },
@@ -324,7 +324,7 @@
         "count": 3,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 33
@@ -334,7 +334,7 @@
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 34
@@ -354,7 +354,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 36
@@ -374,7 +374,7 @@
         "count": 5,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 38
@@ -400,7 +400,7 @@
         "id": 40
     },
     {
-        "text": "Jeder, dem der Film (Forrest Gump) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Forrest Gump“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -424,7 +424,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 43
@@ -444,17 +444,17 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 45
     },
     {
-        "text": "Sage den Zungenbrecher (Zehn zahme Ziegen zogen zehn Zentner Zucker zum Zoo.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Zehn zahme Ziegen zogen zehn Zentner Zucker zum Zoo.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 46
@@ -470,11 +470,11 @@
         "id": 47
     },
     {
-        "text": "Sage den Zungenbrecher (Wenn der Benz bremst, brennt das Benzbremslicht.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn der Benz bremst, brennt das Benzbremslicht.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 48
@@ -484,17 +484,17 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 49
     },
     {
-        "text": "Jedes Mal, wenn jemand das Wort (Ich) sagt, darfst du {int} Schlücke verteilen. Die Regel gilt bis zum Ende des Spieles.",
+        "text": "Jedes Mal, wenn jemand das Wort „Ich“ sagt, darfst du {int} Schlücke verteilen. Die Regel gilt bis zum Ende des Spieles.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 50
@@ -524,13 +524,13 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 53
     },
     {
-        "text": "Jeder, dem der Film (Hangover) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Hangover“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -546,7 +546,7 @@
         "rounds": 1,
         "personal": true,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 55
     },
     {
@@ -554,7 +554,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 56
@@ -614,7 +614,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 62
@@ -664,13 +664,13 @@
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 67
     },
     {
-        "text": "Singe einmal (Ich gehe mit meiner Laterne) oder trinke {int} Schlücke.",
+        "text": "Singe einmal „Ich gehe mit meiner Laterne“ oder trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -690,21 +690,21 @@
         "id": 69
     },
     {
-        "text": "Schreibe jemandem den Satz (Ich liebe deine Mutter). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Ich liebe deine Mutter“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 70
     },
     {
-        "text": "Schreibe jemandem den Satz (Angela Merkel ist dein Vater). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Angela Merkel ist dein Vater“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 71
@@ -720,13 +720,13 @@
         "id": 72
     },
     {
-        "text": "Du musst dir eine Runde lang die Ohren zu halten und darfst nicht hören was passiert. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst dir eine Runde lang die Ohren zu halten und darfst nicht hören was passiert. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 1,
         "personal": true,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 73
     },
     {
@@ -734,7 +734,7 @@
         "count": 4,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 74
@@ -744,7 +744,7 @@
         "count": 5,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 75
@@ -754,7 +754,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 76
@@ -774,7 +774,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 78
@@ -804,7 +804,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 81
@@ -814,7 +814,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 82
@@ -884,7 +884,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 89
@@ -894,7 +894,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 90
@@ -914,8 +914,8 @@
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 92
     },
@@ -930,11 +930,11 @@
         "id": 93
     },
     {
-        "text": "Sage den Zungenbrecher (Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 94
@@ -965,7 +965,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 97
     },
@@ -980,7 +980,7 @@
         "id": 98
     },
     {
-        "text": "Das Wort ( Trinken ) ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel, trinkt derjenige {int} Schlücke.",
+        "text": "Das Wort „Trinken“ ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel, trinkt derjenige {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -1020,10 +1020,10 @@
         "id": 102
     },
     {
-        "text": "Bestimme ein Wort und ob es eine oder alle Runden des Spiels verboten ist. Jedes mal wenn jemand dieses Wort sagt, trink derjenige {int} Schlücke.",
+        "text": "Bestimme ein Wort, das alle Runden des Spiels verboten ist. Jedes mal wenn jemand dieses Wort sagt, trinkt derjenige {int} Schlücke.",
         "count": 1,
         "uses": 0,
-        "rounds": 0,
+        "rounds": -1,
         "personal": false,
         "remote": true,
         "unique": true,
@@ -1064,17 +1064,17 @@
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 107
     },
     {
-        "text": "Sage den Zungenbrecher (Klitzekleine Kinder können keinen Kirschkern knacken.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Klitzekleine Kinder können keinen Kirschkern knacken.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 108
@@ -1084,7 +1084,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 109
@@ -1113,7 +1113,7 @@
         "text": "Wähle deinen Sklaven. Dieser muss über drei Runden deine Schlücke trinken.",
         "count": 1,
         "uses": 0,
-        "rounds": 0,
+        "rounds": 3,
         "personal": true,
         "remote": true,
         "unique": true,
@@ -1155,7 +1155,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 116
     },
@@ -1174,7 +1174,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 118
@@ -1190,11 +1190,11 @@
         "id": 119
     },
     {
-        "text": "Sage den Zungenbrecher (Der kleine plappernde Kaplan klebt klappbare poppige Pappplakate an die klappernde Kapellwand) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der kleine plappernde Kaplan klebt klappbare poppige Pappplakate an die klappernde Kapellwand“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 120
@@ -1274,7 +1274,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 128
@@ -1354,7 +1354,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 136
@@ -1385,7 +1385,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 139
     },
@@ -1414,7 +1414,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 142
@@ -1463,20 +1463,20 @@
         "text": "Alle Hundebesitzer trinken die nächsten 3 Runden doppelt.",
         "count": 2,
         "uses": 0,
-        "rounds": 0,
+        "rounds": 3,
         "personal": false,
         "remote": true,
         "unique": true,
         "id": 147
     },
     {
-        "text": "Sei für eine Runde ein Huhn. Trinke {int} Schlücke für jede regelwidrige Aktion.",
+        "text": "Sei für eine Runde ein Huhn. Trinke {int} Schlücke für jeden Regelbruch.",
         "count": 2,
         "uses": 0,
         "rounds": 1,
         "personal": true,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 148
     },
     {
@@ -1520,7 +1520,7 @@
         "id": 152
     },
     {
-        "text": "Du darfst eine Runde lang nur das Wort (Blablabla) benutzen. Trinke {int} Schlücke für jedes andere Wort.",
+        "text": "Du darfst eine Runde lang nur das Wort \"Blablabla\" benutzen. Trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -1534,7 +1534,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 154
@@ -1545,7 +1545,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 155
     },
@@ -1554,7 +1554,7 @@
         "count": 4,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 156
@@ -1564,7 +1564,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 157
@@ -1590,7 +1590,7 @@
         "id": 159
     },
     {
-        "text": "Mädels, ihr trinkt eure Körpchengröße in Schlucken (A = 1, B = 2, etc.).",
+        "text": "Mädels, ihr trinkt eure Körbchengröße in Schlucken (A = 1, B = 2, etc.).",
         "count": 4,
         "uses": 0,
         "rounds": 0,
@@ -1604,8 +1604,8 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 161
     },
@@ -1624,7 +1624,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 163
@@ -1634,7 +1634,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 164
@@ -1654,7 +1654,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 166
@@ -1670,7 +1670,7 @@
         "id": 167
     },
     {
-        "text": "Alle Bushido Fans, trinken {int} Schlücke.",
+        "text": "Alle Bushido Fans trinken {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -1694,13 +1694,13 @@
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 170
     },
     {
-        "text": "Du darfst eine Runde lang nur das Wort (Hamster) benutzen. Trinke {int} Schlücke für jedes andere Wort.",
+        "text": "Du darfst eine Runde lang nur das Wort \"Hamster\" benutzen. Trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -1714,7 +1714,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 172
@@ -1764,7 +1764,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 177
@@ -1794,7 +1794,7 @@
         "count": 6,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 180
@@ -1804,7 +1804,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 181
@@ -1900,11 +1900,11 @@
         "id": 190
     },
     {
-        "text": "Sage den Zungenbrecher (Lang schwang der Klang den Hang entlang.) auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Lang schwang der Klang den Hang entlang.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 191
@@ -1930,7 +1930,7 @@
         "id": 193
     },
     {
-        "text": "Wer als Letzter ( Amena koyum ) schreit, trinkt {int} Schlücke.",
+        "text": "Wer als Letzter „Amena koyum“ schreit, trinkt {int} Schlücke.",
         "count": 3,
         "uses": 0,
         "rounds": 0,
@@ -1974,7 +1974,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 198
@@ -1983,10 +1983,10 @@
         "text": "Verteile {int} Schlücke oder erhalte für eine Runde Immunität.",
         "count": 20,
         "uses": 0,
-        "rounds": 0,
+        "rounds": 1,
         "personal": false,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 199
     },
     {
@@ -1994,17 +1994,17 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 200
     },
     {
-        "text": "Sage den Zungenbrecher (Zwanzig Zwerge zeigen Handstand, zehn im Wandschrank, zehn am Sandstrand.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Zwanzig Zwerge zeigen Handstand, zehn im Wandschrank, zehn am Sandstrand.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 201
@@ -2034,7 +2034,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 204
@@ -2054,7 +2054,7 @@
         "count": 27,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 206
@@ -2064,7 +2064,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 207
@@ -2083,10 +2083,10 @@
         "text": "Denke dir eine Regel aus. Diese Regel gilt nur für eine Runde.",
         "count": 3,
         "uses": 0,
-        "rounds": 0,
-        "personal": false,
+        "rounds": 1,
+        "personal": true,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 209
     },
     {
@@ -2094,7 +2094,7 @@
         "count": 10,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 210
@@ -2104,7 +2104,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 211
@@ -2130,7 +2130,7 @@
         "id": 213
     },
     {
-        "text": "Alle trinken Ihr Alter/3 als Schlücke.",
+        "text": "Alle trinken ein Drittel ihres Alters in Schlücken.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2144,7 +2144,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 215
@@ -2234,7 +2234,7 @@
         "count": 40,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 224
@@ -2284,7 +2284,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 229
@@ -2340,7 +2340,7 @@
         "id": 234
     },
     {
-        "text": "Schreie (It se me, Mario!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „It se me, Mario!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2354,7 +2354,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 236
@@ -2404,7 +2404,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 241
@@ -2460,11 +2460,11 @@
         "id": 246
     },
     {
-        "text": "Sage den Zungenbrecher (Der Kottbusser Postkutscher putzt den Kottbusser Postkutschkasten.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der Kottbusser Postkutscher putzt den Kottbusser Postkutschkasten.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 247
@@ -2500,7 +2500,7 @@
         "id": 250
     },
     {
-        "text": "Jeder, dem der Film (Jurassic World) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Jurassic World“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2510,7 +2510,7 @@
         "id": 251
     },
     {
-        "text": "Verteile (dein Alter/2) als Schlücke.",
+        "text": "Verteile dein halbes Alter in Schlücken.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2534,7 +2534,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 254
@@ -2564,7 +2564,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 257
@@ -2594,7 +2594,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 260
@@ -2614,7 +2614,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 262
@@ -2624,7 +2624,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 263
@@ -2670,7 +2670,7 @@
         "id": 267
     },
     {
-        "text": "Schreie (Ich bin Dieter Bohlen!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „Ich bin Dieter Bohlen!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2770,11 +2770,11 @@
         "id": 277
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, einmal in die Hände klatschen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, einmal in die Hände klatschen. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 278
@@ -2824,17 +2824,17 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 283
     },
     {
-        "text": "Sage den Zungenbrecher (Willy Millowitsch mixt Whisky, Whisky mixt Willy Millowitsch.) auf, schaffst du es verteile {int} Schlücke, schaffst du es nicht trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Willy Millowitsch mixt Whisky, Whisky mixt Willy Millowitsch.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 284
@@ -2843,8 +2843,8 @@
         "text": "Die Schlücke, die du trinken musst, werden für eine Runde verdreifacht.",
         "count": 1,
         "uses": 0,
-        "rounds": 0,
-        "personal": false,
+        "rounds": 1,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 285
@@ -2854,7 +2854,7 @@
         "count": 9,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 286
@@ -2894,7 +2894,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 290
@@ -2975,7 +2975,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 298
     },
@@ -3004,13 +3004,13 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 301
     },
     {
-        "text": "Jeder, dem der Film (Inception) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Inception“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3024,7 +3024,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 303
@@ -3034,13 +3034,13 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 304
     },
     {
-        "text": "Lieber „Guten Tag“ gegen „Schnauze“ oder „Danke“ gegen „dumme Kuh“ eintauschen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
+        "text": "Lieber „Guten Tag“ gegen „Schnauze“, oder „Danke“ gegen „dumme Kuh“ eintauschen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3130,11 +3130,11 @@
         "id": 313
     },
     {
-        "text": "Hat dir ( Star Wars VII ) gefallen, dann trinke {int} Schlücke.",
+        "text": "Hat dir „Star Wars VII“ gefallen, dann trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 314
@@ -3150,7 +3150,7 @@
         "id": 315
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, einmal in die Hände klatschen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, einmal in die Hände klatschen. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3164,7 +3164,7 @@
         "count": 3,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 317
@@ -3178,16 +3178,6 @@
         "remote": true,
         "unique": true,
         "id": 318
-    },
-    {
-        "text": "Trink {int} Schlücke, wenn du Flashclub noch nicht runtergeladen hast (wie kannst du nur..).",
-        "count": 4,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 319
     },
     {
         "text": "Du heißt bis zum Ende des Spiels Justin Bieber. Wer dich mit deinem richtigen Namen anspricht, muss jedesmal {int} Schlücke trinken.",
@@ -3260,11 +3250,11 @@
         "id": 326
     },
     {
-        "text": "Sage den Zungenbrecher (Zwischen Zwetschgenzweigen sitzen zwei tschechisch zwitschernde Schwalben. Zwei tschechisch zwitschernde Schwalben sitzen zwischen Zwetschgenzweigen.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Zwischen Zwetschgenzweigen sitzen zwei tschechisch zwitschernde Schwalben. Zwei tschechisch zwitschernde Schwalben sitzen zwischen Zwetschgenzweigen.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 327
@@ -3280,13 +3270,13 @@
         "id": 328
     },
     {
-        "text": "Sei für eine Runde eine Katze. Trinke {int} Schlücke für jede regelwidrige Aktion.",
+        "text": "Sei für eine Runde eine Katze. Trinke {int} Schlücke für jeden Regelbruch.",
         "count": 2,
         "uses": 0,
-        "rounds": 0,
+        "rounds": 1,
         "personal": false,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 329
     },
     {
@@ -3354,7 +3344,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 336
@@ -3424,7 +3414,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 343
@@ -3454,7 +3444,7 @@
         "count": 10,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 346
@@ -3474,7 +3464,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 348
@@ -3504,7 +3494,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 351
@@ -3530,7 +3520,7 @@
         "id": 353
     },
     {
-        "text": "Schreie (Holla die Waldfee!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „Holla die Waldfee!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3570,11 +3560,11 @@
         "id": 357
     },
     {
-        "text": "Schreibe jemandem den Satz (Lutsch mein kleinen Finger). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Lutsch mein kleinen Finger“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 358
@@ -3634,7 +3624,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 364
@@ -3644,8 +3634,8 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 365
     },
@@ -3660,7 +3650,7 @@
         "id": 366
     },
     {
-        "text": "Schreie (Pikachu, ich wähle dich!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „Pikachu, ich wähle dich!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3700,11 +3690,11 @@
         "id": 370
     },
     {
-        "text": "Sage den Zungenbrecher (Immer, wenn die tütelige Tee Tante den Tee in die Kaffeetüte getan hatte, tütete die patente Nichte der Tee Tante den Tee von der Kaffeetüte in die Tee Tüte um.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Immer, wenn die tütelige Tee Tante den Tee in die Kaffeetüte getan hatte, tütete die patente Nichte der Tee Tante den Tee von der Kaffeetüte in die Tee Tüte um.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 371
@@ -3714,7 +3704,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 372
@@ -3754,7 +3744,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 376
@@ -3864,7 +3854,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 387
@@ -3964,7 +3954,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 397
@@ -4064,7 +4054,7 @@
         "count": 5,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 407
@@ -4084,7 +4074,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 409
@@ -4100,11 +4090,11 @@
         "id": 410
     },
     {
-        "text": "Spreche alle Mitspieler nur noch mit (Kollege) an. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch, trinkst du {int} Schlücke.",
+        "text": "Spreche alle Mitspieler nur noch mit „Kollege“ an. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch, trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 411
@@ -4140,11 +4130,11 @@
         "id": 414
     },
     {
-        "text": "Sage den Zungenbrecher (Wenn viele flinke Frösche viele fliegende Fliegen fangen, fangen viele flinke Frösche viele fliegende Fliegen.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn viele flinke Frösche viele fliegende Fliegen fangen, fangen viele flinke Frösche viele fliegende Fliegen.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 415
@@ -4180,11 +4170,11 @@
         "id": 418
     },
     {
-        "text": "Schreibe jemandem den Satz (Fick dein Hamster). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Fick dein Hamster“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 419
@@ -4194,17 +4184,17 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 420
     },
     {
-        "text": "Sage den Zungenbrecher (Auf den sieben Robbenklippen sitzen sieben Robbensippen, die sich in die Rippen stippen, bis sie von den Klippen kippen.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Auf den sieben Robbenklippen sitzen sieben Robbensippen, die sich in die Rippen stippen, bis sie von den Klippen kippen.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 421
@@ -4220,11 +4210,11 @@
         "id": 422
     },
     {
-        "text": "Schreibe jemandem den Satz (Hodenkobolde sind seltene Tiere). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Hodenkobolde sind seltene Tiere“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 423
@@ -4284,7 +4274,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 429
@@ -4300,11 +4290,11 @@
         "id": 430
     },
     {
-        "text": "Sage den Zungenbrecher (Kontstantinopolitanischer Dudelsackpfeifersgeselle.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Kontstantinopolitanischer Dudelsackpfeifersgeselle.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 431
@@ -4364,7 +4354,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 437
@@ -4390,11 +4380,11 @@
         "id": 439
     },
     {
-        "text": "Sage den Zungenbrecher (Der Pralli prallt die Ralle bis die Schnalle knallt, bis die Schnalle knallt, prallt der Pralli die Ralle.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der Pralli prallt die Ralle bis die Schnalle knallt, bis die Schnalle knallt, prallt der Pralli die Ralle.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 440
@@ -4433,8 +4423,8 @@
         "text": "Die Schlücke, die du trinken musst, werden für eine Runde verdoppelt.",
         "count": 1,
         "uses": 0,
-        "rounds": 0,
-        "personal": false,
+        "rounds": 1,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 444
@@ -4444,23 +4434,23 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 445
     },
     {
-        "text": "Sage den Zungenbrecher (Die Katze tritt die Treppe krumm, krumm tritt die Katze die Treppe.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Die Katze tritt die Treppe krumm, krumm tritt die Katze die Treppe.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 446
     },
     {
-        "text": "Dafür oder dagegen 100.000€ zu gewinnen und deine/n beste/n Freund/in 10 Minuten lang foltern zu lassen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
+        "text": "Dafür oder dagegen 100.000â‚¬ zu gewinnen und deine/n beste/n Freund/in 10 Minuten lang foltern zu lassen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4570,11 +4560,11 @@
         "id": 457
     },
     {
-        "text": "Sage den Zungenbrecher (Sensitive Selektionssimulatoren sondieren sogar sekundärstrukturierte Sonarselektoren,  sogar sekundärstrukturierte Sonarselektoren sondieren sensitive Selektionssimulatoren.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Sensitive Selektionssimulatoren sondieren sogar sekundärstrukturierte Sonarselektoren,  sogar sekundärstrukturierte Sonarselektoren sondieren sensitive Selektionssimulatoren.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 458
@@ -4584,7 +4574,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 459
@@ -4594,7 +4584,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 460
@@ -4634,7 +4624,7 @@
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 464
@@ -4680,7 +4670,7 @@
         "id": 468
     },
     {
-        "text": "Jeder, dem der Film (21 Jumpstreet) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „21 Jumpstreet“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -4690,11 +4680,11 @@
         "id": 469
     },
     {
-        "text": "Sage den Zungenbrecher (Eseln essen Nesseln nicht, Nesseln essen Eseln nicht.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Eseln essen Nesseln nicht, Nesseln essen Eseln nicht.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 470
@@ -4704,7 +4694,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 471
@@ -4714,7 +4704,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 472
@@ -4766,7 +4756,7 @@
         "rounds": 1,
         "personal": true,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 477
     },
     {
@@ -4854,7 +4844,7 @@
         "count": 3,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 486
@@ -4870,7 +4860,7 @@
         "id": 487
     },
     {
-        "text": "Alle Avicii Fans, trinken {int} Schlücke.",
+        "text": "Alle Avicii Fans trinken {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4904,7 +4894,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 491
@@ -4930,17 +4920,17 @@
         "id": 493
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist (Justin Bieber ist so geil!) sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
+        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist „Justin Bieber ist so geil!“ sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 494
     },
     {
-        "text": "Alle Helene Fischer Fans, trinken {int} Schlücke.",
+        "text": "Alle Helene Fischer Fans trinken {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -4954,17 +4944,17 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 496
     },
     {
-        "text": "Sage den Zungenbrecher (Klaus Knopf liebt Knödel, Klöße, Klöpse. Knödel, Klöße, Klöpse liebt Klaus Knopf.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Klaus Knopf liebt Knödel, Klöße, Klöpse. Knödel, Klöße, Klöpse liebt Klaus Knopf.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 497
@@ -4975,16 +4965,16 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 498
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, jedes Mal nachdem du getrunken hast, (Danke, noch mehr bitte!) sagen. Bei jedem Verstoß trinkst du ein Schluck.",
+        "text": "Du musst bis zum Ende des Spiels, jedes Mal nachdem du getrunken hast, „Danke, noch mehr bitte!“ sagen. Bei jedem Verstoß trinkst du ein Schluck.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 499
@@ -5004,13 +4994,13 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 501
     },
     {
-        "text": "Singe einmal (Backe backe Kuchen) oder trinke {int} Schlücke.",
+        "text": "Singe einmal „Backe backe Kuchen“ oder trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5044,7 +5034,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 505
@@ -5104,7 +5094,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 511
@@ -5130,11 +5120,11 @@
         "id": 513
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, einmal mit den Ellenbogen klatschen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, einmal mit den Ellenbogen klatschen. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 514
@@ -5190,7 +5180,7 @@
         "id": 519
     },
     {
-        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einen Klaps auf die Schulter geben. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einen Klaps auf die Schulter geben. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -5200,11 +5190,11 @@
         "id": 520
     },
     {
-        "text": "Sage den Zungenbrecher (Ein Dutzend nuschelnde Dutzer dutzen nuschelnd dutzende dutzender Nuschler nuschelnd.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Ein Dutzend nuschelnde Dutzer dutzen nuschelnd dutzende dutzender Nuschler nuschelnd.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 521
@@ -5215,7 +5205,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 522
     },
@@ -5240,7 +5230,7 @@
         "id": 524
     },
     {
-        "text": "Jeder, dem der Film (Titanic) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Titanic“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5258,26 +5248,6 @@
         "remote": true,
         "unique": true,
         "id": 526
-    },
-    {
-        "text": "Du bekommst die Pussy-Karte. Irgendwann im Laufe des Spieles kannst du einen Mitspieler am Kopf streicheln. Der Letzte der den selben Mitspieler streichelt, muss {int} Schlücke trinken.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 527
-    },
-    {
-        "text": "Alle, die das Flashclub-Trinkspiel heute das erste Mal spielen, trinken gemeinsam {int} Schlücke. Willkommen im Flashclub!",
-        "count": 2,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 528
     },
     {
         "text": "Die letzte Person, die heute Abend angekommen ist, trinkt {int} Schlücke.",
@@ -5344,7 +5314,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 535
@@ -5354,7 +5324,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 536
@@ -5370,11 +5340,11 @@
         "id": 537
     },
     {
-        "text": "Sage den Zungenbrecher (Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschwätzige Schwalben.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschwätzige Schwalben.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 538
@@ -5394,7 +5364,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 540
@@ -5424,7 +5394,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 543
@@ -5434,7 +5404,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 544
@@ -5454,8 +5424,8 @@
         "count": 4,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 546
     },
@@ -5490,31 +5460,21 @@
         "id": 549
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, allen Mitspielern zuwinken. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, allen Mitspielern zuwinken. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 550
-    },
-    {
-        "text": "Trink {int} Schlücke, wenn man dir schon mal eine Flashclub-Regel erneut vorlesen musste, weil du nicht zugehört hast.",
-        "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": true,
         "remote": true,
         "unique": true,
-        "id": 551
+        "id": 550
     },
     {
         "text": "Wenn du willst, exe jetzt dein Getränk und die nächsten Schlücke die du vergeben darfst werden einmalig verdoppelt.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 552
@@ -5600,11 +5560,11 @@
         "id": 560
     },
     {
-        "text": "Stelle bis Morgen ein Bild von Justin Bieber als dein Whats App Profilbild ein, oder exe dein Getränk.",
+        "text": "Stelle bis Morgen ein Bild von Justin Bieber als dein WhatsApp Profilbild ein, oder exe dein Getränk.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 561
@@ -5714,7 +5674,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 572
@@ -5740,7 +5700,7 @@
         "id": 574
     },
     {
-        "text": "Jeder, dem der Film (Hangcock) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Hangcock“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5754,13 +5714,13 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 576
     },
     {
-        "text": "Alle Capital Bra Fans, trinken {int} Schlücke.",
+        "text": "Alle Capital Bra Fans trinken {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -5784,7 +5744,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 579
@@ -5824,7 +5784,7 @@
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 583
@@ -5854,7 +5814,7 @@
         "count": 9,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 586
@@ -5864,7 +5824,7 @@
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 587
@@ -5914,7 +5874,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 592
@@ -5940,7 +5900,7 @@
         "id": 594
     },
     {
-        "text": "Du darfst eine Runde lang nur das Wort (Vagina) benutzen. Trinke {int} Schlücke für jedes andere Wort.",
+        "text": "Du darfst eine Runde lang nur das Wort \"Vagina\" benutzen. Trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -6020,7 +5980,7 @@
         "id": 602
     },
     {
-        "text": "Alle, die Angst vor Spinnen haben (also alle, etwa nicht?), trinken {int} Schlücke!",
+        "text": "Alle, die Angst vor Spinnen haben „also alle, etwa nicht?“, trinken {int} Schlücke!",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6030,7 +5990,7 @@
         "id": 603
     },
     {
-        "text": "Schreie (Ich habe kleine Hoden!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „Ich habe kleine Hoden!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6094,7 +6054,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 610
@@ -6140,21 +6100,11 @@
         "id": 614
     },
     {
-        "text": "Alle, die erst nach Beginn des Spiels Flashclub dazugestoßen sind, trinken {int} Schlücke!",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 615
-    },
-    {
         "text": "Exe dein Getränk. Nimm das leere Getränk und drehe es aufm Tisch. Derjenige, auf den die Öffnung nach dem Drehen zeigt, muss auch sein Getränk exen.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 616
@@ -6194,7 +6144,7 @@
         "count": 9,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 620
@@ -6214,7 +6164,7 @@
         "count": 4,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 622
@@ -6250,7 +6200,7 @@
         "id": 625
     },
     {
-        "text": "Schreie (Ich bin eine dumme Ratte!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „Ich bin eine dumme Ratte!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6270,11 +6220,11 @@
         "id": 627
     },
     {
-        "text": "Sage den Zungenbrecher (Wenn der Grießkochkoch im Grießkochkochtopf Grießkoch kocht, kocht der Grießkochkoch Grießkoch im Grießkochkochtopf.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn der Grießkochkoch im Grießkochkochtopf Grießkoch kocht, kocht der Grießkochkoch Grießkoch im Grießkochkochtopf.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 628
@@ -6304,17 +6254,17 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 631
     },
     {
-        "text": "Jedes Mal, wenn jemand das Wort (Trinken) sagt, darfst du {int} Schlücke verteilen. Die Regel gilt bis zum Ende des Spieles.",
+        "text": "Jedes Mal, wenn jemand das Wort „Trinken“ sagt, darfst du {int} Schlücke verteilen. Die Regel gilt bis zum Ende des Spieles.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 632
@@ -6354,7 +6304,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 636
@@ -6404,7 +6354,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 641
@@ -6434,7 +6384,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 644
@@ -6444,7 +6394,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 645
@@ -6460,11 +6410,11 @@
         "id": 646
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist (Ich bin so blau wie ein Schlumpf!) sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
+        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist „Ich bin so blau wie ein Schlumpf!“ sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 647
@@ -6494,7 +6444,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 650
@@ -6575,7 +6525,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 658
     },
@@ -6624,7 +6574,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 663
@@ -6640,7 +6590,7 @@
         "id": 664
     },
     {
-        "text": "Jeder der noch nie Pokémon Go gespielt hat, darf {int} Schlücke und zusätzlich {int} Backpfeifen an die Person seiner Wahl verteilen.",
+        "text": "Jeder der noch nie PokÃ©mon Go gespielt hat, darf {int} Schlücke und zusätzlich {int} Backpfeifen an die Person seiner Wahl verteilen.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6650,7 +6600,7 @@
         "id": 665
     },
     {
-        "text": "Jeder, dem der Film (König der Löwen) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „König der Löwen“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6664,7 +6614,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 667
@@ -6734,7 +6684,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 674
@@ -6750,7 +6700,7 @@
         "id": 675
     },
     {
-        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einen Kuss auf den Mittelfinger geben.  Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einen Kuss auf den Mittelfinger geben.  Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -6760,7 +6710,7 @@
         "id": 676
     },
     {
-        "text": "Das Wort ( Schlücke ) ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel, trinkt derjenige {int} Schlücke.",
+        "text": "Das Wort „Schlücke“ ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel, trinkt derjenige {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6824,17 +6774,17 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 683
     },
     {
-        "text": "Sage den Zungenbrecher (In dem dichten Fichtendickicht pickten dicke Finken tüchtig, dicke Finken pickten tüchtig in dem dicken Fichtendickicht.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „In dem dichten Fichtendickicht pickten dicke Finken tüchtig, dicke Finken pickten tüchtig in dem dicken Fichtendickicht.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 684
@@ -6844,7 +6794,7 @@
         "count": 3,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 685
@@ -6884,7 +6834,7 @@
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 689
@@ -6914,7 +6864,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 692
@@ -6960,13 +6910,13 @@
         "id": 696
     },
     {
-        "text": "Wenn du willst, kannst du dein Glas exen und erhälst Immunität für die nächste Runde.",
+        "text": "Wenn du willst, kannst du dein Glas exen und erhältst Immunität für die nächste Runde.",
         "count": 4,
         "uses": 0,
-        "rounds": 0,
-        "personal": false,
+        "rounds": 1,
+        "personal": true,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 697
     },
     {
@@ -6980,7 +6930,7 @@
         "id": 698
     },
     {
-        "text": "Jeder der schon mal Pokémon Go gespielt hat, gibt sich selbst {int} Backpfeifen und trinkt {int} Schlücke.",
+        "text": "Jeder der schon mal PokÃ©mon Go gespielt hat, gibt sich selbst {int} Backpfeifen und trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6994,7 +6944,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 700
@@ -7025,7 +6975,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 703
     },
@@ -7070,11 +7020,11 @@
         "id": 707
     },
     {
-        "text": "Sage den Zungenbrecher (Dicke Nichten dichten im dichten Fichtendickicht. Im dichten Fichtendickicht dichten dicke Nichten.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Dicke Nichten dichten im dichten Fichtendickicht. Im dichten Fichtendickicht dichten dicke Nichten.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 708
@@ -7093,8 +7043,8 @@
         "text": "Die Schlücke, die du trinken musst, werden für eine Runde vervierfacht.",
         "count": 1,
         "uses": 0,
-        "rounds": 0,
-        "personal": false,
+        "rounds": 1,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 710
@@ -7104,7 +7054,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 711
@@ -7180,7 +7130,7 @@
         "id": 718
     },
     {
-        "text": "Sage den Zungenbrecher \"Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschwätzige Schwalben.\" auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher \"Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschwätzige Schwalben.\" auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -7236,7 +7186,7 @@
         "rounds": 1,
         "personal": true,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 724
     },
     {
@@ -7290,7 +7240,7 @@
         "id": 729
     },
     {
-        "text": "Jeder, dem der Film (Findet Nemo) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Findet Nemo“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7304,8 +7254,8 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 731
     },
@@ -7324,7 +7274,7 @@
         "count": 15,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 733
@@ -7334,7 +7284,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 734
@@ -7354,13 +7304,13 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 736
     },
     {
-        "text": "Schreie (Ich bin eine geile Eule!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „Ich bin eine geile Eule!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7404,7 +7354,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 741
@@ -7430,11 +7380,11 @@
         "id": 743
     },
     {
-        "text": "Du bekommst die Super-Mega-Zerstörer-Karte. Du darfst, jede Runde wenn du dran bist, eine Person bestimmen. Diese Person muss ihr Getränk exen.",
+        "text": "Du bekommst die Super-Mega-Zerstörer-Karte. Du darfst jede Runde, wenn du dran bist, eine Person bestimmen, die ihr Getränk exen muss.",
         "count": 1,
         "uses": 0,
-        "rounds": 0,
-        "personal": false,
+        "rounds": 3,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 744
@@ -7494,7 +7444,7 @@
         "count": 5,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 750
@@ -7504,7 +7454,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 751
@@ -7645,7 +7595,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 765
     },
@@ -7654,17 +7604,17 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 766
     },
     {
-        "text": "Schreibe jemandem den Satz (Ich esse deine scheiss Haare auf). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Ich esse deine scheiss Haare auf“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 767
@@ -7674,7 +7624,7 @@
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 768
@@ -7700,7 +7650,7 @@
         "id": 770
     },
     {
-        "text": "Jeder, dem der Film (Avatar) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „Avatar“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7710,7 +7660,7 @@
         "id": 771
     },
     {
-        "text": "Verteile (dein Alter/3) als Schlücke.",
+        "text": "Verteile ein Drittel deines Alters in Schlücken.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7834,8 +7784,8 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 784
     },
@@ -7850,21 +7800,21 @@
         "id": 785
     },
     {
-        "text": "Schreibe jemandem den Satz (Ich würde gerne deine beine brechen). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Ich würde gerne deine beine brechen“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 786
     },
     {
-        "text": "Sage den Zungenbrecher (In Ulm und um Ulm und um Ulm herum.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „In Ulm und um Ulm und um Ulm herum.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 787
@@ -7905,7 +7855,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 791
     },
@@ -7914,7 +7864,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 792
@@ -7923,7 +7873,7 @@
         "text": "Alle Langhaarigen trinken die nächsten 3 Runden doppelt.",
         "count": 2,
         "uses": 0,
-        "rounds": 0,
+        "rounds": 3,
         "personal": false,
         "remote": true,
         "unique": true,
@@ -7960,17 +7910,17 @@
         "id": 796
     },
     {
-        "text": "Sage den Zungenbrecher (Wenn prahlerische Piraten pikanten Piratenbraten braten, wird pikanter Piratenbraten von prahlerischen Piraten gebraten.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn prahlerische Piraten pikanten Piratenbraten braten, wird pikanter Piratenbraten von prahlerischen Piraten gebraten.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 797
     },
     {
-        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einmal an die Nase fassen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einmal an die Nase fassen. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -7980,7 +7930,7 @@
         "id": 798
     },
     {
-        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, eine Backpfeife geben. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, eine Backpfeife geben. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -8000,7 +7950,7 @@
         "id": 800
     },
     {
-        "text": "trink {int} Schlücke, wenn du schon einmal deinen Penis (oder den deines Partners) gemessen hast.",
+        "text": "trink {int} Schlücke, wenn du schon einmal deinen Penis „oder den deines Partners“ gemessen hast.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8014,7 +7964,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 802
@@ -8050,7 +8000,7 @@
         "id": 805
     },
     {
-        "text": "Schreie (Ich bin eine Lady!) und trinke danach {int} Schlücke.",
+        "text": "Schreie „Ich bin eine Lady!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8070,11 +8020,11 @@
         "id": 807
     },
     {
-        "text": "Sage den Zungenbrecher (Blaukraut bleibt Blaukraut, Brautkleid bleibt Brautkleid.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Blaukraut bleibt Blaukraut, Brautkleid bleibt Brautkleid.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 808
@@ -8090,7 +8040,7 @@
         "id": 809
     },
     {
-        "text": "Jeder, dem der Film (I am Legend) gefallen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, dem der Film „I am Legend“ gefallen hat, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8113,10 +8063,10 @@
         "text": "Bestimme einen Spieler, der die nächsten 3 Runden doppelte Schlücke trinkt.",
         "count": 2,
         "uses": 0,
-        "rounds": 0,
+        "rounds": 3,
         "personal": true,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 812
     },
     {
@@ -8144,7 +8094,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 815
@@ -8174,7 +8124,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 818
@@ -8260,11 +8210,11 @@
         "id": 826
     },
     {
-        "text": "Jedes Mal, wenn jemand das Wort (Du) sagt, darfst du {int} Schlücke verteilen. Die Regel gilt bis zum Ende des Spieles.",
+        "text": "Jedes Mal, wenn jemand das Wort „Du“ sagt, darfst du {int} Schlücke verteilen. Die Regel gilt bis zum Ende des Spieles.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 827
@@ -8304,7 +8254,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 831
@@ -8324,7 +8274,7 @@
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 833
@@ -8364,7 +8314,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 837
@@ -8400,11 +8350,11 @@
         "id": 840
     },
     {
-        "text": "In dieser Runde darfst du nur das Wort (Lululu) benutzen. Brichst du die Regel, trinke {int} Schlücke für jedes andere Wort.",
+        "text": "In dieser Runde darfst du nur das Wort \"Lululu\" benutzen. Brichst du die Regel, trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
-        "rounds": 0,
-        "personal": false,
+        "rounds": 1,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 841
@@ -8433,10 +8383,10 @@
         "text": "Trinkt jemand anderes, trinkst du die gleiche Anzahl Schlücke. Diese Regel gilt eine Runde.",
         "count": 5,
         "uses": 0,
-        "rounds": 0,
-        "personal": false,
+        "rounds": 1,
+        "personal": true,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 844
     },
     {
@@ -8454,7 +8404,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 846
@@ -8484,7 +8434,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 849
@@ -8500,11 +8450,11 @@
         "id": 850
     },
     {
-        "text": "Sage den Zungenbrecher (Wenn Schnecken an Schnecken schlecken, merken sie zu ihrem Schrecken, dass Schnecken nicht schmecken.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn Schnecken an Schnecken schlecken, merken sie zu ihrem Schrecken, dass Schnecken nicht schmecken.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 851
@@ -8524,7 +8474,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 853
@@ -8534,7 +8484,7 @@
         "count": 10,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 854
@@ -8594,7 +8544,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 860
@@ -8604,7 +8554,7 @@
         "count": 4,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 861
@@ -8614,7 +8564,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 862
@@ -8644,7 +8594,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 865
@@ -8660,11 +8610,11 @@
         "id": 866
     },
     {
-        "text": "Schreibe jemandem den Satz (Ich finde deine Schwester verdammt heiß). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Ich finde deine Schwester verdammt heiß“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 867
@@ -8690,11 +8640,11 @@
         "id": 869
     },
     {
-        "text": "Sage den Zungenbrecher (Der fiese friesische Fliesenleger fliest mit fiesem, friesischen Fliesenkleber.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der fiese friesische Fliesenleger fliest mit fiesem, friesischen Fliesenkleber.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 870
@@ -8760,7 +8710,7 @@
         "id": 876
     },
     {
-        "text": "Brülle aus dem Fenster (Dicke Titten Kartoffelsalat) oder trinke {int} Schlücke.",
+        "text": "Brülle aus dem Fenster „Dicke Titten Kartoffelsalat“ oder trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8804,7 +8754,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 881
@@ -8864,7 +8814,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 887
@@ -8914,7 +8864,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 892
@@ -8960,7 +8910,7 @@
         "id": 896
     },
     {
-        "text": "Sich lieber mit einem Messer in den Bauch stechen lassen (ohne zu sterben) oder mit einer Waffe ins Knie schießen lassen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
+        "text": "Sich lieber mit einem Messer in den Bauch stechen lassen „ohne zu sterben“ oder mit einer Waffe ins Knie schießen lassen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8984,7 +8934,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 899
@@ -9000,7 +8950,7 @@
         "id": 900
     },
     {
-        "text": "Singe einmal (Hänschen klein) oder trinke {int} Schlücke.",
+        "text": "Singe einmal „Hänschen klein“ oder trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9014,7 +8964,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 902
@@ -9024,7 +8974,7 @@
         "count": 5,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 903
@@ -9034,7 +8984,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 904
@@ -9060,7 +9010,7 @@
         "id": 906
     },
     {
-        "text": "Du darfst eine Runde lang nur das Wort (Pussy) benutzen. Trinke {int} Schlücke für jedes andere Wort.",
+        "text": "Du darfst eine Runde lang nur das Wort \"Pussy\" benutzen. Trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -9144,17 +9094,17 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 915
     },
     {
-        "text": "Schrei aus dem Fenster: (Scheiß auf Schicki Micki, ich will noch nen Bier!). Machst du es nicht: Trinke {int} Schlücke.",
+        "text": "Schrei aus dem Fenster: „Scheiß auf Schicki Micki, ich will noch nen Bier!“. Machst du es nicht: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 916
@@ -9214,7 +9164,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 922
@@ -9244,7 +9194,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 925
@@ -9264,7 +9214,7 @@
         "count": 3,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 927
@@ -9274,7 +9224,7 @@
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 928
@@ -9334,23 +9284,23 @@
         "count": 3,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 934
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, (Juhu... Ich hab so bock drauf!..) sagen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, „Juhu... Ich hab so bock drauf!..“ sagen. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 935
     },
     {
-        "text": "Singe einmal (Alle meine Entchen) oder trinke {int} Schlücke.",
+        "text": "Singe einmal „Alle meine Entchen“ oder trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9430,7 +9380,7 @@
         "id": 943
     },
     {
-        "text": "Alle Sido Fans, trinken {int} Schlücke.",
+        "text": "Alle Sido Fans trinken {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9524,7 +9474,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 953
@@ -9594,7 +9544,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 961
@@ -9624,13 +9574,13 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 964
     },
     {
-        "text": "Singe einmal (old macdonald had a farm) oder trinke {int} Schlücke.",
+        "text": "Singe einmal „old macdonald had a farm“ oder trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9644,7 +9594,7 @@
         "count": 4,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 966
@@ -9655,7 +9605,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 967
     },
@@ -9704,7 +9654,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 972
@@ -9734,7 +9684,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 975
@@ -9764,7 +9714,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 978
@@ -9784,7 +9734,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 980
@@ -9804,17 +9754,17 @@
         "count": 3,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 982
     },
     {
-        "text": "Sage den Zungenbrecher (Kreischende Krähen knabbern im kalten Winter Kerne und Körner.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Kreischende Krähen knabbern im kalten Winter Kerne und Körner.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 983
@@ -9854,8 +9804,8 @@
         "count": 5,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 987
     },
@@ -9894,7 +9844,7 @@
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 991
@@ -9934,7 +9884,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 995
@@ -10034,13 +9984,13 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1005
     },
     {
-        "text": "Wer als Letzter ( Muuuuuuuuh ) schreit, trinkt {int} Schlücke.",
+        "text": "Wer als Letzter „Muuuuuuuuh“ schreit, trinkt {int} Schlücke.",
         "count": 3,
         "uses": 0,
         "rounds": 0,
@@ -10063,10 +10013,10 @@
         "text": "Trinkt euer Glas aus. Der Letzte trinkt die nächsten 3 Runden doppelte Schlücke.",
         "count": 2,
         "uses": 0,
-        "rounds": 0,
+        "rounds": 3,
         "personal": false,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 1008
     },
     {
@@ -10074,7 +10024,7 @@
         "count": 4,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1009
@@ -10084,7 +10034,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1010
@@ -10110,11 +10060,11 @@
         "id": 1012
     },
     {
-        "text": "Bist du länger wie zwei Jahre single trinke {int} Schlücke.",
+        "text": "Bist du länger als zwei Jahre single trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1013
@@ -10124,7 +10074,7 @@
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1014
@@ -10160,11 +10110,11 @@
         "id": 1017
     },
     {
-        "text": "Schreibe jemandem den Satz (Ich habe Vagina-Herpes). Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Ich habe Vagina-Herpes“. Machst du es nicht trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1018
@@ -10180,11 +10130,11 @@
         "id": 1019
     },
     {
-        "text": "Sage den Zungenbrecher (Der Schmied beschließt die Schmiede, Die Schmiede hat der Schmied beschlossen.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der Schmied beschließt die Schmiede, Die Schmiede hat der Schmied beschlossen.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1020
@@ -10224,7 +10174,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1024
@@ -10260,7 +10210,7 @@
         "id": 1027
     },
     {
-        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einen Klaps auf die Stirn geben. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einen Klaps auf die Stirn geben. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -10270,11 +10220,11 @@
         "id": 1028
     },
     {
-        "text": "Sage den Zungenbrecher (Wenn Hessen in Essen Essen essen, essen Hessen Essen in Essen.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Wenn Hessen in Essen Essen essen, essen Hessen Essen in Essen.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1029
@@ -10284,7 +10234,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1030
@@ -10364,7 +10314,7 @@
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1038
@@ -10394,7 +10344,7 @@
         "count": 3,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1041
@@ -10414,7 +10364,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1043
@@ -10465,18 +10415,18 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 1048
     },
     {
-        "text": "Sei für eine Runde ein Hund. Trinke {int} Schlücke für jede regelwidrige Aktion.",
+        "text": "Sei für eine Runde ein Hund. Trinke {int} Schlücke für jeden Regelbruch.",
         "count": 2,
         "uses": 0,
-        "rounds": 0,
+        "rounds": 1,
         "personal": false,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 1049
     },
     {
@@ -10490,7 +10440,7 @@
         "id": 1050
     },
     {
-        "text": "Bestimme eine Kategorie (z.B. Automarken). Jeder nennt nun reihum etwas aus dieser Kategorie. Wer nichts mehr weiß oder etwas wiederholt, trinkt {int} Schlücke.",
+        "text": "Bestimme eine Kategorie „z.B. Automarken“. Jeder nennt nun reihum etwas aus dieser Kategorie. Wer nichts mehr weiß oder etwas wiederholt, trinkt {int} Schlücke.",
         "count": 10,
         "uses": 0,
         "rounds": 0,
@@ -10535,7 +10485,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 1055
     },
@@ -10550,17 +10500,17 @@
         "id": 1056
     },
     {
-        "text": "Sage den Zungenbrecher (Der Zweck hat den Zweck den Zweck zu bezwecken. Und wenn der Zweck den Zweck nicht bezweckt, dann hat der Zweck überhaupt keinen Zweck.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der Zweck hat den Zweck den Zweck zu bezwecken. Und wenn der Zweck den Zweck nicht bezweckt, dann hat der Zweck überhaupt keinen Zweck.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1057
     },
     {
-        "text": "Alle dürfen, eine Runde lang, nur die linke Hand benutzen. Für jeden Bruch der Regel, trinkt derjenige {int} Schlücke.",
+        "text": "Alle dürfen, eine Runde lang, nur die linke Hand benutzen. Für jeden Bruch der Regel trinkt derjenige {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -10574,7 +10524,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1059
@@ -10584,7 +10534,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1060
@@ -10640,11 +10590,11 @@
         "id": 1065
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist (Juhu ich freue mich!) sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
+        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist „Juhu ich freue mich!“ sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1066
@@ -10654,7 +10604,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1067
@@ -10664,7 +10614,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1068
@@ -10710,7 +10660,7 @@
         "id": 1072
     },
     {
-        "text": "Alle Trailerpark Fans, trinken {int} Schlücke.",
+        "text": "Alle Trailerpark Fans trinken {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -10804,7 +10754,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1082
@@ -10830,11 +10780,11 @@
         "id": 1084
     },
     {
-        "text": "Du bekommst die Super-Mega-Arsch-Karte. Du musst, jede Runde wenn du dran bist, dein Getränk exen.",
+        "text": "Du bekommst die Super-Mega-Arsch-Karte. Du musst jede Runde, wenn du dran bist, dein Getränk exen.",
         "count": 1,
         "uses": 0,
-        "rounds": 0,
-        "personal": false,
+        "rounds": 2,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1085
@@ -10870,11 +10820,11 @@
         "id": 1088
     },
     {
-        "text": "Du musst, jedes Mal wenn du dran bist, einmal in die Hände klatschen. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst, jedes Mal wenn du dran bist, einmal in die Hände klatschen. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1089
@@ -10884,7 +10834,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1090
@@ -10964,7 +10914,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1098
@@ -11060,21 +11010,21 @@
         "id": 1107
     },
     {
-        "text": "Sage den Zungenbrecher (Fischers frisch frisierter Fritze frisst friesische frisch frittierte Frischfischfrikadellen) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Fischers frisch frisierter Fritze frisst friesische frisch frittierte Frischfischfrikadellen“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1108
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, (Muuuuh!) sagen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, „Muuuuh!“ sagen. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1109
@@ -11100,11 +11050,11 @@
         "id": 1111
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist (Jawohl, der Oberficker ist dran!) sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
+        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist „Jawohl, der Oberficker ist dran!“ sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1112
@@ -11124,7 +11074,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1114
@@ -11134,7 +11084,7 @@
         "count": 10,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1115
@@ -11173,10 +11123,10 @@
         "text": "Verteile {int} Schlücke oder erhalte für eine Runde Immunität.",
         "count": 2,
         "uses": 0,
-        "rounds": 0,
+        "rounds": 1,
         "personal": true,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 1119
     },
     {
@@ -11190,11 +11140,11 @@
         "id": 1120
     },
     {
-        "text": "Sage den Zungenbrecher (Ein sehr schwer sehr schnell zu sprechender Spruch ist ein Schnellsprechspruch, auch ein nur schwer schnell zu sprechender Spruch heißt Schnellsprechspruch.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Ein sehr schwer sehr schnell zu sprechender Spruch ist ein Schnellsprechspruch, auch ein nur schwer schnell zu sprechender Spruch heißt Schnellsprechspruch.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1121
@@ -11204,7 +11154,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1122
@@ -11220,11 +11170,11 @@
         "id": 1123
     },
     {
-        "text": "Sage den Zungenbrecher (Als der Klapperschlang´ Klapper schlapper klang, klang der Klapperschlang´ Klapper schlapper) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Als der KlapperschlangÂ´ Klapper schlapper klang, klang der KlapperschlangÂ´ Klapper schlapper“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1124
@@ -11260,11 +11210,11 @@
         "id": 1127
     },
     {
-        "text": "Sage den Zungenbrecher (Der Flugplatzspatz nahm auf dem Flugplatz platz. Auf dem Flugplatz nahm der Flugplatzspatz platz.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Der Flugplatzspatz nahm auf dem Flugplatz platz. Auf dem Flugplatz nahm der Flugplatzspatz platz.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1128
@@ -11414,7 +11364,7 @@
         "count": 4,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1143
@@ -11434,7 +11384,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1145
@@ -11460,21 +11410,11 @@
         "id": 1147
     },
     {
-        "text": "Der/diejenige, der/die zuletzt Flashclub gespielt hat, verteilt {int} Schlücke.",
-        "count": 4,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 1148
-    },
-    {
-        "text": "Sage den Zungenbrecher (Das Schleimschwein schleimt schweinisch im Schleim, im Schleim schweint schweinisch das Schleimschwein.) auf. Schaffst du es, verteile {int} Schlücke. Schaffst du es nicht, trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Das Schleimschwein schleimt schweinisch im Schleim, im Schleim schweint schweinisch das Schleimschwein.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1149
@@ -11506,7 +11446,7 @@
         "rounds": 1,
         "personal": true,
         "remote": true,
-        "unique": true,
+        "unique": false,
         "id": 1152
     },
     {
@@ -11514,7 +11454,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1153
@@ -11570,11 +11510,11 @@
         "id": 1158
     },
     {
-        "text": "Du musst, jedes Mal wenn du dran bist, einen Schluck trinken. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst, jedes Mal wenn du dran bist, einen Schluck trinken. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1159
@@ -11614,7 +11554,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1163
@@ -11784,7 +11724,7 @@
         "count": 6,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1180
@@ -11814,17 +11754,17 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
-        "remote": true,
+        "personal": true,
+        "remote": false,
         "unique": true,
         "id": 1183
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist (Ich liebe Angela Merkel!) sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
+        "text": "Du musst bis zum Ende des Spiels, jedesmal wenn du dran bist „Ich liebe Angela Merkel!“ sagen. Trinke jedesmal {int} Schlücke wenn du die Regel brichst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1184
@@ -11860,11 +11800,11 @@
         "id": 1187
     },
     {
-        "text": "Du musst, jedes Mal wenn du dran bist, ein Spieler deiner Wahl auslachen. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst, jedes Mal wenn du dran bist, ein Spieler deiner Wahl auslachen. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1188
@@ -11874,7 +11814,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1189
@@ -11884,7 +11824,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1190
@@ -11894,7 +11834,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1191
@@ -11910,7 +11850,7 @@
         "id": 1192
     },
     {
-        "text": "Du darfst eine Runde lang nur das Wort (Pimmel) benutzen. Trinke {int} Schlücke für jedes andere Wort.",
+        "text": "Du darfst eine Runde lang nur das Wort \"Pimmel\" benutzen. Trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -12000,7 +11940,7 @@
         "id": 1201
     },
     {
-        "text": "Schreie (Ich bin ein taubes Nüsschen!) und trinke {int} Schlücke.",
+        "text": "Schreie „Ich bin ein taubes Nüsschen!“ und trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -12024,7 +11964,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1204
@@ -12064,7 +12004,7 @@
         "count": 1,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 1208
