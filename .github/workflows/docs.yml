@@ -9,9 +9,9 @@ jobs:
       - uses: actions/checkout@v1
         with:
           ref: 'gh-pages'
-      - run: npm install -g bootprint
-      - run: npm install -g bootprint-json-schema
-      - run: bootprint json-schema https://raw.githubusercontent.com/OpenAlcoholics/drinking-game-cards/develop/schema.json .
+      - run: npm install bootprint
+      - run: npm install bootprint-json-schema
+      - run: ./node_modules/.bin/bootprint json-schema https://raw.githubusercontent.com/OpenAlcoholics/drinking-game-cards/develop/schema.json .
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
