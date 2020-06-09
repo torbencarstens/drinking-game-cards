@@ -720,7 +720,7 @@
         "id": 72
     },
     {
-        "text": "Du musst dir eine Runde lang die Ohren zu halten und darfst nicht hören was passiert. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst dir eine Runde lang die Ohren zu halten und darfst nicht hören was passiert. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 1,
@@ -1020,7 +1020,7 @@
         "id": 102
     },
     {
-        "text": "Bestimme ein Wort und ob es eine oder alle Runden des Spiels verboten ist. Jedes mal wenn jemand dieses Wort sagt, trink derjenige {int} Schlücke.",
+        "text": "Bestimme ein Wort und ob es eine oder alle Runden des Spiels verboten ist. Jedes mal wenn jemand dieses Wort sagt, trinkt derjenige {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2770,7 +2770,7 @@
         "id": 277
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, einmal in die Hände klatschen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, einmal in die Hände klatschen. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3150,7 +3150,7 @@
         "id": 315
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, einmal in die Hände klatschen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, einmal in die Hände klatschen. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -5120,7 +5120,7 @@
         "id": 513
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, einmal mit den Ellenbogen klatschen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, einmal mit den Ellenbogen klatschen. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5180,7 +5180,7 @@
         "id": 519
     },
     {
-        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einen Klaps auf die Schulter geben. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einen Klaps auf die Schulter geben. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -5460,7 +5460,7 @@
         "id": 549
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, allen Mitspielern zuwinken. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, allen Mitspielern zuwinken. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6700,7 +6700,7 @@
         "id": 675
     },
     {
-        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einen Kuss auf den Mittelfinger geben.  Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einen Kuss auf den Mittelfinger geben.  Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -7920,7 +7920,7 @@
         "id": 797
     },
     {
-        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einmal an die Nase fassen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einmal an die Nase fassen. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -7930,7 +7930,7 @@
         "id": 798
     },
     {
-        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, eine Backpfeife geben. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, eine Backpfeife geben. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -9290,7 +9290,7 @@
         "id": 934
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, „Juhu... Ich hab so bock drauf!..“ sagen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, „Juhu... Ich hab so bock drauf!..“ sagen. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -10210,7 +10210,7 @@
         "id": 1027
     },
     {
-        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einen Klaps auf die Stirn geben. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einen Klaps auf die Stirn geben. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -10510,7 +10510,7 @@
         "id": 1057
     },
     {
-        "text": "Alle dürfen, eine Runde lang, nur die linke Hand benutzen. Für jeden Bruch der Regel, trinkt derjenige {int} Schlücke.",
+        "text": "Alle dürfen, eine Runde lang, nur die linke Hand benutzen. Für jeden Bruch der Regel trinkt derjenige {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -10820,7 +10820,7 @@
         "id": 1088
     },
     {
-        "text": "Du musst, jedes Mal wenn du dran bist, einmal in die Hände klatschen. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst, jedes Mal wenn du dran bist, einmal in die Hände klatschen. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11020,7 +11020,7 @@
         "id": 1108
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, „Muuuuh!“ sagen. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, „Muuuuh!“ sagen. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11510,7 +11510,7 @@
         "id": 1158
     },
     {
-        "text": "Du musst, jedes Mal wenn du dran bist, einen Schluck trinken. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst, jedes Mal wenn du dran bist, einen Schluck trinken. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11800,7 +11800,7 @@
         "id": 1187
     },
     {
-        "text": "Du musst, jedes Mal wenn du dran bist, ein Spieler deiner Wahl auslachen. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch der Regel, trinkst du {int} Schlücke.",
+        "text": "Du musst, jedes Mal wenn du dran bist, ein Spieler deiner Wahl auslachen. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
