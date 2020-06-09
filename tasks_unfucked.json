@@ -380,7 +380,7 @@
         "id": 38
     },
     {
-        "text": "Alle Ãœberflieger, die eine Klasse übersprungen haben, trinken {int} Schlücke.",
+        "text": "Alle Überflieger, die eine Klasse übersprungen haben, trinken {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8590,7 +8590,7 @@
         "id": 864
     },
     {
-        "text": "Du und der älteste Mitspieler trinken {int} Schlücke. Bist du der Ã„lteste: Trinke {int} Schlücke.",
+        "text": "Du und der älteste Mitspieler trinken {int} Schlücke. Bist du der Älteste: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -10750,7 +10750,7 @@
         "id": 1081
     },
     {
-        "text": "Ã„ndere deinen Whatsapp Status in: Spice up your life! oder trinke {int} Schlücke.",
+        "text": "Ändere deinen Whatsapp Status in: Spice up your life! oder trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
