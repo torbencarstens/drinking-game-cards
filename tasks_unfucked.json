@@ -4800,7 +4800,7 @@
         "id": 481
     },
     {
-        "text": "Erkläre der Gruppe einen Begriff, den sich derjenige aussucht, der vorliest „er spielt diese Runde nicht mit“. Errät es jemand, darf er {int} Schlücke verteilen, wenn nicht, trinkst du {int} Schlücke.",
+        "text": "Erkläre der Gruppe einen Begriff, den sich derjenige aussucht, der vorliest (er spielt diese Runde nicht mit). Errät es jemand, darf er {int} Schlücke verteilen, wenn nicht, trinkst du {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
