@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="main.css">
+    <meta charset="UTF-8">
+    <title>Bootprint</title>
+                                                         </head>
+<body>
+<div class="container">
+    <div id="definition-drinking-game-cards" class="panel panel-definition">
+            <div class="panel-heading">
+                    <h3 class="panel-title">drinking-game-cards</h3>
+            </div>
+        <div class="panel-body">
+                
+                                <section class="json-schema-array-items">
+                                    
+                                    <span class="json-property-type">object</span>
+                                    <span class="json-property-range" title="Value limits"></span>
+                                    
+                                    <div class="json-inner-schema">
+                                        
+                                                <section class="json-schema-properties">
+                                                    <dl>
+                                                            <dt data-property-name="text">
+                                                                <span class="json-property-name">text:</span>
+                                                                
+                                                                <span class="json-property-type">string</span>
+                                                                <span class="json-property-range" title="Value limits"></span>
+                                                                
+                                                                    <span class="json-property-range" title="String length limits">
+                                                                            (at least 1 chars)
+                                                                    </span>
+                                                                    <span class="json-property-required"></span>
+                                                            </dt>
+                                                            <dd>
+                                                                <p>The task text. It may contain {int} as a placeholder for a random number.</p>
+                                                
+                                                                <div class="json-inner-schema">
+                                                                    
+                                                                </div>
+                                                            </dd>
+                                                            <dt data-property-name="count">
+                                                                <span class="json-property-name">count:</span>
+                                                                
+                                                                <span class="json-property-type">integer</span>
+                                                                <span class="json-property-range" title="Value limits">, { x ∈ ℤ | x ≥ 1 }</span>
+                                                                
+                                                                    <span class="json-property-required"></span>
+                                                            </dt>
+                                                            <dd>
+                                                                <p>How many times the card can occur in one session -&gt; implicit higher probability</p>
+                                                
+                                                                <div class="json-inner-schema">
+                                                                    
+                                                                </div>
+                                                            </dd>
+                                                            <dt data-property-name="uses">
+                                                                <span class="json-property-name">uses:</span>
+                                                                
+                                                                <span class="json-property-type">integer</span>
+                                                                <span class="json-property-range" title="Value limits">, { x ∈ ℤ | x ≥ 0 }</span>
+                                                                
+                                                                    <span class="json-property-required"></span>
+                                                            </dt>
+                                                            <dd>
+                                                                <p>How often the (interactive) card can be used.</p>
+                                                
+                                                                <div class="json-inner-schema">
+                                                                    
+                                                                </div>
+                                                            </dd>
+                                                            <dt data-property-name="rounds">
+                                                                <span class="json-property-name">rounds:</span>
+                                                                
+                                                                <span class="json-property-type">integer</span>
+                                                                <span class="json-property-range" title="Value limits">, { x ∈ ℤ | x ≥ -1 }</span>
+                                                                
+                                                                    <span class="json-property-required"></span>
+                                                            </dt>
+                                                            <dd>
+                                                                <p>How many rounds the card is active for. If uses &gt; 1, the rounds are counted after each use. Use -1 for infinite duration.</p>
+                                                
+                                                                <div class="json-inner-schema">
+                                                                    
+                                                                </div>
+                                                            </dd>
+                                                            <dt data-property-name="id">
+                                                                <span class="json-property-name">id:</span>
+                                                                
+                                                                <span class="json-property-type">integer</span>
+                                                                <span class="json-property-range" title="Value limits"></span>
+                                                                
+                                                                    <span class="json-property-required"></span>
+                                                            </dt>
+                                                            <dd>
+                                                                <p>The ID of this task. Note that this is NOT always the index in the tasks list.</p>
+                                                
+                                                                <div class="json-inner-schema">
+                                                                    
+                                                                </div>
+                                                            </dd>
+                                                            <dt data-property-name="personal">
+                                                                <span class="json-property-name">personal:</span>
+                                                                
+                                                                <span class="json-property-type">boolean</span>
+                                                                <span class="json-property-range" title="Value limits"></span>
+                                                                
+                                                                    <span class="json-property-required"></span>
+                                                            </dt>
+                                                            <dd>
+                                                                <p>Whether the task is for a specific player or the whole group.</p>
+                                                
+                                                                <div class="json-inner-schema">
+                                                                    
+                                                                </div>
+                                                            </dd>
+                                                            <dt data-property-name="remote">
+                                                                <span class="json-property-name">remote:</span>
+                                                                
+                                                                <span class="json-property-type">boolean</span>
+                                                                <span class="json-property-range" title="Value limits"></span>
+                                                                
+                                                                    <span class="json-property-required"></span>
+                                                            </dt>
+                                                            <dd>
+                                                                <p>Whether this task can be used in a remote game (i.e. not all players are in the same room).</p>
+                                                
+                                                                <div class="json-inner-schema">
+                                                                    
+                                                                </div>
+                                                            </dd>
+                                                            <dt data-property-name="unique">
+                                                                <span class="json-property-name">unique:</span>
+                                                                
+                                                                <span class="json-property-type">boolean</span>
+                                                                <span class="json-property-range" title="Value limits"></span>
+                                                                
+                                                                    <span class="json-property-required"></span>
+                                                            </dt>
+                                                            <dd>
+                                                                <p>Whether only one instance of this task can be active (rounds != 0 &amp;&amp; count &gt; 1). The latest card replaces previous ones.</p>
+                                                
+                                                                <div class="json-inner-schema">
+                                                                    
+                                                                </div>
+                                                            </dd>
+                                                    </dl>
+                                                </section>
+                                    </div>
+                                </section>    </div>
+    </div></div>
+
+</body>
+</html>
