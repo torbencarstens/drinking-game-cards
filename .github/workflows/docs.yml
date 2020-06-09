@@ -3,7 +3,7 @@ name: Create doc page
 on: [push]
 
 jobs:
-  minify:
+  docs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
