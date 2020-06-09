@@ -190,7 +190,7 @@
         "id": 19
     },
     {
-        "text": "Eine Runde dürfen keine Personalpronomen ( ich, du, er, sie, es, wir, ihr, sie) benutzt werden. Wer die Regel bricht, trinkt {int} Schlücke.",
+        "text": "Eine Runde dürfen keine Personalpronomen (ich, du, er, sie, es, wir, ihr, sie) benutzt werden. Wer die Regel bricht, trinkt {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 1,
