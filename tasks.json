@@ -980,7 +980,7 @@
         "id": 98
     },
     {
-        "text": "Das Wort „Trinken“ ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel, trinkt derjenige {int} Schlücke.",
+        "text": "Das Wort „Trinken“ ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel trinkt derjenige {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": -1,
@@ -4730,7 +4730,7 @@
         "id": 475
     },
     {
-        "text": "Das Wort \"Schlücke\" ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel, trinkt derjenige {int} Schlücke.",
+        "text": "Das Wort \"Schlücke\" ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel trinkt derjenige {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": -1,
@@ -5150,7 +5150,7 @@
         "id": 517
     },
     {
-        "text": "Es darf eine Runde lang nicht gelacht werden. Für jeden Bruch dieser Regel, trinkt derjenige {int} Schlücke.",
+        "text": "Es darf eine Runde lang nicht gelacht werden. Für jeden Bruch dieser Regel trinkt derjenige {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -5620,7 +5620,7 @@
         "id": 567
     },
     {
-        "text": "Alle Namen sind eine Runde lang verboten. Für jeden Bruch dieser Regel, trinkt derjenige {int} Schlücke.",
+        "text": "Alle Namen sind eine Runde lang verboten. Für jeden Bruch dieser Regel trinkt derjenige {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 1,
@@ -6700,7 +6700,7 @@
         "id": 676
     },
     {
-        "text": "Das Wort „Schlücke“ ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel, trinkt derjenige {int} Schlücke.",
+        "text": "Das Wort „Schlücke“ ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel trinkt derjenige {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": -1,
@@ -8340,7 +8340,7 @@
         "id": 840
     },
     {
-        "text": "In dieser Runde darfst du nur das Wort \"Lululu\" benutzen. Brichst du die Regel, trinke {int} Schlücke für jedes andere Wort.",
+        "text": "In dieser Runde darfst du nur das Wort \"Lululu\" benutzen. Trinke {int} Schlücke für jedes andere Wort, das du sagst.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -8530,7 +8530,7 @@
         "id": 859
     },
     {
-        "text": "Bis zum Ende des Spiels muss sich jeder Spieler bei dir bedanken, bevor er trinkt. Für jeden Bruch dieser Regel, trinkt derjenige {int} Schlücke.",
+        "text": "Bis zum Ende des Spiels muss sich jeder Spieler bei dir bedanken, bevor er trinkt. Für jeden Bruch dieser Regel trinkt derjenige {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": -1,
