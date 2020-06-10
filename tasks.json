@@ -9140,7 +9140,7 @@
         "id": 920
     },
     {
-        "text": "Alle, die kleiner wie 1.70m sind, trinken {int} Schlücke. Ist keiner so klein, trinken alle.",
+        "text": "Alle, die kleiner als 1.70m sind, trinken {int} Schlücke. Ist keiner so klein, trinken alle.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
