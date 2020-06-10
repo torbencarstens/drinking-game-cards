@@ -11,7 +11,7 @@ jobs:
           ref: 'gh-pages'
       - run: npm install bootprint
       - run: npm install bootprint-json-schema
-      - run: ./node_modules/.bin/bootprint json-schema https://raw.githubusercontent.com/OpenAlcoholics/drinking-game-cards/develop/schema.json .
+      - run: ./node_modules/.bin/bootprint json-schema https://raw.githubusercontent.com/OpenAlcoholics/drinking-game-cards/v1/schema.json .
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
