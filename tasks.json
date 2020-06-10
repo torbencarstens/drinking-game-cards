@@ -2940,7 +2940,7 @@
         "id": 294
     },
     {
-        "text": "Armageddon! Jeder muss, bis zum Ende des Spieles wenn er dran ist, {int} Schlücke trinken. Diese Regel kann nicht aufgehoben werden.",
+        "text": "Armageddon! Jeder muss bis zum Ende des Spieles, wenn er dran ist, {int} Schlücke trinken. Diese Regel kann nicht aufgehoben werden.",
         "count": 2,
         "uses": 0,
         "rounds": -1,
