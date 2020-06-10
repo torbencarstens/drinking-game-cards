@@ -1984,7 +1984,7 @@
         "count": 20,
         "uses": 0,
         "rounds": 1,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": false,
         "id": 199
@@ -3194,7 +3194,7 @@
         "count": 10,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 321
@@ -3974,7 +3974,7 @@
         "count": 424,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 399
@@ -5644,7 +5644,7 @@
         "count": 31,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 569
@@ -8944,7 +8944,7 @@
         "count": 10,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 900
@@ -9114,7 +9114,7 @@
         "count": 42,
         "uses": 0,
         "rounds": 0,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": true,
         "id": 917
