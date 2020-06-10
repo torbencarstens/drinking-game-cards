@@ -645,7 +645,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 65
     },
@@ -6275,7 +6275,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 634
     },
