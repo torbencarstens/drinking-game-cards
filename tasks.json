@@ -3260,16 +3260,6 @@
         "id": 327
     },
     {
-        "text": "Denke dir eine Regel und eine Strafe für den Bruch dieser Regel aus. Diese Regel ist gültig bis zum Ende des Spiels. Wahlweise darfst du auch stattdessen eine aktive Regel aufheben.",
-        "count": 2,
-        "uses": 0,
-        "rounds": -1,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 328
-    },
-    {
         "text": "Sei für eine Runde eine Katze. Trinke {int} Schlücke für jeden Regelbruch.",
         "count": 2,
         "uses": 0,
