@@ -20,7 +20,7 @@
         "id": 1
     },
     {
-        "text": "Sagt nacheinander \"Danke\" in einer anderen Sprache als auf Deutsch. Derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke.",
+        "text": "Sagt nacheinander „Danke“ in einer anderen Sprache als auf Deutsch. Derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -130,7 +130,7 @@
         "id": 13
     },
     {
-        "text": "Schreie \"Mamma-Mia!\" und trinke danach {int} Schlücke.",
+        "text": "Schreie „Mamma-Mia!“ und trinke danach {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -310,7 +310,7 @@
         "id": 31
     },
     {
-        "text": "Themenspiel: \"Motorsägenmarken\". Derjenige, der nichts mehr weiß oder eine Marke wiederholt, trinkt {int} Schlücke. Dein linker Nachbar beginnt.",
+        "text": "Themenspiel: „Motorsägenmarken“. Derjenige, der nichts mehr weiß oder eine Marke wiederholt, trinkt {int} Schlücke. Dein linker Nachbar beginnt.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -460,7 +460,7 @@
         "id": 46
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Baumarten\". Du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Baumarten“. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -510,7 +510,7 @@
         "id": 51
     },
     {
-        "text": "\"Hunderassen\". Die Person, die keine Ideen mehr hat, oder eine Rasse wiederholt, trinkt {int} Schlücke! Du beginnst.",
+        "text": "„Hunderassen“. Die Person, die keine Ideen mehr hat, oder eine Rasse wiederholt, trinkt {int} Schlücke! Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -590,7 +590,7 @@
         "id": 59
     },
     {
-        "text": "\"Jobs, die mit G beginnen\", derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
+        "text": "„Jobs, die mit G beginnen“, derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -920,7 +920,7 @@
         "id": 92
     },
     {
-        "text": "Jeder, der alle Folgen von \"How to Sell Drugs Online (Fast)\" gesehen hat, darf {int} Schlücke verteilen.",
+        "text": "Jeder, der alle Folgen von „How to Sell Drugs Online (Fast)“ gesehen hat, darf {int} Schlücke verteilen.",
         "count": 4,
         "uses": 0,
         "rounds": 0,
@@ -950,7 +950,7 @@
         "id": 95
     },
     {
-        "text": "Neues Thema und {int} Schlücke für den Verlierer: \"Figuren aus dem König der Löwen\". Du beginnst.",
+        "text": "Neues Thema und {int} Schlücke für den Verlierer: „Figuren aus dem König der Löwen“. Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -970,7 +970,7 @@
         "id": 97
     },
     {
-        "text": "Neues Thema und {int} Schlücke für den Verlierer: \"Deutsche Rapper\". Du beginnst.",
+        "text": "Neues Thema und {int} Schlücke für den Verlierer: „Deutsche Rapper“. Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -1100,7 +1100,7 @@
         "id": 110
     },
     {
-        "text": "Les die erste Nachricht vor, die angezeigt wird, wenn du \"Sex\" in die WhatsApp-Suchleiste eingibst. Wenn du dich weigerst: {int} Schlücke.",
+        "text": "Les die erste Nachricht vor, die angezeigt wird, wenn du „Sex“ in die WhatsApp-Suchleiste eingibst. Wenn du dich weigerst: {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -1230,7 +1230,7 @@
         "id": 123
     },
     {
-        "text": "Neues Thema und {int} Schlücke für den Verlierer: \"Rummarken\". Du beginnst.",
+        "text": "Neues Thema und {int} Schlücke für den Verlierer: „Rummarken“. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -1290,7 +1290,7 @@
         "id": 129
     },
     {
-        "text": "Neues Thema und {int} Schlücke für den Verlierer: \"Whiskymarken\". Du beginnst.",
+        "text": "Neues Thema und {int} Schlücke für den Verlierer: „Whiskymarken“. Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -1490,7 +1490,7 @@
         "id": 149
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Jobs im Bereich Handwerk\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Jobs im Bereich Handwerk“, du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -1520,7 +1520,7 @@
         "id": 152
     },
     {
-        "text": "Du darfst eine Runde lang nur das Wort \"Blablabla\" benutzen. Trinke {int} Schlücke für jedes andere Wort.",
+        "text": "Du darfst eine Runde lang nur das Wort „Blablabla“ benutzen. Trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -1700,7 +1700,7 @@
         "id": 170
     },
     {
-        "text": "Du darfst eine Runde lang nur das Wort \"Hamster\" benutzen. Trinke {int} Schlücke für jedes andere Wort.",
+        "text": "Du darfst eine Runde lang nur das Wort „Hamster“ benutzen. Trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -1780,7 +1780,7 @@
         "id": 178
     },
     {
-        "text": "\"Pizzanamen\", alle sagen nacheinander einen Pizzanamen. Die Person, die keinen mehr sagen kann, oder einen Namen wiederholt, trinkt {int} Schlücke! Du beginnst!",
+        "text": "„Pizzanamen“, alle sagen nacheinander einen Pizzanamen. Die Person, die keinen mehr sagen kann, oder einen Namen wiederholt, trinkt {int} Schlücke! Du beginnst!",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -1920,7 +1920,7 @@
         "id": 192
     },
     {
-        "text": "\"Lieder von Justin Bieber\", derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
+        "text": "„Lieder von Justin Bieber“, derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2360,7 +2360,7 @@
         "id": 236
     },
     {
-        "text": "Neues Thema und {int} Schlücke für den Verlierer: \"Verhütungsmittel\". Du beginnst.",
+        "text": "Neues Thema und {int} Schlücke für den Verlierer: „Verhütungsmittel“. Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -2380,7 +2380,7 @@
         "id": 238
     },
     {
-        "text": "\"Dönerläden im Umkreis von 25 km\", die Person, die keinen mehr sagen kann, oder einen Namen wiederholt, trinkt {int} Schlücke! Du beginnst.",
+        "text": "„Dönerläden im Umkreis von 25 km“, die Person, die keinen mehr sagen kann, oder einen Namen wiederholt, trinkt {int} Schlücke! Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2470,7 +2470,7 @@
         "id": 247
     },
     {
-        "text": "Neues Thema und {int} Schlücke für den Verlierer: \"Knochen des menschlichen Körpers\", du beginnst.",
+        "text": "Neues Thema und {int} Schlücke für den Verlierer: „Knochen des menschlichen Körpers“, du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2520,7 +2520,7 @@
         "id": 252
     },
     {
-        "text": "Neues Thema und {int} Schlücke für den Verlierer: \"Biermarken\". Du beginnst.",
+        "text": "Neues Thema und {int} Schlücke für den Verlierer: „Biermarken“. Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -2960,7 +2960,7 @@
         "id": 296
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Supermärkte\". Du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Supermärkte“. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -2980,7 +2980,7 @@
         "id": 298
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Farben, die eine Brustwarze haben kann\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Farben, die eine Brustwarze haben kann“, du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3420,7 +3420,7 @@
         "id": 344
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Zigarettenhersteller\". Du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Zigarettenhersteller“. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3460,7 +3460,7 @@
         "id": 348
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Orte, an denen es erregend ist für einen Mann, Sperma abzuspritzen\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Orte, an denen es erregend ist für einen Mann, Sperma abzuspritzen“, du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3530,7 +3530,7 @@
         "id": 355
     },
     {
-        "text": "\"Andere Saucen als Ketchup und Mayo\". Die Persontrink {int} Schlücke, ansonsten verteil sie.",
+        "text": "„Andere Saucen als Ketchup und Mayo“. Die Persontrink {int} Schlücke, ansonsten verteil sie.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3760,7 +3760,7 @@
         "id": 378
     },
     {
-        "text": "\"Alle Beleidigungen mit Tiernamen\". Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schlücke! Du beginnst!",
+        "text": "„Alle Beleidigungen mit Tiernamen“. Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schlücke! Du beginnst!",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3780,7 +3780,7 @@
         "id": 380
     },
     {
-        "text": "\"Orte, an denen du gekotzt hast\", die Person, die wiederholt oder nichts mehr weiß, trinkt {int} Schlücke! Du beginnst.",
+        "text": "„Orte, an denen du gekotzt hast“, die Person, die wiederholt oder nichts mehr weiß, trinkt {int} Schlücke! Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3910,7 +3910,7 @@
         "id": 393
     },
     {
-        "text": "Schreibe jemandem den Satz \"Hodenkobolde sind seltene Tiere\". Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Hodenkobolde sind seltene Tiere“. Machst du es nicht trinke {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3930,7 +3930,7 @@
         "id": 395
     },
     {
-        "text": "Neues Thema und {int} Schlücke für den Verlierer: \"KFC Burger\", du beginnst.",
+        "text": "Neues Thema und {int} Schlücke für den Verlierer: „KFC Burger“, du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3970,7 +3970,7 @@
         "id": 399
     },
     {
-        "text": "Alle Wörter/Ausdrücke für \"Vagina\". Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schlücke! Du beginnst.",
+        "text": "Alle Wörter/Ausdrücke für „Vagina“. Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schlücke! Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4020,7 +4020,7 @@
         "id": 404
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Dinge, die man im Kofferraum eines Autos finden kann\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Dinge, die man im Kofferraum eines Autos finden kann“, du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -4090,7 +4090,7 @@
         "id": 411
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Dinge, die man nicht mehr macht, wenn man alt ist\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Dinge, die man nicht mehr macht, wenn man alt ist“, du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4450,7 +4450,7 @@
         "id": 447
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Horrorfilme\". Du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Horrorfilme“. Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4530,7 +4530,7 @@
         "id": 455
     },
     {
-        "text": "Neues Thema und {int} Schlücke für den Verlierer: \"Deutsche Schauspieler\". Du beginnst.",
+        "text": "Neues Thema und {int} Schlücke für den Verlierer: „Deutsche Schauspieler“. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -4580,7 +4580,7 @@
         "id": 460
     },
     {
-        "text": "\"Adjektive, die zu deinem linken Nachbarn passen\". Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schlücke! Du beginnst!",
+        "text": "„Adjektive, die zu deinem linken Nachbarn passen“. Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schlücke! Du beginnst!",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4630,7 +4630,7 @@
         "id": 465
     },
     {
-        "text": "\"Figuren aus Shrek\" der Spieler, der etwas wiederholt oder keine Idee mehr hat, trinkt {int} Schlücke! Du beginnst.",
+        "text": "„Figuren aus Shrek“ der Spieler, der etwas wiederholt oder keine Idee mehr hat, trinkt {int} Schlücke! Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -4730,7 +4730,7 @@
         "id": 475
     },
     {
-        "text": "Das Wort \"Schlücke\" ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel trinkt derjenige {int} Schlücke.",
+        "text": "Das Wort „Schlücke“ ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel trinkt derjenige {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": -1,
@@ -4970,7 +4970,7 @@
         "id": 499
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Verschiedene Todesfälle aus den Final Destination Filmen\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Verschiedene Todesfälle aus den Final Destination Filmen“, du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5090,7 +5090,7 @@
         "id": 511
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Soziale Netzwerke\". Du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Soziale Netzwerke“. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5260,7 +5260,7 @@
         "id": 530
     },
     {
-        "text": "Jeder, der schon einmal einen \"Star Wars\"-Film gesehen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, der schon einmal einen „Star Wars“-Film gesehen hat, trinkt {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -5610,7 +5610,7 @@
         "id": 566
     },
     {
-        "text": "Neues Thema und {int} Schlücke für den Verlierer: \"Vorteile, ein Mann zu sein\", du beginnst.",
+        "text": "Neues Thema und {int} Schlücke für den Verlierer: „Vorteile, ein Mann zu sein“, du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5850,7 +5850,7 @@
         "id": 590
     },
     {
-        "text": "\"Alles, was stinkt\", die Person, die wiederholt oder nichts mehr weiß, trinkt {int} Schlücke! Du beginnst.",
+        "text": "„Alles, was stinkt“, die Person, die wiederholt oder nichts mehr weiß, trinkt {int} Schlücke! Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -5890,7 +5890,7 @@
         "id": 594
     },
     {
-        "text": "Du darfst eine Runde lang nur das Wort \"Vagina\" benutzen. Trinke {int} Schlücke für jedes andere Wort.",
+        "text": "Du darfst eine Runde lang nur das Wort „Vagina“ benutzen. Trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -6060,7 +6060,7 @@
         "id": 611
     },
     {
-        "text": "Jeder, der schon einmal einen \"Herr der Ringe\"-Film gesehen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, der schon einmal einen „Herr der Ringe“-Film gesehen hat, trinkt {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -6080,7 +6080,7 @@
         "id": 613
     },
     {
-        "text": "\"Sexstellungen\". Die Person, die keine Ideen mehr hat, oder eine Idee wiederholt, trinkt {int} Schlücke! Du beginnst!",
+        "text": "„Sexstellungen“. Die Person, die keine Ideen mehr hat, oder eine Idee wiederholt, trinkt {int} Schlücke! Du beginnst!",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6110,7 +6110,7 @@
         "id": 617
     },
     {
-        "text": "\"Farben der Power Rangers\". Die Person, die keine Ideen mehr hat, oder eine Farbe wiederholt, trinkt {int} Schlücke! Du beginnst.",
+        "text": "„Farben der Power Rangers“. Die Person, die keine Ideen mehr hat, oder eine Farbe wiederholt, trinkt {int} Schlücke! Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -6140,7 +6140,7 @@
         "id": 620
     },
     {
-        "text": "Jeder, der den Film \"Ey Mann, wo is mein Auto?\" noch nicht gesehen hat, trinkt {int} Schlücke. Ansonsten verteile {int} Schlücke.",
+        "text": "Jeder, der den Film „Ey Mann, wo is mein Auto?“ noch nicht gesehen hat, trinkt {int} Schlücke. Ansonsten verteile {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6260,7 +6260,7 @@
         "id": 632
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"sexuelle oder ärztliche Praktiken, die über den Anus laufen\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „sexuelle oder ärztliche Praktiken, die über den Anus laufen“, du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -6740,7 +6740,7 @@
         "id": 680
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Alkoholsorten, die mit einem Softdrink verdünnt werden\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Alkoholsorten, die mit einem Softdrink verdünnt werden“, du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6890,7 +6890,7 @@
         "id": 695
     },
     {
-        "text": "Wer als Letzter \"Apfelkuchen\" schreit, trinkt {int} Schlücke.",
+        "text": "Wer als Letzter „Apfelkuchen“ schreit, trinkt {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -6940,7 +6940,7 @@
         "id": 700
     },
     {
-        "text": "Les die erste Nachricht vor, die angezeigt wird, wenn du \"Sorry\" in die WhatsApp-Suchleiste eingibst. Wenn du dich weigerst: {int} Schlücke.",
+        "text": "Les die erste Nachricht vor, die angezeigt wird, wenn du „Sorry“ in die WhatsApp-Suchleiste eingibst. Wenn du dich weigerst: {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -7020,7 +7020,7 @@
         "id": 708
     },
     {
-        "text": "\"Straßenschilder, in denen Blau enthalten ist\", derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
+        "text": "„Straßenschilder, in denen Blau enthalten ist“, derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7120,7 +7120,7 @@
         "id": 718
     },
     {
-        "text": "Sage den Zungenbrecher \"Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschwätzige Schwalben.\" auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+        "text": "Sage den Zungenbrecher „Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschwätzige Schwalben.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -7310,7 +7310,7 @@
         "id": 737
     },
     {
-        "text": "\"Ideen, um keinen Kater zu bekommen\". Sagt nacheinander eure Ideen. Die Person, die keine Ideen mehr hat, oder eine Idee wiederholt, trinkt {int} Schlücke! Du beginnst!",
+        "text": "„Ideen, um keinen Kater zu bekommen“. Sagt nacheinander eure Ideen. Die Person, die keine Ideen mehr hat, oder eine Idee wiederholt, trinkt {int} Schlücke! Du beginnst!",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7500,7 +7500,7 @@
         "id": 756
     },
     {
-        "text": "Neues Thema und {int} Schlücke für den Verlierer: \"Weinmarken\". Du beginnst.",
+        "text": "Neues Thema und {int} Schlücke für den Verlierer: „Weinmarken“. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7680,7 +7680,7 @@
         "id": 774
     },
     {
-        "text": "\"Verstorbene oder lebende Gitarristen aus der Rockmusik\", der Spieler, der etwas wiederholt oder keine Idee mehr hat, trinkt {int} Schlücke! Du beginnst.",
+        "text": "„Verstorbene oder lebende Gitarristen aus der Rockmusik“, der Spieler, der etwas wiederholt oder keine Idee mehr hat, trinkt {int} Schlücke! Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7740,7 +7740,7 @@
         "id": 780
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Methoden, um zu kommunizieren, bevor es das Handy gab\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Methoden, um zu kommunizieren, bevor es das Handy gab“, du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7980,7 +7980,7 @@
         "id": 804
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Schuhmarken\". Du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Schuhmarken“. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8140,7 +8140,7 @@
         "id": 820
     },
     {
-        "text": "\"Was man alles in der Handtasche einer Frau findet\". Die Person, die keine Ideen mehr hat, oder eine Idee wiederholt, trinkt {int} Schlücke! Du beginnst!",
+        "text": "„Was man alles in der Handtasche einer Frau findet“. Die Person, die keine Ideen mehr hat, oder eine Idee wiederholt, trinkt {int} Schlücke! Du beginnst!",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8280,7 +8280,7 @@
         "id": 834
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Dinge, die man bürsten kann\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Dinge, die man bürsten kann“, du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8340,7 +8340,7 @@
         "id": 840
     },
     {
-        "text": "In dieser Runde darfst du nur das Wort \"Lululu\" benutzen. Trinke {int} Schlücke für jedes andere Wort, das du sagst.",
+        "text": "In dieser Runde darfst du nur das Wort „Lululu“ benutzen. Trinke {int} Schlücke für jedes andere Wort, das du sagst.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -8490,7 +8490,7 @@
         "id": 855
     },
     {
-        "text": "Jeder, der alle Folgen von \"Haus des Geldes\" gesehen hat, darf {int} Schlücke verteilen.",
+        "text": "Jeder, der alle Folgen von „Haus des Geldes“ gesehen hat, darf {int} Schlücke verteilen.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -8610,7 +8610,7 @@
         "id": 867
     },
     {
-        "text": "Jeder, der schon einmal die Serie \"Prison Break\" gesehen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, der schon einmal die Serie „Prison Break“ gesehen hat, trinkt {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -9000,7 +9000,7 @@
         "id": 906
     },
     {
-        "text": "Du darfst eine Runde lang nur das Wort \"Pussy\" benutzen. Trinke {int} Schlücke für jedes andere Wort.",
+        "text": "Du darfst eine Runde lang nur das Wort „Pussy“ benutzen. Trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -9070,7 +9070,7 @@
         "id": 913
     },
     {
-        "text": "Du beginnst mit \"Ich packe meinen Koffer\". Im Uhrzeigersinn nennt jeder Spieler etwas, das er mit in den Koffer packt. Der Verlierer trinkt {int} Schlücke.",
+        "text": "Du beginnst mit „Ich packe meinen Koffer“. Im Uhrzeigersinn nennt jeder Spieler etwas, das er mit in den Koffer packt. Der Verlierer trinkt {int} Schlücke.",
         "count": 5,
         "uses": 0,
         "rounds": 0,
@@ -9310,7 +9310,7 @@
         "id": 937
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Schauspielerinnen mit einem dicken Hintern\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Schauspielerinnen mit einem dicken Hintern“, du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9480,7 +9480,7 @@
         "id": 955
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Dinge, die man oft am Tag öffnet\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Dinge, die man oft am Tag öffnet“, du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9530,7 +9530,7 @@
         "id": 960
     },
     {
-        "text": "Jeder, dem der Film \"Hangcock\" gefallen hat, trinkt {int} Schlücke. Falls du ihn noch nicht gesehen hast, verteile {int} Schlücke.",
+        "text": "Jeder, dem der Film „Hangcock“ gefallen hat, trinkt {int} Schlücke. Falls du ihn noch nicht gesehen hast, verteile {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9540,7 +9540,7 @@
         "id": 961
     },
     {
-        "text": "Neues Thema und {int} Schlücke für den Verlierer: \"Personen aus Marvel The Avengers\", du beginnst.",
+        "text": "Neues Thema und {int} Schlücke für den Verlierer: „Personen aus Marvel The Avengers“, du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9610,7 +9610,7 @@
         "id": 968
     },
     {
-        "text": "Neues Thema und {int} Schlücke für den Verlierer: \"Heiße Sänger\", du beginnst.",
+        "text": "Neues Thema und {int} Schlücke für den Verlierer: „Heiße Sänger“, du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -9770,7 +9770,7 @@
         "id": 984
     },
     {
-        "text": "\"Apps und Dating-Seiten\", der/die Erste, der/die keine Ideen mehr hat oder etwas wiederholt, trinkt {int} Schlücke, du beginnst.",
+        "text": "„Apps und Dating-Seiten“, der/die Erste, der/die keine Ideen mehr hat oder etwas wiederholt, trinkt {int} Schlücke, du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9810,7 +9810,7 @@
         "id": 988
     },
     {
-        "text": "Neues Thema und {int} Schlücke für den Verlierer: \"Vodkamarken\". Du beginnst.",
+        "text": "Neues Thema und {int} Schlücke für den Verlierer: „Vodkamarken“. Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -10140,7 +10140,7 @@
         "id": 1021
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Jobs, die oft in Pornos dargestellt werden\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Jobs, die oft in Pornos dargestellt werden“, du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -10230,7 +10230,7 @@
         "id": 1030
     },
     {
-        "text": "Neues Thema und {int} Schlücke für den Verlierer: \"Diskotheken im Umkreis von 100 Kilometer\". Du beginnst.",
+        "text": "Neues Thema und {int} Schlücke für den Verlierer: „Diskotheken im Umkreis von 100 Kilometer“. Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -10610,7 +10610,7 @@
         "id": 1068
     },
     {
-        "text": "Spiele \"Schere, Stein, Papier\" gegen deinen rechten Nachbar. Der Gewinner verteilt {int} Schlücke.",
+        "text": "Spiele „Schere, Stein, Papier“ gegen deinen rechten Nachbar. Der Gewinner verteilt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -10980,7 +10980,7 @@
         "id": 1105
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Smartphone-Marken\". Du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Smartphone-Marken“. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11030,7 +11030,7 @@
         "id": 1110
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Festivals\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Festivals“, du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11120,7 +11120,7 @@
         "id": 1119
     },
     {
-        "text": "Trink {int} Schlücke, wenn du schon einmal \"Karotten Bukkake\" gegoogelt hast.",
+        "text": "Trink {int} Schlücke, wenn du schon einmal „Karotten Bukkake“ gegoogelt hast.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11220,7 +11220,7 @@
         "id": 1129
     },
     {
-        "text": "\"Rum-Marken\", derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
+        "text": "„Rum-Marken“, derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11250,7 +11250,7 @@
         "id": 1132
     },
     {
-        "text": "Jeder, der schon einmal die Serie \"Breaking Bad\" gesehen hat, trinkt {int} Schlücke.",
+        "text": "Jeder, der schon einmal die Serie „Breaking Bad“ gesehen hat, trinkt {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11300,7 +11300,7 @@
         "id": 1137
     },
     {
-        "text": "\"Lieder von Nena\". Die Person, die keine Ideen mehr hat, oder ein Lied wiederholt, trinkt {int} Schlücke! Du beginnst!",
+        "text": "„Lieder von Nena“. Die Person, die keine Ideen mehr hat, oder ein Lied wiederholt, trinkt {int} Schlücke! Du beginnst!",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11380,7 +11380,7 @@
         "id": 1145
     },
     {
-        "text": "\"Filme von Dwayne Johnson\", derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
+        "text": "„Filme von Dwayne Johnson“, derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11510,7 +11510,7 @@
         "id": 1159
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Dinge, die weniger als 1 Minute brauchen\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Dinge, die weniger als 1 Minute brauchen“, du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11620,7 +11620,7 @@
         "id": 1170
     },
     {
-        "text": "\"Vodka-Marken\", derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
+        "text": "„Vodka-Marken“, derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11780,7 +11780,7 @@
         "id": 1186
     },
     {
-        "text": "Themenspiel und {int} Schlücke für den Verlierer: \"Strategie-Videospiele\", du beginnst.",
+        "text": "Themenspiel und {int} Schlücke für den Verlierer: „Strategie-Videospiele“, du beginnst.",
         "count": 3,
         "uses": 0,
         "rounds": 0,
@@ -11840,7 +11840,7 @@
         "id": 1192
     },
     {
-        "text": "Du darfst eine Runde lang nur das Wort \"Pimmel\" benutzen. Trinke {int} Schlücke für jedes andere Wort.",
+        "text": "Du darfst eine Runde lang nur das Wort „Pimmel“ benutzen. Trinke {int} Schlücke für jedes andere Wort.",
         "count": 1,
         "uses": 0,
         "rounds": 1,
@@ -11870,7 +11870,7 @@
         "id": 1195
     },
     {
-        "text": "Schreibe jemandem den Satz \"Ich habe Vagina-Herpes\". Machst du es nicht trinke {int} Schlücke.",
+        "text": "Schreibe jemandem den Satz „Ich habe Vagina-Herpes“. Machst du es nicht trinke {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -11900,7 +11900,7 @@
         "id": 1198
     },
     {
-        "text": "\"Adjektive, die zu dir passen\". Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schlücke! Dein linker Nachbar beginnt.",
+        "text": "„Adjektive, die zu dir passen“. Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schlücke! Dein linker Nachbar beginnt.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
