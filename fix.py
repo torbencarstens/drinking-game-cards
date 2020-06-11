@@ -10,7 +10,7 @@ with open(file, 'r', encoding='utf-8') as f:
 keywords = ['bis zum ende']
 regexes = [re.compile(f"\\s{keyword}(\\s|,)") for keyword in keywords]
 
-#TODO Getränkt
+# TODO Getränkt
 excempts = [it.lower() for it in []]
 
 
@@ -20,21 +20,12 @@ def is_excempt(lowertext: str) -> bool:
             return True
     return False
 
+
 try:
     with open('checkme.txt', 'w', encoding='utf-8') as f:
         for task in tasks:
             text: str = task['text']
             lowertext = text.lower()
-
-            if task['rounds'] == -1:
-                continue
-
-            for keyword in keywords:
-                if keyword in lowertext:
-                    task['rounds'] = -1
-                    break
-
-
 
 
 except BaseException as e:
