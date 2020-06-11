@@ -590,7 +590,7 @@
         "id": 59
     },
     {
-        "text": "Jobs, die mit G beginnen\", derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
+        "text": "\"Jobs, die mit G beginnen\", derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3760,7 +3760,7 @@
         "id": 378
     },
     {
-        "text": "Alle Beleidigungen mit Tiernamen\". Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schlücke! Du beginnst!",
+        "text": "\"Alle Beleidigungen mit Tiernamen\". Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schlücke! Du beginnst!",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -3780,7 +3780,7 @@
         "id": 380
     },
     {
-        "text": "Orte, an denen du gekotzt hast\", die Person, die wiederholt oder nichts mehr weiß, trinkt {int} Schlücke! Du beginnst.",
+        "text": "\"Orte, an denen du gekotzt hast\", die Person, die wiederholt oder nichts mehr weiß, trinkt {int} Schlücke! Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4580,7 +4580,7 @@
         "id": 460
     },
     {
-        "text": "Adjektive, die zu deinem linken Nachbarn passen\". Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schlücke! Du beginnst!",
+        "text": "\"Adjektive, die zu deinem linken Nachbarn passen\". Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schlücke! Du beginnst!",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -4630,7 +4630,7 @@
         "id": 465
     },
     {
-        "text": "Figuren aus Shrek\" der Spieler, der etwas wiederholt oder keine Idee mehr hat, trinkt {int} Schlücke! Du beginnst.",
+        "text": "\"Figuren aus Shrek\" der Spieler, der etwas wiederholt oder keine Idee mehr hat, trinkt {int} Schlücke! Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5850,7 +5850,7 @@
         "id": 590
     },
     {
-        "text": "Alles, was stinkt\", die Person, die wiederholt oder nichts mehr weiß, trinkt {int} Schlücke! Du beginnst.",
+        "text": "\"Alles, was stinkt\", die Person, die wiederholt oder nichts mehr weiß, trinkt {int} Schlücke! Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -7020,7 +7020,7 @@
         "id": 708
     },
     {
-        "text": "Straßenschilder, in denen Blau enthalten ist\", derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
+        "text": "\"Straßenschilder, in denen Blau enthalten ist\", derjenige, der etwas wiederholt oder nichts mehr weiß, trinkt {int} Schlücke. Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7680,7 +7680,7 @@
         "id": 774
     },
     {
-        "text": "Verstorbene oder lebende Gitarristen aus der Rockmusik\", der Spieler, der etwas wiederholt oder keine Idee mehr hat, trinkt {int} Schlücke! Du beginnst.",
+        "text": "\"Verstorbene oder lebende Gitarristen aus der Rockmusik\", der Spieler, der etwas wiederholt oder keine Idee mehr hat, trinkt {int} Schlücke! Du beginnst.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -8170,7 +8170,7 @@
         "id": 823
     },
     {
-        "text": "Beschimpfungen, die das Wort \"Schwanz\" beinhalten\", wer nichts mehr weiß oder etwas wiederholt, trinkt {int} Schlücke. Du beginnst.",
+        "text": "\"Beschimpfungen, die das Wort \"Schwanz\" beinhalten\", wer nichts mehr weiß oder etwas wiederholt, trinkt {int} Schlücke. Du beginnst.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
