@@ -3264,7 +3264,7 @@
         "count": 2,
         "uses": 0,
         "rounds": 1,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": false,
         "id": 329
@@ -10414,7 +10414,7 @@
         "count": 2,
         "uses": 0,
         "rounds": 1,
-        "personal": false,
+        "personal": true,
         "remote": true,
         "unique": false,
         "id": 1049
