@@ -8745,7 +8745,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 881
     },
