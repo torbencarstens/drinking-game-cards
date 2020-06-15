@@ -1830,7 +1830,7 @@
         "id": 183
     },
     {
-        "text": "Alle, die single sind, trinken {int} Schlücke.",
+        "text": "Alle, die Single sind, trinken {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -3530,7 +3530,7 @@
         "id": 355
     },
     {
-        "text": "„Andere Saucen als Ketchup und Mayo“. Die Persontrink {int} Schlücke, ansonsten verteil sie.",
+        "text": "„Andere Saucen als Ketchup und Mayo“. Wem nichts mehr einfällt trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -6030,7 +6030,7 @@
         "id": 608
     },
     {
-        "text": "Alle, die single sind, trinken {int} Schlücke.",
+        "text": "Alle, die Single sind, trinken {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
