@@ -201,7 +201,7 @@
     },
     {
         "text": "Wer als Letzter einen Pokemon-Namen schreit, trinkt {int} Schlücke.",
-        "count": 2,
+        "count": 4,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -211,7 +211,7 @@
     },
     {
         "text": "Trink {int} Schlücke, wenn du dich diese Woche schon einmal mit deinem/r Partner/in gestritten hast.",
-        "count": 1,
+        "count": 3,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -328,16 +328,6 @@
         "remote": true,
         "unique": true,
         "id": 33
-    },
-    {
-        "text": "Trink {int} Schlücke, wenn du dich diese Woche schon einmal mit deinem/r Partner/in gestritten hast.",
-        "count": 2,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 34
     },
     {
         "text": "Alle Frauen trinken!",
@@ -581,7 +571,7 @@
     },
     {
         "text": "Alle, die keinen Autoführerschein besitzen, trinken {int} Schlücke. Der Rest, trinkt {int} Schlücke.",
-        "count": 2,
+        "count": 3,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -771,7 +761,7 @@
     },
     {
         "text": "Wirf eine Münze. Bei Kopf trinken alle {int} Schlücke, bei Zahl trinkst du {int} Schlücke.",
-        "count": 1,
+        "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -1181,7 +1171,7 @@
     },
     {
         "text": "Alle Azubis trinken {int} Schlücke.",
-        "count": 3,
+        "count": 4,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -1321,7 +1311,7 @@
     },
     {
         "text": "Verteile {int} Schlücke und trinke {int} Schlücke.",
-        "count": 2,
+        "count": 22,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -1331,7 +1321,7 @@
     },
     {
         "text": "Verteile {int} Schlücke. Diese müssen auf mindestens 2 Personen aufgeteilt werden.",
-        "count": 1,
+        "count": 43,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -1391,7 +1381,7 @@
     },
     {
         "text": "Du entscheidest: Alle trinken 6 oder {int} Schlücke.",
-        "count": 1,
+        "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -1508,16 +1498,6 @@
         "remote": true,
         "unique": true,
         "id": 151
-    },
-    {
-        "text": "Verteile {int} Schlücke und trinke {int} Schlücke.",
-        "count": 18,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 152
     },
     {
         "text": "Du darfst eine Runde lang nur das Wort „Blablabla“ benutzen. Trinke {int} Schlücke für jedes andere Wort.",
@@ -1831,7 +1811,7 @@
     },
     {
         "text": "Alle, die Single sind, trinken {int} Schlücke.",
-        "count": 2,
+        "count": 3,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -1981,7 +1961,7 @@
     },
     {
         "text": "Verteile {int} Schlücke oder erhalte für eine Runde Immunität.",
-        "count": 20,
+        "count": 22,
         "uses": 0,
         "rounds": 1,
         "personal": true,
@@ -2151,7 +2131,7 @@
     },
     {
         "text": "Trinke {int} Schlücke oder gib einem Spieler deiner Wahl 1 Euro.",
-        "count": 2,
+        "count": 12,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -2181,7 +2161,7 @@
     },
     {
         "text": "Bestimme einen Mitspieler. Dieser darf {int} Schlücke verteilen.",
-        "count": 10,
+        "count": 38,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -2271,7 +2251,7 @@
     },
     {
         "text": "Wer als Letzter seinen Namen sagt, trinkt {int} Schlücke.",
-        "count": 2,
+        "count": 4,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -2411,7 +2391,7 @@
     },
     {
         "text": "Alle, die eine Schwester haben, trinken {int} Schlücke.",
-        "count": 2,
+        "count": 3,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -2491,7 +2471,7 @@
     },
     {
         "text": "Jeder, der ein schwarzes Oberteil trägt, trinkt {int} Schlücke.",
-        "count": 1,
+        "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -2641,7 +2621,7 @@
     },
     {
         "text": "Du musst, bis zum Ende des Spieles, immer wenn du dran bist dein linken Fuß berühren. Machst du es nicht trinke {int} Schlücke.",
-        "count": 2,
+        "count": 3,
         "uses": 0,
         "rounds": -1,
         "personal": true,
@@ -2771,7 +2751,7 @@
     },
     {
         "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, einmal in die Hände klatschen. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
-        "count": 1,
+        "count": 3,
         "uses": 0,
         "rounds": -1,
         "personal": true,
@@ -2808,16 +2788,6 @@
         "remote": true,
         "unique": true,
         "id": 281
-    },
-    {
-        "text": "Verteile {int} Schlücke und trinke {int} Schlücke.",
-        "count": 2,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 282
     },
     {
         "text": "Du und dein linker Sitznachbar, gleichen den Füllstand ihres Getränks an.",
@@ -2931,7 +2901,7 @@
     },
     {
         "text": "Wenn du willst, exe jetzt dein Getränk und die nächsten Schlücke die du vergeben darfst werden einmalig verdreifacht.",
-        "count": 2,
+        "count": 3,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -3150,16 +3120,6 @@
         "id": 315
     },
     {
-        "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, einmal in die Hände klatschen. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
-        "count": 2,
-        "uses": 0,
-        "rounds": -1,
-        "personal": true,
-        "remote": true,
-        "unique": false,
-        "id": 316
-    },
-    {
         "text": "Dreh dich 3 mal im Kreis. Danach trinke {int} Schlücke.",
         "count": 3,
         "uses": 0,
@@ -3181,7 +3141,7 @@
     },
     {
         "text": "Du heißt bis zum Ende des Spiels Justin Bieber. Wer dich mit deinem richtigen Namen anspricht, muss jedesmal {int} Schlücke trinken.",
-        "count": 1,
+        "count": 2,
         "uses": 0,
         "rounds": -1,
         "personal": true,
@@ -3211,7 +3171,7 @@
     },
     {
         "text": "Zählt nach der Reihe Städte auf, die mit dem Buchstaben D anfangen. Der Erste, der eine Stadt nicht weiß oder doppelt sagt, trinkt {int} Schlücke.",
-        "count": 2,
+        "count": 3,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -3301,7 +3261,7 @@
     },
     {
         "text": "Schreibe jemandem über SMS oder WhatsApp, der nicht im Raum ist. Frage diese Person, wie das neue Justin Bieber Album heißt. Machst du es nicht: Trinke {int} Schlücke.",
-        "count": 2,
+        "count": 3,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -3368,16 +3328,6 @@
         "remote": true,
         "unique": true,
         "id": 339
-    },
-    {
-        "text": "Alle Azubis trinken {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 340
     },
     {
         "text": "Der/die Letzte, der beim Feiern gekotzt hat, trinkt {int} Schlücke.",
@@ -3520,16 +3470,6 @@
         "id": 354
     },
     {
-        "text": "Du entscheidest: Alle trinken 6 oder {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 355
-    },
-    {
         "text": "„Andere Saucen als Ketchup und Mayo“. Wem nichts mehr einfällt trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
@@ -3561,7 +3501,7 @@
     },
     {
         "text": "Alle, die einen Bruder haben, trinken {int} Schlücke.",
-        "count": 2,
+        "count": 3,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -3581,7 +3521,7 @@
     },
     {
         "text": "Jeder, der ein weißes Oberteil trägt, trinkt {int} Schlücke.",
-        "count": 1,
+        "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -3611,7 +3551,7 @@
     },
     {
         "text": "Zeige allen Mitspielern das letzte Foto was du auf deinem Handy gemacht hast. Hast du kein Handy dabei oder weigerst du dich: trinke {int} Schlücke.",
-        "count": 1,
+        "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -3711,7 +3651,7 @@
     },
     {
         "text": "Der Größte in der Runde, trinkt {int} Schlücke.",
-        "count": 2,
+        "count": 3,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -3911,7 +3851,7 @@
     },
     {
         "text": "Schreibe jemandem den Satz „Hodenkobolde sind seltene Tiere“. Machst du es nicht trinke {int} Schlücke.",
-        "count": 2,
+        "count": 3,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -4200,16 +4140,6 @@
         "id": 422
     },
     {
-        "text": "Schreibe jemandem den Satz „Hodenkobolde sind seltene Tiere“. Machst du es nicht trinke {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 423
-    },
-    {
         "text": "Jeder, der gerne einen Affen als Haustier hätte, trinkt {int} Schlücke.",
         "count": 1,
         "uses": 0,
@@ -4271,7 +4201,7 @@
     },
     {
         "text": "Wirf eine Münze. Bei Kopf trinken alle {int} Schlücke, bei Zahl trinken alle {int} Schlücke.",
-        "count": 2,
+        "count": 14,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -4570,16 +4500,6 @@
         "id": 459
     },
     {
-        "text": "Du musst, bis zum Ende des Spieles, immer wenn du dran bist dein linken Fuß berühren. Machst du es nicht trinke {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": -1,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 460
-    },
-    {
         "text": "„Adjektive, die zu deinem linken Nachbarn passen“. Die Person, die keine Ideen mehr hat, oder ein Wort wiederholt, trinkt {int} Schlücke! Du beginnst!",
         "count": 2,
         "uses": 0,
@@ -4731,7 +4651,7 @@
     },
     {
         "text": "Das Wort „Schlücke“ ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel trinkt derjenige {int} Schlücke.",
-        "count": 1,
+        "count": 2,
         "uses": 0,
         "rounds": -1,
         "personal": true,
@@ -4818,16 +4738,6 @@
         "remote": true,
         "unique": true,
         "id": 484
-    },
-    {
-        "text": "Wirf eine Münze. Bei Kopf trinken alle {int} Schlücke, bei Zahl trinken alle {int} Schlücke.",
-        "count": 12,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 485
     },
     {
         "text": "Jeder Mitspieler darf die Hand heben. Wenn 3 oder mehr Mitspieler dies tun, musst du {int} Schlücke trinken. Ansonsten nicht.",
@@ -4931,7 +4841,7 @@
     },
     {
         "text": "Jeder, der dir am Ohrläppchen leckt, darf {int} Schlücke verteilen. Will dir keiner am Ohrläppchen lecken, darfst du {int} Schlücke verteilen. Erlaubst du das Lecken nicht, trinkst du {int} Schlücke.",
-        "count": 1,
+        "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -5060,16 +4970,6 @@
         "id": 508
     },
     {
-        "text": "Jeder, der dir am Ohrläppchen leckt, darf {int} Schlücke verteilen. Will dir keiner am Ohrläppchen lecken, darfst du {int} Schlücke verteilen. Erlaubst du das Lecken nicht, trinkst du {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 509
-    },
-    {
         "text": "Wenn du schon einmal mit deinem rechten Nachbarn in den Urlaub gefahren bist, verteil {int} Schlücke. Ansonsten trink sie selbst.",
         "count": 1,
         "uses": 0,
@@ -5158,16 +5058,6 @@
         "remote": true,
         "unique": true,
         "id": 518
-    },
-    {
-        "text": "Zählt nach der Reihe Städte auf, die mit dem Buchstaben D anfangen. Der Erste, der eine Stadt nicht weiß oder doppelt sagt, trinkt {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 519
     },
     {
         "text": "Du musst dir eine Runde lang, immer bevor du trinkst, einen Klaps auf die Schulter geben. Für jeden Bruch der Regel trinkst du {int} Schlücke.",
@@ -5331,7 +5221,7 @@
     },
     {
         "text": "Sage den Zungenbrecher „Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschwätzige Schwalben.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
-        "count": 2,
+        "count": 4,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -5470,16 +5360,6 @@
         "id": 552
     },
     {
-        "text": "Zeige allen Mitspielern das letzte Foto was du auf deinem Handy gemacht hast. Hast du kein Handy dabei oder weigerst du dich: Trinke {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 553
-    },
-    {
         "text": "Trink {int} Schlücke, wenn du schon einmal jemandem deine Finger in den Mund gesteckt hast, um ihm an der Innenseite der Wangen zu ziehen.",
         "count": 2,
         "uses": 0,
@@ -5531,7 +5411,7 @@
     },
     {
         "text": "Trinke, die letzte Ziffer deiner Handynummer, als Schlücke.",
-        "count": 2,
+        "count": 4,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -5631,7 +5511,7 @@
     },
     {
         "text": "Verteile {int} Schlücke und bestimme jemanden der auch {int} Schlücke verteilen darf.",
-        "count": 31,
+        "count": 32,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -5931,7 +5811,7 @@
     },
     {
         "text": "Alle Studenten trinken {int} Schlücke.",
-        "count": 3,
+        "count": 4,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -6028,16 +5908,6 @@
         "remote": true,
         "unique": true,
         "id": 608
-    },
-    {
-        "text": "Alle, die Single sind, trinken {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 609
     },
     {
         "text": "Du trinkst {int} Schlücke, danach drehst du dich 30 Sekunden im Kreis und trinkst nochmal {int} Schlücke. Wahlweise darfst du auch stattdessen dein Getränk exen.",
@@ -6231,7 +6101,7 @@
     },
     {
         "text": "Dreh dich 8 mal im Kreis. Danach trinke {int} Schlücke.",
-        "count": 1,
+        "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -6321,7 +6191,7 @@
     },
     {
         "text": "Alle die kleiner als 1.80 sind, trinken {int} Schlücke.",
-        "count": 1,
+        "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -6641,7 +6511,7 @@
     },
     {
         "text": "Alle, die vergeben sind, trinken {int} Schlücke.",
-        "count": 2,
+        "count": 3,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -6698,16 +6568,6 @@
         "remote": true,
         "unique": true,
         "id": 676
-    },
-    {
-        "text": "Das Wort „Schlücke“ ist bis zum Ende des Spieles verboten. Für jeden Bruch dieser Regel trinkt derjenige {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": -1,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 677
     },
     {
         "text": "Alle, die schnarchen, trinken {int} Schlücke und machen dabei Schnarchgeräusche.",
@@ -6950,16 +6810,6 @@
         "id": 701
     },
     {
-        "text": "Verteile {int} Schlücke und bestimme jemanden der auch {int} Schlücke verteilen darf.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 702
-    },
-    {
         "text": "Gib einer Person deiner Wahl eine High-Five. Danach trinke mit ihm {int} Schlücke.",
         "count": 10,
         "uses": 0,
@@ -7120,16 +6970,6 @@
         "id": 718
     },
     {
-        "text": "Sage den Zungenbrecher „Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschwätzige Schwalben.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
-        "count": 2,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 719
-    },
-    {
         "text": "Lieber Weltmeister im Boxen oder Fußball sein? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
         "count": 2,
         "uses": 0,
@@ -7211,7 +7051,7 @@
     },
     {
         "text": "Der Kleinste in der Runde, trinkt {int} Schlücke.",
-        "count": 2,
+        "count": 3,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -7330,16 +7170,6 @@
         "id": 739
     },
     {
-        "text": "Wer als Letzter seinen Namen sagt, trinkt {int} Schlücke.",
-        "count": 2,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 740
-    },
-    {
         "text": "Trinke {int} Schlücke, wenn du dieses Jahr eine Reise ins Ausland geplant hast.",
         "count": 1,
         "uses": 0,
@@ -7358,16 +7188,6 @@
         "remote": true,
         "unique": true,
         "id": 742
-    },
-    {
-        "text": "Jeder, der ein schwarzes Oberteil trägt, trinkt {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 743
     },
     {
         "text": "Du bekommst die Super-Mega-Zerstörer-Karte. Du darfst jede Runde, wenn du dran bist, eine Person bestimmen, die ihr Getränk exen muss.",
@@ -7781,7 +7601,7 @@
     },
     {
         "text": "Trinke {int} Schlücke.",
-        "count": 1,
+        "count": 227,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -7870,16 +7690,6 @@
         "id": 793
     },
     {
-        "text": "Alle Studenten trinken {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 794
-    },
-    {
         "text": "Derjenige mit dem größten Bart unter euch trinkt {int} Schlücke.",
         "count": 2,
         "uses": 0,
@@ -7928,16 +7738,6 @@
         "remote": true,
         "unique": true,
         "id": 799
-    },
-    {
-        "text": "Jeder, der ein weißes Oberteil trägt, trinkt {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 800
     },
     {
         "text": "trink {int} Schlücke, wenn du schon einmal deinen Penis „oder den deines Partners“ gemessen hast.",
@@ -8190,16 +7990,6 @@
         "id": 825
     },
     {
-        "text": "Bestimme einen Mitspieler. Dieser darf {int} Schlücke verteilen.",
-        "count": 28,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 826
-    },
-    {
         "text": "Jedes Mal, wenn jemand das Wort „Du“ sagt, darfst du {int} Schlücke verteilen. Die Regel gilt bis zum Ende des Spieles.",
         "count": 1,
         "uses": 0,
@@ -8311,7 +8101,7 @@
     },
     {
         "text": "Wähle eine Zahl zwischen 5 und 10. Alle trinken die gewählte Zahl als Schlücke.",
-        "count": 1,
+        "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -8451,7 +8241,7 @@
     },
     {
         "text": "Alle, die noch ein Kuscheltier im Bett haben, trinken {int} Schlücke.",
-        "count": 1,
+        "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -8591,7 +8381,7 @@
     },
     {
         "text": "Du entscheidest: Alle trinken 7 oder {int} Schlücke.",
-        "count": 1,
+        "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -8621,7 +8411,7 @@
     },
     {
         "text": "Alle Schüler trinken {int} Schlücke.",
-        "count": 1,
+        "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": false,
@@ -8648,16 +8438,6 @@
         "remote": true,
         "unique": true,
         "id": 871
-    },
-    {
-        "text": "Der Größte in der Runde, trinkt {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 872
     },
     {
         "text": "Alle klatschen mehrmals in die Hände und trinken danach {int} Schlücke.",
@@ -8771,7 +8551,7 @@
     },
     {
         "text": "Berühre jemanden an seiner Nase. Danach trinkt jeder von euch beiden {int} Schlücke.",
-        "count": 1,
+        "count": 10,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -8788,16 +8568,6 @@
         "remote": true,
         "unique": true,
         "id": 885
-    },
-    {
-        "text": "Trinke, die letzte Ziffer deiner Handynummer, als Schlücke.",
-        "count": 2,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 886
     },
     {
         "text": "Spielst du dieses Spiel das erste Mal, verteile {int} Schlücke.",
@@ -8858,26 +8628,6 @@
         "remote": true,
         "unique": true,
         "id": 892
-    },
-    {
-        "text": "Alle, die keinen Autoführerschein besitzen, trinken {int} Schlücke. Der Rest, trinkt {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 893
-    },
-    {
-        "text": "Wer als Letzter einen Pokemon-Namen schreit, trinkt {int} Schlücke.",
-        "count": 2,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 894
     },
     {
         "text": "Lieber nur ein Glas Alkohol pro Party trinken können oder gezwungen sein, jede Party mit 5 Whiskys pur auf ex beginnen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int} Schlücke.",
@@ -9100,16 +8850,6 @@
         "id": 916
     },
     {
-        "text": "Verteile {int} Schlücke. Diese müssen auf mindestens 2 Personen aufgeteilt werden.",
-        "count": 42,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 917
-    },
-    {
         "text": "Alle die kleiner als 1.70 sind, trinken {int} Schlücke.",
         "count": 1,
         "uses": 0,
@@ -9160,16 +8900,6 @@
         "id": 922
     },
     {
-        "text": "Alle, die einen Bruder haben, trinken {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 923
-    },
-    {
         "text": "Imitiere 5 Sekunden lang eine Schlange oder trink {int} Schlücke!",
         "count": 1,
         "uses": 0,
@@ -9218,16 +8948,6 @@
         "remote": true,
         "unique": true,
         "id": 928
-    },
-    {
-        "text": "Alle die kleiner als 1.80 sind, trinken {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 929
     },
     {
         "text": "Wähle einen Buchstaben. Jeder der diesen Buchstaben im Nachnamen hat, trinkt {int} Schlücke.",
@@ -9420,16 +9140,6 @@
         "id": 948
     },
     {
-        "text": "Du entscheidest: Alle trinken 7 oder {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 949
-    },
-    {
         "text": "Alle von euch müssen 10 Liegestützen machen. Wer es innerhalb von einer Minute nicht schafft, muss ein alkoholisches Getränk zu sich nehmen, dass er sonst nicht gern mag.",
         "count": 2,
         "uses": 0,
@@ -9438,16 +9148,6 @@
         "remote": true,
         "unique": true,
         "id": 950
-    },
-    {
-        "text": "Wirf eine Münze. Bei Kopf trinken alle {int} Schlücke, bei Zahl trinkst du {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 951
     },
     {
         "text": "Alle, die nicht aus Hessen kommen, trinken {int} Schlücke.",
@@ -9840,16 +9540,6 @@
         "id": 991
     },
     {
-        "text": "Alle Schüler trinken {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 992
-    },
-    {
         "text": "Verteil {int} Schlücke, wenn du deine Bettwäsche vor weniger als einem Monat gewechselt hast, ansonsten trink sie selbst.",
         "count": 1,
         "uses": 0,
@@ -9888,16 +9578,6 @@
         "remote": true,
         "unique": true,
         "id": 996
-    },
-    {
-        "text": "Berühre jemanden an seiner Nase. Danach trinkt jeder von euch beiden {int} Schlücke.",
-        "count": 9,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 997
     },
     {
         "text": "Themenspiel und {int} Schlücke für den Verlierer: „Charaktere aus „Haus des Geldes““. Du beginnst.",
@@ -9988,16 +9668,6 @@
         "remote": true,
         "unique": true,
         "id": 1006
-    },
-    {
-        "text": "Alle, die eine Schwester haben, trinken {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 1007
     },
     {
         "text": "Trinkt euer Glas aus. Der Letzte trinkt die nächsten 3 Runden doppelte Schlücke.",
@@ -10101,7 +9771,7 @@
     },
     {
         "text": "Schreibe jemandem den Satz „Ich habe Vagina-Herpes“. Machst du es nicht trinke {int} Schlücke.",
-        "count": 1,
+        "count": 3,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -10261,7 +9931,7 @@
     },
     {
         "text": "Exe dein Getränk oder frag in die Runde wie viel Geld es kosten würde, dass du nicht exen musst. Bezahl den Spieler mit dem niedrigsten Angebot oder ex dein Getränk.",
-        "count": 2,
+        "count": 5,
         "uses": 0,
         "rounds": 0,
         "personal": true,
@@ -10328,16 +9998,6 @@
         "remote": true,
         "unique": true,
         "id": 1040
-    },
-    {
-        "text": "Exe dein Getränk oder frag in die Runde wie viel Geld es kosten würde, dass du nicht exen musst. Bezahl den Spieler mit dem niedrigsten Angebot oder ex dein Getränk.",
-        "count": 3,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 1041
     },
     {
         "text": "Mache einen Dap und trinke {int} Schlücke oder trinke {int} Schlücke.",
@@ -10830,16 +10490,6 @@
         "id": 1090
     },
     {
-        "text": "Trinke {int} Schlücke oder gib einem Spieler deiner Wahl 1 Euro.",
-        "count": 10,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 1091
-    },
-    {
         "text": "Sage den Namen jedes Mitspielers mit seinem Alter. Für jeden Fehler trinkst du {int} Schlücke.",
         "count": 2,
         "uses": 0,
@@ -10848,16 +10498,6 @@
         "remote": true,
         "unique": true,
         "id": 1092
-    },
-    {
-        "text": "Wähle eine Zahl zwischen 5 und 10. Alle trinken die gewählte Zahl als Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 1094
     },
     {
         "text": "Habt ihr schon mehr als 200 Aufgaben erfüllt, trinken alle {int} Schlücke. Habt ihr weniger als 200 Aufgaben erfüllt, trinken alle {int} Schlücke.",
@@ -10888,16 +10528,6 @@
         "remote": true,
         "unique": true,
         "id": 1097
-    },
-    {
-        "text": "Du heißt bis zum Ende des Spiels Justin Bieber. Wer dich mit deinem richtigen Namen anspricht, muss jedesmal {int} Schlücke trinken.",
-        "count": 1,
-        "uses": 0,
-        "rounds": -1,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 1098
     },
     {
         "text": "Dir dürfen 1 Runde lang keine Fragen gestellt werden. Jeder der dir eine Frage stellt trinkt {int} Schlücke.",
@@ -11080,16 +10710,6 @@
         "id": 1116
     },
     {
-        "text": "Der Kleinste in der Runde, trinkt {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 1117
-    },
-    {
         "text": "Im Uhrzeigersinn: Jeder buchstabiert den Vornamen der Person, die rechts von euch sitzt. 4 für den/die Verlierer/in! Du beginnst.",
         "count": 1,
         "uses": 0,
@@ -11098,16 +10718,6 @@
         "remote": true,
         "unique": true,
         "id": 1118
-    },
-    {
-        "text": "Verteile {int} Schlücke oder erhalte für eine Runde Immunität.",
-        "count": 2,
-        "uses": 0,
-        "rounds": 1,
-        "personal": true,
-        "remote": true,
-        "unique": false,
-        "id": 1119
     },
     {
         "text": "Trink {int} Schlücke, wenn du schon einmal „Karotten Bukkake“ gegoogelt hast.",
@@ -11430,16 +11040,6 @@
         "id": 1152
     },
     {
-        "text": "Schreibe jemandem über SMS oder WhatsApp, der nicht im Raum ist. Frage diese Person, wie das neue Justin Bieber Album heißt. Machst du es nicht: Trinke {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 1153
-    },
-    {
         "text": "Wenn du dieses Jahr Verstopfung hattest, trink {int} Schlücke. Ansonsten verteil sie.",
         "count": 2,
         "uses": 0,
@@ -11530,16 +11130,6 @@
         "id": 1163
     },
     {
-        "text": "Trinke {int} Schlücke.",
-        "count": 226,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 1164
-    },
-    {
         "text": "Verteil {int} Schlücke.",
         "count": 1,
         "uses": 0,
@@ -11578,16 +11168,6 @@
         "remote": true,
         "unique": true,
         "id": 1168
-    },
-    {
-        "text": "Alle, die noch ein Kuscheltier im Bett haben, trinken {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 1169
     },
     {
         "text": "Wähle einen Buchstaben. Jeder der diesen Buchstaben im Vornamen hat, trinkt {int} Schlücke.",
@@ -11850,16 +11430,6 @@
         "id": 1195
     },
     {
-        "text": "Schreibe jemandem den Satz „Ich habe Vagina-Herpes“. Machst du es nicht trinke {int} Schlücke.",
-        "count": 2,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 1196
-    },
-    {
         "text": "Schaue einen Spieler deiner Wahl 20 Sekunden lang an. Wer zuerst lacht oder grinst, trinkt {int} Schlücke.",
         "count": 2,
         "uses": 0,
@@ -11900,16 +11470,6 @@
         "id": 1200
     },
     {
-        "text": "Alle, die vergeben sind, trinken {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 1201
-    },
-    {
         "text": "Schreie „Ich bin ein taubes Nüsschen!“ und trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
@@ -11928,16 +11488,6 @@
         "remote": true,
         "unique": true,
         "id": 1203
-    },
-    {
-        "text": "Wenn du willst, exe jetzt dein Getränk und die nächsten Schlücke die du vergeben darfst werden einmalig verdreifacht.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 1204
     },
     {
         "text": "Wenn gerade Schlager läuft, trinkst du {int} Schlücke.",
@@ -11968,15 +11518,5 @@
         "remote": true,
         "unique": true,
         "id": 1207
-    },
-    {
-        "text": "Dreh dich 8 mal im Kreis. Danach trinke {int} Schlücke.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 1208
     }
 ]
