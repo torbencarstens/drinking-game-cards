@@ -222,7 +222,7 @@
     {
         "text": "Du bekommst die Wenn-ich-du-wäre-Karte. Du kannst im Laufe des Spiels einen Mitspieler bestimmen. Dieser muss eine „Wenn ich du wäre...“ Aufgabe, die du dir ausdenkst, erledigen. Erledigt er sie nicht, ext er sein Getränk.",
         "count": 3,
-        "uses": 0,
+        "uses": 1,
         "rounds": 0,
         "personal": true,
         "remote": true,
@@ -322,7 +322,7 @@
     {
         "text": "Du bekommst die Spiegel-Karte. Irgendwann im Laufe des Spiels, darfst du die Schlücke, die dir jemand gibt, auf ihn doppelt zurückwerfen.",
         "count": 3,
-        "uses": 0,
+        "uses": 1,
         "rounds": 0,
         "personal": true,
         "remote": true,
@@ -372,7 +372,7 @@
     {
         "text": "Du bekommst die Regel-Entfernen-Karte. Irgendwann im Laufe des Spieles kannst du eine Regel, die dir nicht gefällt, entfernen.",
         "count": 5,
-        "uses": 0,
+        "uses": 1,
         "rounds": 0,
         "personal": true,
         "remote": true,
@@ -4042,7 +4042,7 @@
     {
         "text": "Du bekommst die Reingeguckt-Karte. Irgendwann im Laufe des Spieles kannst du mit deinen Fingern ein Kreis machen. Der Erste der reinguckt muss sein Getränkt exen.",
         "count": 5,
-        "uses": 0,
+        "uses": 1,
         "rounds": 0,
         "personal": true,
         "remote": true,
@@ -5412,7 +5412,7 @@
     {
         "text": "Du bekommst die Pussy-Karte. Irgendwann im Laufe des Spieles kannst du einen Mitspieler am Kopf streicheln. Der Letzte der den selben Mitspieler streichelt, muss {int} Schlücke trinken.",
         "count": 4,
-        "uses": 0,
+        "uses": 1,
         "rounds": 0,
         "personal": true,
         "remote": false,
@@ -5732,7 +5732,7 @@
     {
         "text": "Du bekommst die Spiegel-Karte. Irgendwann im Laufe des Spiels, darfst du die Schlücke die dir jemand gibt auf ihn doppelt zurückwerfen.",
         "count": 1,
-        "uses": 0,
+        "uses": 1,
         "rounds": 0,
         "personal": true,
         "remote": true,
@@ -7432,7 +7432,7 @@
     {
         "text": "Du bekommst die Geschenk-Karte. Irgendwann im Laufe des Spieles kannst du eine Aufgabe, die dir gehört, an jemanden anderen weiterleiten.",
         "count": 5,
-        "uses": 0,
+        "uses": 1,
         "rounds": 0,
         "personal": true,
         "remote": true,
@@ -8962,7 +8962,7 @@
     {
         "text": "Du bekommst die Polen-Karte. Irgendwann im Laufe des Spieles kannst du eine Aufgabe, die für jemanden anderen bestimmt war, klauen und für dich benutzen.",
         "count": 5,
-        "uses": 0,
+        "uses": 1,
         "rounds": 0,
         "personal": true,
         "remote": true,
@@ -9580,9 +9580,9 @@
         "id": 965
     },
     {
-        "text": "Du bekommst die Daumen-Karte. Irgendwann, im Laufe des Spiels, kannst du deinen Daumen auf den Tisch legen. Der Letzte der dies auch macht, trinkt {int} Schlücke.",
+        "text": "Du bekommst die Daumen-Karte. Irgendwann, im Laufe des Spiels, kannst du deinen Daumen auf den Tisch legen. Der Letzte, der dies auch macht, trinkt {int} Schlücke.",
         "count": 4,
-        "uses": 0,
+        "uses": 1,
         "rounds": 0,
         "personal": true,
         "remote": true,
@@ -9792,7 +9792,7 @@
     {
         "text": "Du bekommst die Kuss-Karte. Irgendwann im Laufe des Spieles kannst du einen Mitspieler küssen. Der Letzte der auch diesen Mitspieler küsst, muss {int} Schlücke trinken.",
         "count": 5,
-        "uses": 0,
+        "uses": 1,
         "rounds": 0,
         "personal": true,
         "remote": false,
@@ -10850,16 +10850,6 @@
         "id": 1092
     },
     {
-        "text": "Du bekommst die Penis-Karte. Irgendwann im Laufe des Spiels, darfst du Penis schreien. Der Letzte, der dann auch Penis schreit, muss sein Getränk exen.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 1093
-    },
-    {
         "text": "Wähle eine Zahl zwischen 5 und 10. Alle trinken die gewählte Zahl als Schlücke.",
         "count": 1,
         "uses": 0,
@@ -11070,9 +11060,9 @@
         "id": 1114
     },
     {
-        "text": "Du bekommst die Verteiler-Karte. Verteile einmalig , zu einem Zeitpunkt den du bestimmst, {int} Schlücke.",
+        "text": "Du bekommst die Verteiler-Karte. Verteile einmalig, zu einem Zeitpunkt den du bestimmst, {int} Schlücke.",
         "count": 10,
-        "uses": 0,
+        "uses": 1,
         "rounds": 0,
         "personal": true,
         "remote": true,
@@ -11530,16 +11520,6 @@
         "id": 1161
     },
     {
-        "text": "Du bekommst die Polen-Karte. Irgendwann im Laufe des Spieles kannst du eine Aufgabe, die für jemanden anderen bestimmt war, klauen und für dich benutzen.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 1162
-    },
-    {
         "text": "Spiele, mit allen Spielern, Kommando-Pimmperle. Der Erste der verliert trinkt {int} Schlücke. Kennst du das Spiel nicht, lass es dir erklären. Kennt es keiner, schämt euch und alle trinken {int} Schlücke.",
         "count": 1,
         "uses": 0,
@@ -11712,7 +11692,7 @@
     {
         "text": "Du bekommst die Penis-Karte. Irgendwann im Laufe des Spiels, darfst du Penis schreien. Der Letzte, der dann auch Penis schreit, muss sein Getränk exen.",
         "count": 6,
-        "uses": 0,
+        "uses": 1,
         "rounds": 0,
         "personal": true,
         "remote": true,
