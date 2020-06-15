@@ -3140,7 +3140,7 @@
         "id": 314
     },
     {
-        "text": "Jeder der Rülpst muss {int} Schlücke trinken. Diese Regel gilt bis zum Ende des Spieles.",
+        "text": "Jeder der rülpst muss {int} Schlücke trinken. Diese Regel gilt bis zum Ende des Spieles.",
         "count": 1,
         "uses": 0,
         "rounds": -1,
