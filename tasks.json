@@ -2852,7 +2852,7 @@
     {
         "text": "Du bekommst die Fick-Dich-Karte. Irgendwann im Laufe des Spiels, darfst du jemandem den Mittelfinger zeigen und seine zu trinkenden Schlücke verdoppeln. Den Zeitpunkt wählst du aus.",
         "count": 9,
-        "uses": 0,
+        "uses": 1,
         "rounds": 0,
         "personal": true,
         "remote": true,
