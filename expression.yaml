@@ -1,0 +1,30 @@
+# "root" is always the entry point.
+root:
+  - int_expression
+  - string_expression
+
+# whitespace is built-in for any amount of whitespace, including none
+string_expression: "STRING COLON whitespace variable"
+
+int_expression: "INT COLON whitespace arithmetic_expression"
+
+arithmetic_expression:
+  - literal
+  - variable
+  - arithmetic_expression whitespace operator whitespace arithmetic_expression
+
+operator:
+  - ADDITION
+  - SUBTRACTION
+  - MULTIPLICATION
+
+# alpha is built-in for [A-z]+
+variable: alpha
+
+# Values for CAPS keys aren't evaluated further
+STRING: string
+INT: int
+COLON: ":"
+ADDITION: "+"
+SUBTRACTION: "-"
+MULTIPLICATION: "*"
