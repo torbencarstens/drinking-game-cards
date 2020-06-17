@@ -2591,7 +2591,7 @@
     }
   },
   {
-    "text": "Einmal im Uhrzeigersinn: Du trinkst {int: i} Schlücke, der Nächste {int: j} Schlücke, der Nächste {k} Schlücke, usw.",
+    "text": "Einmal im Uhrzeigersinn: Du trinkst {int: i} Schlücke, der Nächste {int: j} Schlücke, der Nächste {int: k} Schlücke, usw.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -3539,7 +3539,7 @@
     }
   },
   {
-    "text": "Ist es gerade zwischen 19 und 22 Uhr: Trinke {int: i} Schlücke. Ist es zwischen 22 und 2 Uhr: Verteile {int: j} Schlücke. Trifft nichts zu, trinkt jeder {k} Schlücke.",
+    "text": "Ist es gerade zwischen 19 und 22 Uhr: Trinke {int: i} Schlücke. Ist es zwischen 22 und 2 Uhr: Verteile {int: j} Schlücke. Trifft nichts zu, trinkt jeder {int: k} Schlücke.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -5748,7 +5748,7 @@
     "variables": {}
   },
   {
-    "text": "Verteile und trinke {int: i} Schlücke oder verteile {int: j} Schlücke und trinke {k} Schlücke.",
+    "text": "Verteile und trinke {int: i} Schlücke oder verteile {int: j} Schlücke und trinke {int: k} Schlücke.",
     "count": 5,
     "uses": 0,
     "rounds": 0,
@@ -6310,7 +6310,7 @@
     }
   },
   {
-    "text": "Jeder, der dir am Ohrläppchen leckt, darf {int: i} Schlücke verteilen. Will dir keiner am Ohrläppchen lecken, darfst du {int: j} Schlücke verteilen. Erlaubst du das Lecken nicht, trinkst du {k} Schlücke.",
+    "text": "Jeder, der dir am Ohrläppchen leckt, darf {int: i} Schlücke verteilen. Will dir keiner am Ohrläppchen lecken, darfst du {int: j} Schlücke verteilen. Erlaubst du das Lecken nicht, trinkst du {int: k} Schlücke.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -6477,7 +6477,7 @@
     }
   },
   {
-    "text": "Jeder, der dir am Ohrläppchen leckt, darf {int: i} Schlücke verteilen. Will dir keiner am Ohrläppchen lecken, darfst du {int: j} Schlücke verteilen. Erlaubst du das Lecken nicht, trinkst du {k} Schlücke.",
+    "text": "Jeder, der dir am Ohrläppchen leckt, darf {int: i} Schlücke verteilen. Will dir keiner am Ohrläppchen lecken, darfst du {int: j} Schlücke verteilen. Erlaubst du das Lecken nicht, trinkst du {int: k} Schlücke.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -6900,7 +6900,7 @@
     }
   },
   {
-    "text": "Jeder, der dir am Ellenbogen leckt, darf {int: i} Schlücke verteilen. Will dir keiner am Ellenbogen lecken, darfst du {int: j} Schlücke verteilen. Erlaubst du das Lecken nicht, trinkst du {k} Schlücke.",
+    "text": "Jeder, der dir am Ellenbogen leckt, darf {int: i} Schlücke verteilen. Will dir keiner am Ellenbogen lecken, darfst du {int: j} Schlücke verteilen. Erlaubst du das Lecken nicht, trinkst du {int: k} Schlücke.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
