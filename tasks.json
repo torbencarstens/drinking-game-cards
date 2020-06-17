@@ -6311,7 +6311,7 @@
   },
   {
     "text": "Jeder, der dir am Ohrläppchen leckt, darf {int: i} Schlücke verteilen. Will dir keiner am Ohrläppchen lecken, darfst du {int: j} Schlücke verteilen. Erlaubst du das Lecken nicht, trinkst du {int: k} Schlücke.",
-    "count": 1,
+    "count": 2,
     "uses": 0,
     "rounds": 0,
     "personal": true,
@@ -6474,21 +6474,6 @@
     "id": 508,
     "variables": {
       "i": "ANY"
-    }
-  },
-  {
-    "text": "Jeder, der dir am Ohrläppchen leckt, darf {int: i} Schlücke verteilen. Will dir keiner am Ohrläppchen lecken, darfst du {int: j} Schlücke verteilen. Erlaubst du das Lecken nicht, trinkst du {int: k} Schlücke.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": true,
-    "remote": true,
-    "unique": true,
-    "id": 509,
-    "variables": {
-      "i": "ANY",
-      "j": "ANY",
-      "k": "ANY"
     }
   },
   {
