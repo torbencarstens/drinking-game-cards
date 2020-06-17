@@ -2591,7 +2591,7 @@
     }
   },
   {
-    "text": "Einmal im Uhrzeigersinn: Du trinkst {int: i} Schlücke, der Nächste {int: j} Schlücke, der Nächste {int: k} Schlücke, usw.",
+    "text": "Einmal im Uhrzeigersinn: Du trinkst {int: i} Schlücke, der Nächste {int: i + 1} Schlücke, der Nächste {int: i + 2} Schlücke, usw.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -2600,9 +2600,7 @@
     "unique": true,
     "id": 203,
     "variables": {
-      "i": "ANY",
-      "j": "ANY",
-      "k": "ANY"
+      "i": "ANY"
     }
   },
   {
@@ -3550,7 +3548,7 @@
     "variables": {
       "i": "ANY",
       "j": "ANY",
-      "k": "ANY"
+      "k": "HIGH"
     }
   },
   {
@@ -5757,9 +5755,9 @@
     "unique": true,
     "id": 452,
     "variables": {
-      "i": "ANY",
-      "j": "ANY",
-      "k": "ANY"
+      "i": "LOW",
+      "j": "HIGH",
+      "k": "MED"
     }
   },
   {
@@ -6319,9 +6317,9 @@
     "unique": true,
     "id": 496,
     "variables": {
-      "i": "ANY",
-      "j": "ANY",
-      "k": "ANY"
+      "i": "MED",
+      "j": "MED",
+      "k": "HIGH"
     }
   },
   {
@@ -6894,9 +6892,9 @@
     "unique": true,
     "id": 543,
     "variables": {
-      "i": "ANY",
-      "j": "ANY",
-      "k": "ANY"
+      "i": "MED",
+      "j": "MED",
+      "k": "HIGH"
     }
   },
   {
