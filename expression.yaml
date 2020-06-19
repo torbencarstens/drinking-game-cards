@@ -3,23 +3,23 @@ root:
   - int_expression
   - string_expression
 
-# whitespace is built-in for any amount of whitespace, including none
-string_expression: "STRING COLON whitespace variable"
+# WHITESPACE is built-in for any amount of whitespace, including none
+string_expression: "STRING COLON WHITESPACE variable"
 
-int_expression: "INT COLON whitespace arithmetic_expression"
+int_expression: "INT COLON WHITESPACE arithmetic_expression"
 
 arithmetic_expression:
   - literal
   - variable
-  - arithmetic_expression whitespace operator whitespace arithmetic_expression
+  - arithmetic_expression WHITESPACE operator WHITESPACE arithmetic_expression
 
 operator:
   - ADDITION
   - SUBTRACTION
   - MULTIPLICATION
 
-# alpha is built-in for [A-z]+
-variable: alpha
+# ALPHA is built-in for [A-z]+
+variable: ALPHA
 
 # Values for CAPS keys aren't evaluated further
 STRING: string
