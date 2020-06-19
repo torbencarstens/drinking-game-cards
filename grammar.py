@@ -3,8 +3,9 @@ import yaml
 from typing import Dict, List, Union, Optional, Callable, Tuple
 
 _predefined_leaves = {
-    'WHITESPACE': r'\s*',
-    'ALPHA': r'[A-Za-z]+'
+    'WHITESPACE': r' ',
+    'ALPHA': r'[A-Za-z]+',
+    'NUMERIC': r'\d+'
 }
 
 
@@ -60,7 +61,6 @@ class Node:
                 pattern += r"(.+)"
         self.match_applicators = groupies
         pattern += "$"
-        #print(f"Pattern {pattern} from expr {expr}")
         self.pattern = pattern
         self.regex = re.compile(pattern)
         self.child_keys: List[str]
@@ -78,8 +78,6 @@ class Node:
         return apply
 
     def match(self, input_str: str) -> Optional[PartialMatch]:
-        # print("Pattern: " + self.pattern)
-        # print("Input: " + input_str)
         match = self.regex.match(input_str)
         match_applicators = self.match_applicators
         result = PartialMatch(input_str)
@@ -118,16 +116,40 @@ class Grammar:
         else:
             return [Node(expr, leaves) for expr in value]
 
+    def _resolve_sub_exp(self, sub_exp: SubExpression) -> Optional[PartialMatch]:
+        pass
+
+    def _parse(self, partial_match: PartialMatch) -> Optional[PartialMatch]:
+        new_match = PartialMatch(partial_match.input_str)
+        for part in partial_match.parts:
+            if isinstance(part, Token):
+                new_match.parts.append(part)
+            else:
+                resolved: List[Node] = self.nodes[part.key]
+                match = None
+                for node in resolved:
+                    sub_match = node.match(part.expr)
+                    if sub_match:
+                        parsed_sub_match = self._parse(sub_match)
+                        if parsed_sub_match:
+                            match = parsed_sub_match
+                            break
+                if match:
+                    for sub_part in match.parts:
+                        new_match.parts.append(sub_part)
+                else:
+                    return None
+        return new_match
+
     def parse(self, expr: str) -> PartialMatch:
-        rootNode = self.nodes['root']
-        for node in rootNode:
-            match = node.match(expr)
-            only_part: SubExpression = match.parts[0]
-            node = self.nodes[only_part.key][0]
-            expr = only_part.expr
-            print(node.match(expr))
+        start = SubExpression('root', expr)
+        match = PartialMatch(expr)
+        match.parts.append(start)
+        while(match and not match.is_full()):
+            match = self._parse(match)
+        return match
 
 
 if __name__ == "__main__":
     grammar = Grammar('expression.yaml')
-    grammar.parse("int: 1")
+    print(grammar.parse("int: var + 1"))
