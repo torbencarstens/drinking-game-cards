@@ -21,6 +21,9 @@ operator:
 # ALPHA is built-in for [A-z]+
 variable: ALPHA
 
+# NUMERIC is built-in for any integer
+literal: NUMERIC
+
 # Values for CAPS keys aren't evaluated further
 STRING: string
 INT: int
