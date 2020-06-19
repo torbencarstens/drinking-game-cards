@@ -149,17 +149,68 @@ class Grammar:
 
     def parse(self, expr: str) -> PartialMatch:
         start = SubExpression('root', expr)
-        match = PartialMatch('<root>', expr)
+        match = PartialMatch('<virtual root>', expr)
         match.parts.append(start)
         while(match and not match.is_full()):
             match = self._parse(match)
-        return match
+        if match:
+            return match.parts[0]
+        else:
+            return match
+
+
+class Evaluator:
+    def __init__(self, root: PartialMatch):
+        top: PartialMatch = root.parts[0]
+        if top.key == 'string_expression':
+            variable = top.parts[3]
+            alpha: Token = variable.parts[0]
+            value = alpha.value
+            self._func = (lambda vars: vars[value])
+        elif top.key == 'int_expression':
+            arith_exp = top.parts[3]
+            self._func = Evaluator._create_int_func(arith_exp)
+
+    @staticmethod
+    def _calc(op, left: int, right: int) -> int:
+        if op == '+':
+            return left + right
+        elif op == '-':
+            return left - right
+        elif op == '*':
+            return left * right
+        else:
+            raise ValueError()
+
+    @staticmethod
+    def _create_int_func(arith_exp: PartialMatch):
+        first_part = arith_exp.parts[0]
+        if first_part.key == 'arithmetic_expression':
+            left = Evaluator._create_int_func(first_part)
+            right = Evaluator._create_int_func(arith_exp.parts[4])
+            op = arith_exp.parts[2].parts[0].value
+            return lambda vars: Evaluator._calc(op, left(vars), right(vars))
+
+        def _func(variables: Dict) -> int:
+            if first_part.key == 'literal':
+                literal = int(first_part.parts[0].value)
+                return literal
+            elif first_part.key == 'variable':
+                name = first_part.parts[0].value
+                return variables[name]
+            else:
+                raise ValueError()
+        return _func
+
+    def calculate(self, variables: Dict[str, Union[int, str]]) -> Union[str, int]:
+        return self._func(variables)
 
 
 if __name__ == "__main__":
     grammar = Grammar('expression.yaml')
-    match = grammar.parse("int: var + 1")
-    if match:
-        print(match)
-    else:
-        print("No match")
+    match = grammar.parse("int: i + 2 * variable")
+    # match = grammar.parse("string: s")
+    evaluator = Evaluator(match)
+    variables = {'i': 1, 'variable': 10}
+    # variables = {'s': 'hello, grammar'}
+    print(evaluator.calculate(variables))
