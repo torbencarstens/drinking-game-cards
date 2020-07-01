@@ -1,6 +1,9 @@
 name: Create doc page
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   docs:
