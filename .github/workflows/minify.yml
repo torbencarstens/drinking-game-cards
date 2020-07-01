@@ -12,7 +12,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add minified.json
+          git add minified_*.json
           git commit -m "Minify tasks.json > minified.json" | true
       - name: Push changes
         uses: ad-m/github-push-action@master
