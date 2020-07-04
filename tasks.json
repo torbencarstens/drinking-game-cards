@@ -10600,7 +10600,7 @@
         "id": 1106
     },
     {
-        "text": "Der/diejenige, der/die zuletzt kotzt hat, verteilt {int} Schlücke.",
+        "text": "Der/diejenige der/die zuletzt gekotzt hat verteilt {int} Schlücke.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
