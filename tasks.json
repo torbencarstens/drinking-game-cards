@@ -2135,7 +2135,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 216
     },
@@ -4410,7 +4410,7 @@
         "id": 450
     },
     {
-        "text": "Alle Männer trinken vier Schlücke!",
+        "text": "Alle Männer trinken {int} Schlücke!",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -5550,7 +5550,7 @@
         "id": 572
     },
     {
-        "text": "Alle Frauen trinken fünf Schlücke!",
+        "text": "Alle Frauen trinken {int} Schlücke!",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -7380,12 +7380,12 @@
         "id": 762
     },
     {
-        "text": "Trinke das Glas vom Spieler deiner Wahl aus.",
+        "text": "Trinke das Glas von einem Spieler deiner Wahl aus.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 763
     },
@@ -7820,7 +7820,7 @@
         "id": 808
     },
     {
-        "text": "Alle Frauen trinken vier Schlücke!",
+        "text": "Alle Frauen trinken {int} Schlücke!",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -10430,7 +10430,7 @@
         "id": 1085
     },
     {
-        "text": "Jeder, der eine Silvia persönlich kennt, muss fünf Schlücke trinken.",
+        "text": "Jeder, der eine Silvia persönlich kennt, muss {int} Schlücke trinken.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -10740,7 +10740,7 @@
         "id": 1122
     },
     {
-        "text": "Alle Brillenträger müssen drei Schücke trinken.",
+        "text": "Alle Brillenträger müssen {int} Schücke trinken.",
         "count": 2,
         "uses": 0,
         "rounds": 0,
@@ -10910,7 +10910,7 @@
         "id": 1139
     },
     {
-        "text": "Alle Männer trinken fünf Schlücke!",
+        "text": "Alle Männer trinken {int} Schlücke!",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -11425,7 +11425,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 1197
     },
