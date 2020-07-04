@@ -9350,7 +9350,7 @@
         "id": 972
     },
     {
-        "text": "Bestimme jemanden, der dir eine Backpfeife geben. Danach verteile {int} Schlücke. Lässt du dich nicht backpfeifen: Trinke {int} Schlücke.",
+        "text": "Bestimme jemanden, der dir eine Backpfeife gibt. Danach verteile {int} Schlücke. Lässt du dich nicht backpfeifen: Trinke {int} Schlücke.",
         "count": 1,
         "uses": 0,
         "rounds": 0,
@@ -9448,16 +9448,6 @@
         "remote": true,
         "unique": false,
         "id": 982
-    },
-    {
-        "text": "Sage den Zungenbrecher „Kreischende Krähen knabbern im kalten Winter Kerne und Körner.“ auf. Schaffst du es: Verteile {int} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
-        "count": 2,
-        "uses": 0,
-        "rounds": 0,
-        "personal": true,
-        "remote": true,
-        "unique": true,
-        "id": 983
     },
     {
         "text": "Wer als Letzter auf dem Boden kniet, trinkt {int} Schlücke.",
@@ -9905,7 +9895,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": true,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 1031
     },
@@ -10295,7 +10285,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 1071
     },
@@ -11015,7 +11005,7 @@
         "uses": 0,
         "rounds": 0,
         "personal": false,
-        "remote": true,
+        "remote": false,
         "unique": true,
         "id": 1150
     },
