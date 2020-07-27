@@ -5040,16 +5040,6 @@
         "id": 516
     },
     {
-        "text": "Du entscheidest: Alle trinken {int} Schlücke oder geben sich 2 Klötze auf die Schulter.",
-        "count": 1,
-        "uses": 0,
-        "rounds": 0,
-        "personal": false,
-        "remote": true,
-        "unique": true,
-        "id": 517
-    },
-    {
         "text": "Es darf eine Runde lang nicht gelacht werden. Für jeden Bruch dieser Regel trinkt derjenige {int} Schlücke.",
         "count": 1,
         "uses": 0,
@@ -10320,8 +10310,8 @@
         "id": 1074
     },
     {
-        "text": "Du entscheidest: Alle trinken {int} Schlücke oder geben sich 3 Klötze auf die Schulter.",
-        "count": 1,
+        "text": "Du entscheidest: Alle trinken {int} Schlücke oder geben sich {int} Klapse auf die Schulter.",
+        "count": 2,
         "uses": 0,
         "rounds": 0,
         "personal": false,
