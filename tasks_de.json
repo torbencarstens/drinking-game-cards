@@ -416,17 +416,6 @@
     "variables": {}
   },
   {
-    "text": "Alle Frauen trinken!",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 35,
-    "variables": {}
-  },
-  {
     "text": "Exe dein Getränkt und stelle dich danach für 10 Sekunden auf ein Bein.",
     "count": 1,
     "uses": 0,
@@ -1262,17 +1251,6 @@
     "variables": {}
   },
   {
-    "text": "Alle Frauen trinken einen Schluck!",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 101,
-    "variables": {}
-  },
-  {
     "text": "Verteil {int: i} Schlücke, wenn du schon einmal ins Essen gepisst hast, bevor du es jemandem zu essen gegeben hast.",
     "count": 2,
     "uses": 0,
@@ -1401,7 +1379,7 @@
     }
   },
   {
-    "text": "Wähle deinen Sklaven. Dieser muss über drei Runden deine Schlücke trinken.",
+    "text": "Wähle deinen Sklaven. Dieser muss über {int: i} Runden deine Schlücke trinken.",
     "count": 1,
     "uses": 0,
     "rounds": 3,
@@ -1409,7 +1387,9 @@
     "remote": true,
     "unique": true,
     "id": 112,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Alle, die im medizinischen Bereich studieren oder arbeiten, trinken {int: i} Schlücke.",
@@ -3900,19 +3880,6 @@
     }
   },
   {
-    "text": "Alle Mädels trinken {int: i} Schlücke.",
-    "count": 2,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 309,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
     "text": "Sage den Namen jedes Mitspielers mit dem Monat seines Geburtstags. Für jeden Fehler trinkst du {int: i} Schlücke.",
     "count": 2,
     "uses": 0,
@@ -4666,7 +4633,7 @@
     }
   },
   {
-    "text": "Einer aus der Runde muss seinem Ex oder seiner Ex schreiben, dass es ihm leidtut, wie er sich damals verhalten hat. Wer sich nicht traut, muss zwei Shots auf ex trinken.",
+    "text": "Einer aus der Runde muss seinem Ex oder seiner Ex schreiben, dass es ihm leidtut, wie er sich damals verhalten hat. Wer sich nicht traut, muss {int: i} Shots auf ex trinken.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -4674,7 +4641,9 @@
     "remote": true,
     "unique": true,
     "id": 373,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Der Größte in der Runde, trinkt {int: i} Schlücke.",
@@ -4981,17 +4950,6 @@
     "variables": {
       "i": "ANY"
     }
-  },
-  {
-    "text": "Alle Männer trinken!",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 398,
-    "variables": {}
   },
   {
     "text": "Verteile {int: i} Schlücke.",
@@ -5642,15 +5600,17 @@
     }
   },
   {
-    "text": "Alle Männer trinken vier Schlücke!",
-    "count": 1,
+    "text": "Alle Männer trinken {int: i} Schlücke!",
+    "count": 10,
     "uses": 0,
     "rounds": 0,
     "personal": false,
     "remote": true,
     "unique": true,
     "id": 451,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Verteile und trinke {int: i} Schlücke oder verteile {int: j} Schlücke und trinke {int: k} Schlücke.",
@@ -6229,7 +6189,7 @@
     }
   },
   {
-    "text": "Du musst bis zum Ende des Spiels, jedes Mal nachdem du getrunken hast, „Danke, noch mehr bitte!“ sagen. Bei jedem Verstoß trinkst du ein Schluck.",
+    "text": "Du musst bis zum Ende des Spiels, jedes Mal nachdem du getrunken hast, „Danke, noch mehr bitte!“ sagen. Bei jedem Verstoß trinkst du {int: i} Schlücke.",
     "count": 1,
     "uses": 0,
     "rounds": -1,
@@ -6237,7 +6197,9 @@
     "remote": true,
     "unique": true,
     "id": 499,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Themenspiel und {int: i} Schlücke für den Verlierer: „Verschiedene Todesfälle aus den Final Destination Filmen“, du beginnst.",
@@ -6817,17 +6779,6 @@
     }
   },
   {
-    "text": "Alle Männer trinken zwei Schlücke!",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 549,
-    "variables": {}
-  },
-  {
     "text": "Du musst bis zum Ende des Spiels, immer bevor du trinkst, allen Mitspielern zuwinken. Für jeden Bruch der Regel trinkst du {int: i} Schlücke.",
     "count": 1,
     "uses": 0,
@@ -7092,17 +7043,6 @@
       "i": "ANY",
       "j": "ANY"
     }
-  },
-  {
-    "text": "Alle Frauen trinken fünf Schlücke!",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 573,
-    "variables": {}
   },
   {
     "text": "Wenn ihr heute noch vor habt in einen Club oder auf ein Fest zu gehen, trinkt gemeinsam {int: i} Schlücke. Wir wünschen euch viel Spaß!",
@@ -8725,17 +8665,6 @@
     }
   },
   {
-    "text": "Alle Frauen trinken drei Schlücke!",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 705,
-    "variables": {}
-  },
-  {
     "text": "Alle die schon dicht sind, trinken {int: i} Schlücke.",
     "count": 1,
     "uses": 0,
@@ -9430,7 +9359,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": true,
-    "remote": true,
+    "remote": false,
     "unique": true,
     "id": 763,
     "variables": {}
@@ -9988,17 +9917,6 @@
     "variables": {
       "i": "ANY"
     }
-  },
-  {
-    "text": "Alle Frauen trinken vier Schlücke!",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 809,
-    "variables": {}
   },
   {
     "text": "Jeder, dem der Film „I am Legend“ gefallen hat, trinkt {int: i} Schlücke.",
@@ -10901,17 +10819,6 @@
     }
   },
   {
-    "text": "Alle Männer trinken einen Schluck!",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 883,
-    "variables": {}
-  },
-  {
     "text": "Berühre jemanden an seiner Nase. Danach trinkt jeder von euch beiden {int: i} Schlücke.",
     "count": 10,
     "uses": 0,
@@ -10951,15 +10858,17 @@
     }
   },
   {
-    "text": "Alle Frauen trinken zwei Schlücke!",
-    "count": 1,
+    "text": "Alle Frauen trinken {int: i} Schlücke!",
+    "count": 10,
     "uses": 0,
     "rounds": 0,
     "personal": false,
     "remote": true,
     "unique": true,
     "id": 888,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Jeder, der schon einmal in seinem Leben auf Mallorca war, trinkt {int: i} Schlücke.",
@@ -11941,7 +11850,7 @@
     }
   },
   {
-    "text": "Bestimme jemanden, der dir eine Backpfeife geben. Danach verteile {int: i} Schlücke. Lässt du dich nicht backpfeifen: Trinke {int: j} Schlücke.",
+    "text": "Bestimme jemanden, der dir eine Backpfeife gibt. Danach verteile {int: i} Schlücke. Lässt du dich nicht backpfeifen: Trinke {int: j} Schlücke.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -12155,17 +12064,6 @@
     "variables": {
       "i": "ANY"
     }
-  },
-  {
-    "text": "Alle Männer trinken drei Schlücke!",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 990,
-    "variables": {}
   },
   {
     "text": "Gebe einem Spieler deiner Wahl 5 Euro. Machst du es, darfst du jedes Mal wenn du dran bist automatisch {int: i} Schlücke verteilen.",
@@ -12654,7 +12552,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": true,
-    "remote": true,
+    "remote": false,
     "unique": true,
     "id": 1031,
     "variables": {
@@ -13157,7 +13055,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": false,
-    "remote": true,
+    "remote": false,
     "unique": true,
     "id": 1071,
     "variables": {}
@@ -13340,7 +13238,7 @@
     "variables": {}
   },
   {
-    "text": "Jeder, der eine Silvia persönlich kennt, muss fünf Schlücke trinken.",
+    "text": "Jeder, der eine Silvia persönlich kennt, muss {int: i} Schlücke trinken.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -13348,7 +13246,9 @@
     "remote": true,
     "unique": true,
     "id": 1086,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Einmal im Uhrzeigersinn: Jeder nennt die Anzahl der Punkte auf seinem Führerschein und trinkt soviele Schlücke.",
@@ -13555,7 +13455,7 @@
     }
   },
   {
-    "text": "Der/diejenige, der/die zuletzt kotzt hat, verteilt {int: i} Schlücke.",
+    "text": "Der/diejenige, der/die zuletzt gekotzt hat, verteilt {int: i} Schlücke.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -13733,7 +13633,7 @@
     }
   },
   {
-    "text": "Alle Brillenträger müssen drei Schücke trinken.",
+    "text": "Alle Brillenträger müssen {int: i} Schücke trinken.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -13741,7 +13641,9 @@
     "remote": true,
     "unique": true,
     "id": 1123,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Sage den Zungenbrecher „Als der KlapperschlangÂ´ Klapper schlapper klang, klang der KlapperschlangÂ´ Klapper schlapper“ auf. Schaffst du es: Verteile {int: i} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
@@ -13952,17 +13854,6 @@
     }
   },
   {
-    "text": "Alle Männer trinken fünf Schlücke!",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 1140,
-    "variables": {}
-  },
-  {
     "text": "Alle trinken {int: i} Schlücke. Wer nicht trinken will, gibt sich stattdessen {int: j} Backpfeifen.",
     "count": 5,
     "uses": 0,
@@ -14072,7 +13963,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": false,
-    "remote": true,
+    "remote": false,
     "unique": true,
     "id": 1150,
     "variables": {
@@ -14303,7 +14194,7 @@
     }
   },
   {
-    "text": "Bis zum Ende des Spiels sind die Wörter „Fuck“ und „Scheiße“ verboten. Wer dagegen verstößt, muss immer zwei Schlücke trinken.",
+    "text": "Bis zum Ende des Spiels sind die Wörter „Fuck“ und „Scheiße“ verboten. Wer dagegen verstößt, muss immer {int: i} Schlücke trinken.",
     "count": 1,
     "uses": 0,
     "rounds": -1,
@@ -14311,7 +14202,9 @@
     "remote": true,
     "unique": true,
     "id": 1172,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Habt ihr schon mehr als 120 Aufgaben erfüllt, trinken alle {int: i} Schlücke. Habt ihr weniger als 120 Aufgaben erfüllt, trinken alle {int: j} Schlücke.",
@@ -14616,7 +14509,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": false,
-    "remote": true,
+    "remote": false,
     "unique": true,
     "id": 1197,
     "variables": {
