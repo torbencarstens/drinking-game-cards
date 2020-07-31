@@ -231,7 +231,7 @@
     }
   },
   {
-    "text": "Alle, die die Zunge rollen können, sind safe. Alle anderen müssen einen Schluck trinken.",
+    "text": "Alle, die die Zunge rollen können, sind safe. Alle anderen müssen {int: i} Schlücke trinken.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -239,7 +239,9 @@
     "remote": true,
     "unique": true,
     "id": 19,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Eine Runde dürfen keine Personalpronomen (ich, du, er, sie, es, wir, ihr, sie) benutzt werden. Wer die Regel bricht, trinkt {int: i} Schlücke.",
@@ -1964,7 +1966,7 @@
     }
   },
   {
-    "text": "Jeder, der gern Pickel ausdrückt, trinkt {int: i} Schlücke, +1, wenn der-/diejenige das auch gern bei anderen macht.",
+    "text": "Jeder, der gern Pickel ausdrückt, trinkt {int: i} Schlücke, +1 falls der-/diejenige das auch gern bei anderen macht.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -1991,7 +1993,7 @@
     }
   },
   {
-    "text": "Mädels, ihr trinkt eure Körbchengröße in Schlucken (A = 1, B = 2, etc.).",
+    "text": "Mädels, ihr trinkt eure Körbchengröße in Schlücken (A = 1, B = 2, etc.).",
     "count": 4,
     "uses": 0,
     "rounds": 0,
@@ -2159,7 +2161,7 @@
     }
   },
   {
-    "text": "Alle BVB-Fans müssen einen Schluck trinken.",
+    "text": "Alle BVB-Fans müssen {int: i} Schlücke trinken.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -2167,7 +2169,9 @@
     "remote": true,
     "unique": true,
     "id": 173,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Die Rothaarigen unter euch trinken {int: i} Schlücke.",
@@ -2700,7 +2704,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": true,
-    "remote": true,
+    "remote": false,
     "unique": true,
     "id": 215,
     "variables": {
@@ -2819,7 +2823,7 @@
     "variables": {}
   },
   {
-    "text": "Verteile einen Schluck an eine Person deiner Wahl oder dein linker Nachbar trinkt {int: i} Schlücke.",
+    "text": "Verteile {int: i} Schlücke an eine Person deiner Wahl oder dein linker Nachbar trinkt {int: j} Schlücke.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2828,7 +2832,8 @@
     "unique": true,
     "id": 225,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
@@ -4978,7 +4983,7 @@
     }
   },
   {
-    "text": "Trinke {int: i} Schlücke, falls einer deiner Kumpel schon mal beim Sex eingeschlafen ist. +1, wenn du es warst.",
+    "text": "Trinke {int: i} Schlücke, falls einer deiner Kumpel schon mal beim Sex eingeschlafen ist. +1 falls du es warst.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -5704,7 +5709,7 @@
     }
   },
   {
-    "text": "Du darfst bis zum Ende des Spieles nur noch mit Links trinken. Für jeden Schluck mit der falschen Hand trinkst du 1 extra Schluck.",
+    "text": "Du darfst bis zum Ende des Spieles nur noch mit Links trinken. Für jeden Schluck mit der falschen Hand trinkst du einen extra Schluck.",
     "count": 1,
     "uses": 0,
     "rounds": -1,
@@ -6009,7 +6014,7 @@
     }
   },
   {
-    "text": "Dreh dich 5 Mal im Kreis und trink jedes Mal einen Schluck, wenn du dich zu den Idioten drehst, die dich angucken.",
+    "text": "Dreh dich {int: i} Mal im Kreis und trink jedes Mal {int: j} Schlücke, wenn du dich zu den Idioten drehst die dich angucken.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -6017,7 +6022,10 @@
     "remote": true,
     "unique": true,
     "id": 484,
-    "variables": {}
+    "variables": {
+      "i": "ANY",
+      "j": "ANY"
+    }
   },
   {
     "text": "Jeder Mitspieler darf die Hand heben. Wenn 3 oder mehr Mitspieler dies tun, musst du {int: i} Schlücke trinken. Ansonsten nicht.",
@@ -7134,7 +7142,7 @@
     }
   },
   {
-    "text": "Du sprichst bis dein Getränk leer ist, nur noch englisch. Für jeden Fehler füllen wir einen Schluck Alkohol in dein Glas.",
+    "text": "Du sprichst bis dein Getränk leer ist nur noch Englisch. Für jeden Fehler füllen wir {int: i} Schlücke Alkohol in dein Glas.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -7142,7 +7150,9 @@
     "remote": true,
     "unique": true,
     "id": 581,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Rülpse das Alphabet bis F. Schaffst du es nicht: Trinke {int: i} Schlücke. Schaffst du es: Verteile {int: j} Schlücke.",
@@ -7221,7 +7231,7 @@
     "variables": {}
   },
   {
-    "text": "Verteile für jedes E in deinem Vornamen einen Schluck und trinke für jedes A einen selbst.",
+    "text": "Verteile für jedes E in deinem Vornamen {int: i} Schlücke und trinke für jedes A {int: j} Schlücke.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -7229,7 +7239,10 @@
     "remote": true,
     "unique": true,
     "id": 588,
-    "variables": {}
+    "variables": {
+      "i": "ANY",
+      "j": "ANY"
+    }
   },
   {
     "text": "Lieber gesunde Nahrungsmittel bekommen, die wie von Zauberhand täglich bei dir eintreffen oder ein lebenslanges Abonnement für sämtlichen Fast Food und alle Buffets? Stimmt alle gleichzeitig ab, die Verlierer trinken {int: i} Schlücke.",
@@ -7658,7 +7671,7 @@
     }
   },
   {
-    "text": "Alle Bayern-München-Fans müssen einen Schluck trinken.",
+    "text": "Alle Bayern-München-Fans müssen {int: i} Schlücke trinken.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -7666,7 +7679,9 @@
     "remote": true,
     "unique": true,
     "id": 624,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Stecke einen Strumpf in deinen Mund oder trinke {int: i} Schlücke.",
@@ -8180,7 +8195,7 @@
     }
   },
   {
-    "text": "Jeder der noch nie PokÃ©mon Go gespielt hat, darf {int: i} Schlücke und zusätzlich {int: j} Backpfeifen an die Person seiner Wahl verteilen.",
+    "text": "Jeder der noch nie Pokemon Go gespielt hat, darf {int: i} Schlücke und zusätzlich {int: j} Backpfeifen an die Person seiner Wahl verteilen.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -8270,7 +8285,7 @@
     }
   },
   {
-    "text": "Du bist Question-Master. Wer dir eine Frage beantwortet, trinkt einen Schluck. Der bisherige Question-Master ist es nun nicht mehr.",
+    "text": "Du bist Question-Master. Wer dir eine Frage beantwortet, trinkt {int: i}. Der bisherige Question-Master ist es nun nicht mehr.",
     "count": 11,
     "uses": 0,
     "rounds": -1,
@@ -8278,7 +8293,9 @@
     "remote": true,
     "unique": true,
     "id": 672,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Lieber Ketchup oder Mayo? Wählt gleichzeitig, die Verlierer trinken {int: i} Schlücke.",
@@ -8385,7 +8402,7 @@
     }
   },
   {
-    "text": "Stoße mit deinem linken Sitznachbarn an und trinkt gemeinsam einen Schluck.",
+    "text": "Stoße mit deinem linken Sitznachbarn an und trinkt gemeinsam {int: i} Schlücke.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -8393,10 +8410,12 @@
     "remote": true,
     "unique": true,
     "id": 682,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
-    "text": "Du darfst entscheiden: Du und jemand den du bestimmst, trinken gemeinsam jeweils 8 oder {int: i} Schlücke.",
+    "text": "Du darfst entscheiden: Du und jemand den du bestimmst, trinken gemeinsam jeweils {int: i} oder {int: j} Schlücke.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -8405,7 +8424,7 @@
     "unique": true,
     "id": 683,
     "variables": {
-      "i": "ANY"
+      "j": "ANY"
     }
   },
   {
@@ -8986,7 +9005,7 @@
     }
   },
   {
-    "text": "Trinke einen Schluck durch deine Socke oder trink dein Glas aus.",
+    "text": "Trinke {int: i} Schlücke durch deine Socke oder trink dein Glas aus.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -8994,7 +9013,9 @@
     "remote": true,
     "unique": true,
     "id": 732,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Wähle einen Spieler aus. Dieser entscheidet wie viele Schlücke du trinken musst. Die Anzahl darf nicht {int: i} Schlücke übersteigen.",
@@ -10110,15 +10131,17 @@
     }
   },
   {
-    "text": "Stoße mit deinem rechten Sitznachbarn an und trinkt gemeinsam einen Schluck.",
+    "text": "Stoße mit deinem rechten Sitznachbarn an und trinkt gemeinsam {int: i}.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
     "personal": true,
-    "remote": true,
+    "remote": false,
     "unique": true,
     "id": 825,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Jedes Mal, wenn jemand das Wort „Du“ sagt, darfst du {int: i} Schlücke verteilen. Die Regel gilt bis zum Ende des Spieles.",
@@ -11951,7 +11974,7 @@
     }
   },
   {
-    "text": "Anstatt „Trinken“ müsst ihr ab sofort „Konsumieren“ sagen. Wer diese Regel bricht, trinkt einen Schluck.",
+    "text": "Anstatt „Trinken“ müsst ihr ab sofort „Konsumieren“ sagen. Wer diese Regel bricht trinkt {int: i} Schlücke.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -11959,7 +11982,9 @@
     "remote": true,
     "unique": true,
     "id": 981,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Du bekommst die Glückskeks-Karte. Du kannst bis zum Ende des Spiels, immer wenn du dran bist, automatisch {int: i} Schlücke verteilen.",
@@ -12092,7 +12117,7 @@
     }
   },
   {
-    "text": "Jeder der ein gerades Alter hat, trinkt einen Schluck.",
+    "text": "Jeder der ein gerades Alter hat trinkt {int: i} Schlücke.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -12100,7 +12125,9 @@
     "remote": true,
     "unique": true,
     "id": 994,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Alle Volkswagen-Fahrer, trinken {int: i} Schlücke. Ist kein Volkswagen-Fahrer anwesend, trinkst Du {int: j} Schlücke.",
@@ -12723,7 +12750,7 @@
     "variables": {}
   },
   {
-    "text": "Der Gastgeber verteilt {int: i} Schlücke. Gibt es keinen Gastgeber, trinken alle gemeinsam einen Schluck.",
+    "text": "Der Gastgeber verteilt {int: i} Schlücke. Gibt es keinen Gastgeber, trinken alle gemeinsam {int: j} Schlücke.",
     "count": 5,
     "uses": 0,
     "rounds": 0,
@@ -12732,7 +12759,8 @@
     "unique": true,
     "id": 1046,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
@@ -13113,7 +13141,7 @@
     }
   },
   {
-    "text": "Sprich eine Runde lang nur auf englisch. Für jedes nicht-englische Wort trinkst du einen Schluck.",
+    "text": "Sprich eine Runde lang nur auf Englisch. Für jedes nicht-englische Wort trinkst du {int: i}.",
     "count": 1,
     "uses": 0,
     "rounds": 1,
@@ -13121,7 +13149,9 @@
     "remote": true,
     "unique": true,
     "id": 1076,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Alle, die Umweltwesen studieren oder in dieser Branche arbeiten, trinken {int: i} Schlücke.",
@@ -14063,7 +14093,7 @@
     }
   },
   {
-    "text": "Du musst, jedes Mal wenn du dran bist, einen Schluck trinken. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch der Regel trinkst du {int: i} Schlücke.",
+    "text": "Du musst, jedes Mal wenn du dran bist {int: i} Schlücke trinken. Diese Regel gilt bis zum Ende des Spieles. Für jeden Bruch der Regel trinkst du {int: j} Schlücke.",
     "count": 1,
     "uses": 0,
     "rounds": -1,
@@ -14072,7 +14102,8 @@
     "unique": true,
     "id": 1159,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
