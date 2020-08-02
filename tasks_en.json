@@ -247,7 +247,7 @@
     }
   },
   {
-    "text": "Aholes who have asked can I have a bite when someone takes out a sandwich, you drink {int: i} times.",
+    "text": "Assholes who have asked \"Can I have a bite?\" when someone takes out a sandwich, drink {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -312,7 +312,7 @@
     }
   },
   {
-    "text": "The player who dated the worst girl ever, drinks {int: i} times.",
+    "text": "The player who dated the worst girl ever drinks {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -325,7 +325,7 @@
     }
   },
   {
-    "text": "The player who dated the worst guy ever, drinks {int: i} times.",
+    "text": "The player who dated the worst guy ever drinks {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -338,7 +338,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've popped someone's cherry.",
+    "text": "Everybody drink {int: i} sips for everytime you've popped someone's cherry.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -351,7 +351,7 @@
     }
   },
   {
-    "text": "If you've ever fcked a minor though you were major, drink {int: i} times.",
+    "text": "If you've ever fucked a minor though you were major, drink {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -377,7 +377,7 @@
     }
   },
   {
-    "text": "drink as many sips as your number of sex partners.",
+    "text": "Drink as many sips as your number of sex partners.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -453,7 +453,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you have your coffee cigarette poop ritual at least every two days.",
+    "text": "Everybody drink {int: i} times if you have your coffee [+ cigarette] poop ritual at least every two days.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -479,7 +479,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've ever had several fck buddies at the same time.",
+    "text": "Everybody drink {int: i} times if you've ever had several fuck buddies at the same time.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -557,7 +557,7 @@
     }
   },
   {
-    "text": "Give out {int: i} sips if your shoe size is more than . for UK.",
+    "text": "Give out {int: i} sips if your shoe size is larger than 45",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -570,7 +570,7 @@
     }
   },
   {
-    "text": "Give out {int: i} sips if your shoe size is less than for UK.",
+    "text": "Give out {int: i} sips if your shoe size is smaller than 36.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -583,7 +583,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if your shoe size is between and . and . for UK.",
+    "text": "Everybody drink {int: i} times if your shoe size is between and 38 and 42.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -622,17 +622,6 @@
     }
   },
   {
-    "text": "TheThe Rings movies.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 48,
-    "variables": {}
-  },
-  {
     "text": "Give out {int: i} sips if you haven't seen any of the Harry Potter movies.",
     "count": 1,
     "uses": 0,
@@ -646,7 +635,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've ever spent more than , dollars in a day.",
+    "text": "Everybody drink {int: i} times if you've ever spent more than 300 dollars in a day.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -659,7 +648,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if your current partner is the best screw of your life Or you can just pretend, nobody will know the difference.",
+    "text": "Everybody drink {int: i} times if your current partner is the best screw of your life. Or you can just pretend, nobody will know the difference.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -672,7 +661,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if an ex was the best fck you've ever had.",
+    "text": "Everybody drink {int: i} times if an ex was the best fuck you've ever had.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -685,7 +674,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've ever played a video game for more than hours straight.",
+    "text": "Everybody drink {int: i} times if you've ever played a video game for more than 8 hours straight.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -698,7 +687,7 @@
     }
   },
   {
-    "text": "Asshles who have stolen money from a relative drink {int: i} times.",
+    "text": "Assholes who have stolen money from a relative, drink {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -724,7 +713,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if, like a poor fcking drunk ass, you've missed your station because you fell asleep on public transportation.",
+    "text": "Everybody drink {int: i} times if, like a poor fucking drunk ass, you've missed your station because you fell asleep on public transportation.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -763,7 +752,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if your phone is a Windows phone.",
+    "text": "Everybody drink {int: i} times if you own a Windows phone.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -771,19 +760,6 @@
     "remote": true,
     "unique": false,
     "id": 59,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
-    "text": "Anyone who has played more than games of Picolo should celebrate {int: i} sips my friends.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 60,
     "variables": {
       "i": "ANY"
     }
@@ -867,7 +843,7 @@
     }
   },
   {
-    "text": "Idiots who have driven drunk must drink {int: i} times. Everyone else, hide their keys... ault.",
+    "text": "Idiots who have driven drunk must drink {int: i} times. Everyone else, hide their keys....",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -880,7 +856,7 @@
     }
   },
   {
-    "text": "Give out {int: i} sips if you have been in a relationship for more than one year fault.",
+    "text": "Give out {int: i} sips if you have been in a relationship for more than one year.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -893,7 +869,7 @@
     }
   },
   {
-    "text": "Choose someone to finish their drink if you've been in your current relationship for more than years.",
+    "text": "Choose someone to finish their drink if you've been in your current relationship for more than 2 years.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -943,7 +919,7 @@
     }
   },
   {
-    "text": "Heartbreakers who have dumped more than people give out {int: i} sips.",
+    "text": "Heartbreakers who have dumped more than 8 people give out {int: i} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -956,7 +932,7 @@
     }
   },
   {
-    "text": "People under drink {int: i} times.",
+    "text": "People under 18 drink {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -969,7 +945,7 @@
     }
   },
   {
-    "text": "People over drink {int: i} times.",
+    "text": "People over 30 drink {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1034,7 +1010,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if your current outfit cost you more than dollars.",
+    "text": "Everybody drink {int: i} times if your current outfit cost you more than 100 dollars.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1073,7 +1049,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you bought your phone for more than dollars.",
+    "text": "Everybody drink {int: i} times if you bought your phone for more than 500 dollars.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
