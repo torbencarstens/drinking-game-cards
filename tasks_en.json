@@ -1,6 +1,6 @@
 [
   {
-    "text": "Drink {int: i} times if you've ever worked under the table.",
+    "text": "Everybody drink {int: i} times if you've ever worked under the table.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -13,7 +13,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever borrowed money from your partner without telling him or her.",
+    "text": "Everybody drink {int: i} times if you've ever borrowed money from your partner without telling him or her.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -26,7 +26,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever lied about the size of your penis or your partner's.",
+    "text": "Everybody drink {int: i} times if you've ever lied about the size of your penis or your partner's.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -39,7 +39,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever been pulled over by the police.",
+    "text": "Everybody drink {int: i} times if you've ever been pulled over by the police.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -52,7 +52,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever been taken into custody.",
+    "text": "Everybody drink {int: i} times if you've ever been taken into custody.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -65,7 +65,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever tried on your partner's underwear.",
+    "text": "Everybody drink {int: i} times if you've ever tried on your partner's underwear.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -78,7 +78,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you're a girl and you've used your boyfriend's pants or his tshirt as pajamas.",
+    "text": "Everybody drink {int: i} times if you're a girl and you've used your boyfriend's pants or his tshirt as pajamas.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -91,7 +91,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you would fck someone for , dollars, while he or she is in good health.",
+    "text": "Everybody drink {int: i} times if you would fck someone for , dollars, while he or she is in good health.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -104,7 +104,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you had erotic dreams this week efault.",
+    "text": "Everybody drink {int: i} times if you had erotic dreams this week efault.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -117,7 +117,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever seen one of the other players naked efault.",
+    "text": "Everybody drink {int: i} times if you've ever seen one of the other players naked efault.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -130,7 +130,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever fcked at work ult.",
+    "text": "Everybody drink {int: i} times if you've ever fcked at work ult.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -143,7 +143,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever gotten drunk alone.",
+    "text": "Everybody drink {int: i} times if you've ever gotten drunk alone.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -156,7 +156,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you sleep like sht after sex.",
+    "text": "Everybody drink {int: i} times if you sleep like sht after sex.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -169,7 +169,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if the last movie you saw was romantic lt.",
+    "text": "Everybody drink {int: i} times if the last movie you saw was romantic lt.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -182,7 +182,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if the last film you saw is American ault.",
+    "text": "Everybody drink {int: i} times if the last film you saw is American ault.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -195,7 +195,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever measured your penis or your partner's penis efault.",
+    "text": "Everybody drink {int: i} times if you've ever measured your penis or your partner's penis efault.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -208,7 +208,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever woken up in someone's bed with no idea how you got there.",
+    "text": "Everybody drink {int: i} times if you've ever woken up in someone's bed with no idea how you got there.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -221,7 +221,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever made love in water.",
+    "text": "Everybody drink {int: i} times if you've ever made love in water.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -234,7 +234,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you say I love you to your boyfriendgirlfriend at the end of every phone call or almost.",
+    "text": "Everybody drink {int: i} times if you say I love you to your boyfriendgirlfriend at the end of every phone call or almost.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -286,7 +286,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever tried to fill a washcloth with water.",
+    "text": "Everybody drink {int: i} times if you've ever tried to fill a washcloth with water.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -299,7 +299,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever waved your cell phone high in the air when you didn't have network.",
+    "text": "Everybody drink {int: i} times if you've ever waved your cell phone high in the air when you didn't have network.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -338,7 +338,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've popped someone's cherry.",
+    "text": "Everybody drink {int: i} times if you've popped someone's cherry.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -364,7 +364,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you think leggings are pants.",
+    "text": "Everybody drink {int: i} times if you think leggings are pants.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -453,7 +453,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you have your coffee cigarette poop ritual at least every two days.",
+    "text": "Everybody drink {int: i} times if you have your coffee cigarette poop ritual at least every two days.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -466,7 +466,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you're a hunter.",
+    "text": "Everybody drink {int: i} times if you're a hunter.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -479,7 +479,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever had several fck buddies at the same time.",
+    "text": "Everybody drink {int: i} times if you've ever had several fck buddies at the same time.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -492,7 +492,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever been cheated on.",
+    "text": "Everybody drink {int: i} times if you've ever been cheated on.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -505,7 +505,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if your shoes have shoelaces.",
+    "text": "Everybody drink {int: i} times if your shoes have shoelaces.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -583,7 +583,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if your shoe size is between and . and . for UK.",
+    "text": "Everybody drink {int: i} times if your shoe size is between and . and . for UK.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -646,7 +646,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever spent more than , dollars in a day.",
+    "text": "Everybody drink {int: i} times if you've ever spent more than , dollars in a day.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -659,7 +659,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if your current partner is the best screw of your life Or you can just pretend, nobody will know the difference.",
+    "text": "Everybody drink {int: i} times if your current partner is the best screw of your life Or you can just pretend, nobody will know the difference.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -672,7 +672,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if an ex was the best fck you've ever had.",
+    "text": "Everybody drink {int: i} times if an ex was the best fck you've ever had.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -685,7 +685,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever played a video game for more than hours straight.",
+    "text": "Everybody drink {int: i} times if you've ever played a video game for more than hours straight.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -711,7 +711,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you have recently dreamt about something you can't even tell your best friend...",
+    "text": "Everybody drink {int: i} times if you have recently dreamt about something you can't even tell your best friend...",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -724,7 +724,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if, like a poor fcking drunk ass, you've missed your station because you fell asleep on public transportation.",
+    "text": "Everybody drink {int: i} times if, like a poor fcking drunk ass, you've missed your station because you fell asleep on public transportation.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -763,7 +763,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if your phone is a Windows phone.",
+    "text": "Everybody drink {int: i} times if your phone is a Windows phone.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -789,7 +789,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you had relationship drama this week.",
+    "text": "Everybody drink {int: i} times if you had relationship drama this week.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -904,7 +904,7 @@
     "variables": {}
   },
   {
-    "text": "Drink {int: i} times if you'de rather have a cat than a dog.",
+    "text": "Everybody drink {int: i} times if you'de rather have a cat than a dog.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1008,7 +1008,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever had braces.",
+    "text": "Everybody drink {int: i} times if you've ever had braces.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1021,7 +1021,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you like wearing hats.",
+    "text": "Everybody drink {int: i} times if you like wearing hats.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1034,7 +1034,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if your current outfit cost you more than dollars.",
+    "text": "Everybody drink {int: i} times if your current outfit cost you more than dollars.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1073,7 +1073,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you bought your phone for more than dollars.",
+    "text": "Everybody drink {int: i} times if you bought your phone for more than dollars.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1112,7 +1112,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever pissed without using your hands.",
+    "text": "Everybody drink {int: i} times if you've ever pissed without using your hands.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1177,7 +1177,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever asked someone to wear your underwear.",
+    "text": "Everybody drink {int: i} times if you've ever asked someone to wear your underwear.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1229,7 +1229,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever blackmailed your partner.",
+    "text": "Everybody drink {int: i} times if you've ever blackmailed your partner.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1242,7 +1242,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've definitely planned to need a hangover cure tomorrow.",
+    "text": "Everybody drink {int: i} times if you've definitely planned to need a hangover cure tomorrow.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1255,7 +1255,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've been out more than one weekend in a row before.",
+    "text": "Everybody drink {int: i} times if you've been out more than one weekend in a row before.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1268,7 +1268,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've planned some sparkling waterlemon juiceAlkaSeltzer for tomorrow morning.",
+    "text": "Everybody drink {int: i} times if you've planned some sparkling waterlemon juiceAlkaSeltzer for tomorrow morning.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1294,7 +1294,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you have a preferred political party.",
+    "text": "Everybody drink {int: i} times if you have a preferred political party.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1307,7 +1307,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever kissed someone after a slow dance.",
+    "text": "Everybody drink {int: i} times if you've ever kissed someone after a slow dance.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1346,7 +1346,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever ridden a horse.",
+    "text": "Everybody drink {int: i} times if you've ever ridden a horse.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1359,7 +1359,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you're drinking alcohol you didn't buy, you tightwad.",
+    "text": "Everybody drink {int: i} times if you're drinking alcohol you didn't buy, you tightwad.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1398,7 +1398,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you're not against paying someone to make love.",
+    "text": "Everybody drink {int: i} times if you're not against paying someone to make love.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1411,7 +1411,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've never donated blood bastard.",
+    "text": "Everybody drink {int: i} times if you've never donated blood bastard.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1424,7 +1424,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've never watched any South Park episodes.",
+    "text": "Everybody drink {int: i} times if you've never watched any South Park episodes.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1437,7 +1437,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you have more than diplomas.",
+    "text": "Everybody drink {int: i} times if you have more than diplomas.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1463,7 +1463,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you don't have your real name on Instagram.",
+    "text": "Everybody drink {int: i} times if you don't have your real name on Instagram.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1554,7 +1554,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you often watch Jimmy Fallon.",
+    "text": "Everybody drink {int: i} times if you often watch Jimmy Fallon.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1580,7 +1580,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if your socks are white.",
+    "text": "Everybody drink {int: i} times if your socks are white.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1593,7 +1593,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever been unemployed.",
+    "text": "Everybody drink {int: i} times if you've ever been unemployed.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1619,7 +1619,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you don't have Picolo on your phone.",
+    "text": "Everybody drink {int: i} sips if you don't have Picolo on your phone.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1645,7 +1645,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever made a move on a friend's partner.",
+    "text": "Everybody drink {int: i} times if you've ever made a move on a friend's partner.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1658,7 +1658,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever watched a live striptease.",
+    "text": "Everybody drink {int: i} times if you've ever watched a live striptease.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1671,7 +1671,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever tried to escape a police check.",
+    "text": "Everybody drink {int: i} times if you've ever tried to escape a police check.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1684,7 +1684,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever kissed a person of the same gender on the mouth.",
+    "text": "Everybody drink {int: i} times if you've ever kissed a person of the same gender on the mouth.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1697,7 +1697,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever frenchkissed a person of the same gender.",
+    "text": "Everybody drink {int: i} times if you've ever frenchkissed a person of the same gender.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1710,7 +1710,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever faked a signature.",
+    "text": "Everybody drink {int: i} times if you've ever faked a signature.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1723,7 +1723,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever made up an excuse not to go to work.",
+    "text": "Everybody drink {int: i} times if you've ever made up an excuse not to go to work.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1736,7 +1736,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you made love within the past h ault.",
+    "text": "Everybody drink {int: i} times if you made love within the past h ault.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1749,7 +1749,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you think someone in the room is not funny at all ault.",
+    "text": "Everybody drink {int: i} times if you think someone in the room is not funny at all ault.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1762,7 +1762,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you think someone in the room is dumber than the others efault.",
+    "text": "Everybody drink {int: i} times if you think someone in the room is dumber than the others efault.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1775,7 +1775,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you don't like your stepmother.",
+    "text": "Everybody drink {int: i} times if you don't like your stepmother.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1788,7 +1788,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you're a mean drunk lt.",
+    "text": "Everybody drink {int: i} times if you're a mean drunk lt.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1814,7 +1814,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've got an ex among your friends lt.",
+    "text": "Everybody drink {int: i} times if you've got an ex among your friends lt.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1838,7 +1838,7 @@
     "variables": {}
   },
   {
-    "text": "Drink {int: i} times if you think ALL the other players are cool.",
+    "text": "Everybody drink {int: i} times if you think ALL the other players are cool.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1851,7 +1851,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever made love in your parent's bed.",
+    "text": "Everybody drink {int: i} times if you've ever made love in your parent's bed.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1864,7 +1864,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you think your partner has a weird shaped sex organ.",
+    "text": "Everybody drink {int: i} times if you think your partner has a weird shaped sex organ.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1890,7 +1890,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if sometimes you smell your dirty clothes and decide they are okay to wear for the day.",
+    "text": "Everybody drink {int: i} times if sometimes you smell your dirty clothes and decide they are okay to wear for the day.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1903,7 +1903,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever slept with several members of the same family.",
+    "text": "Everybody drink {int: i} times if you've ever slept with several members of the same family.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1916,7 +1916,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if your partner is often hornier than you.",
+    "text": "Everybody drink {int: i} times if your partner is often hornier than you.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1929,7 +1929,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you watched yourself naked in the mirror this week.",
+    "text": "Everybody drink {int: i} times if you watched yourself naked in the mirror this week.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1942,7 +1942,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever hidden the fact that you've masturbated from your partner.",
+    "text": "Everybody drink {int: i} times if you've ever hidden the fact that you've masturbated from your partner.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1955,7 +1955,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever regretted fcking someone.",
+    "text": "Everybody drink {int: i} times if you've ever regretted fcking someone.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1968,7 +1968,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've said someone is ugly to their face.",
+    "text": "Everybody drink {int: i} times if you've said someone is ugly to their face.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2020,7 +2020,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've masturbated in the past days.",
+    "text": "Everybody drink {int: i} times if you've masturbated in the past days.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2059,7 +2059,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever used a lighter to set your fart on fire.",
+    "text": "Everybody drink {int: i} times if you've ever used a lighter to set your fart on fire.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2072,7 +2072,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you think some people here have a fcking shitty name.",
+    "text": "Everybody drink {int: i} times if you think some people here have a fcking shitty name.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2111,7 +2111,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if your second toe is longer than your big toe.",
+    "text": "Everybody drink {int: i} times if your second toe is longer than your big toe.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2124,7 +2124,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever watched more than reality TV episodes in a row.",
+    "text": "Everybody drink {int: i} times if you've ever watched more than reality TV episodes in a row.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2137,7 +2137,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever said to a child that Santa Claus or the Tooth Fairy don't exist.",
+    "text": "Everybody drink {int: i} times if you've ever said to a child that Santa Claus or the Tooth Fairy don't exist.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2240,7 +2240,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever pretended that you were sick to ditch school or work.",
+    "text": "Everybody drink {int: i} times if you've ever pretended that you were sick to ditch school or work.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2743,7 +2743,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever ordered a salad at a fast food restaurant.",
+    "text": "Everybody drink {int: i} sips if you've ever ordered a salad at a fast food restaurant.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2756,7 +2756,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever played Clash of Clans or Clash Royal.",
+    "text": "Everybody drink {int: i} sips if you've ever played Clash of Clans or Clash Royal.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2911,7 +2911,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever fcked a stranger.",
+    "text": "Everybody drink {int: i} times if you've ever fcked a stranger.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2952,7 +2952,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever eaten a bug.",
+    "text": "Everybody drink {int: i} times if you've ever eaten a bug.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2965,7 +2965,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've had beer for breakfast.",
+    "text": "Everybody drink {int: i} times if you've had beer for breakfast.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3033,7 +3033,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever had a bike stolen.",
+    "text": "Everybody drink {int: i} times if you've ever had a bike stolen.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3242,7 +3242,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you're wearing boxers.",
+    "text": "Everybody drink {int: i} times if you're wearing boxers.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3319,7 +3319,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you have neither brown nor blue eyes.",
+    "text": "Everybody drink {int: i} times if you have neither brown nor blue eyes.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3345,7 +3345,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you have refused to go out with a friend within the last month in order to stay in with your boyfriend or girlfriend.",
+    "text": "Everybody drink {int: i} times if you have refused to go out with a friend within the last month in order to stay in with your boyfriend or girlfriend.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3358,7 +3358,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever asked your partner for permission to go out for the night.",
+    "text": "Everybody drink {int: i} times if you've ever asked your partner for permission to go out for the night.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3385,7 +3385,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've already used Picolo in another language.",
+    "text": "Everybody drink {int: i} times if you've already used Picolo in another language.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3411,7 +3411,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever peed in a flower pot fault.",
+    "text": "Everybody drink {int: i} times if you've ever peed in a flower pot fault.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3424,7 +3424,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you're a girl and you've ever peed while crouching between two cars lt.",
+    "text": "Everybody drink {int: i} times if you're a girl and you've ever peed while crouching between two cars lt.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3437,7 +3437,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever peed on a friend. Really fun though efault.",
+    "text": "Everybody drink {int: i} times if you've ever peed on a friend. Really fun though efault.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3489,7 +3489,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever had a boyfriendgirlfriend for less than a day ult.",
+    "text": "Everybody drink {int: i} times if you've ever had a boyfriendgirlfriend for less than a day ult.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3502,7 +3502,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you were older than and were in a relationship with someone without having sex.",
+    "text": "Everybody drink {int: i} times if you were older than and were in a relationship with someone without having sex.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3539,7 +3539,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever closed your eyes while watching a horror movie, {int: j} more if this was less than a year ago.",
+    "text": "Everybody drink {int: i} times if you've ever closed your eyes while watching a horror movie, {int: j} more if this was less than a year ago.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3723,7 +3723,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever accidentally dropped the salt shaker on your plate.",
+    "text": "Everybody drink {int: i} times if you've ever accidentally dropped the salt shaker on your plate.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3764,7 +3764,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you are wearing a shirt.",
+    "text": "Everybody drink {int: i} times if you are wearing a shirt.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3830,7 +3830,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever heard your partner farting while sleeping.",
+    "text": "Everybody drink {int: i} times if you've ever heard your partner farting while sleeping.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3843,7 +3843,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever farted loudly in public, and {int: j} more if it wasn't on purpose.",
+    "text": "Everybody drink {int: i} times if you've ever farted loudly in public, and {int: j} more if it wasn't on purpose.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3910,7 +3910,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've slept with someone thanks to a dating app.",
+    "text": "Everybody drink {int: i} times if you've slept with someone thanks to a dating app.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3923,7 +3923,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you have, or have ever had, a chain bracelet with your name written on it.",
+    "text": "Everybody drink {int: i} times if you have, or have ever had, a chain bracelet with your name written on it.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3976,7 +3976,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever been on the blacklist of a casino, bar, or night club. more if it's still true.",
+    "text": "Everybody drink {int: i} times if you've ever been on the blacklist of a casino, bar, or night club. more if it's still true.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4003,7 +4003,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever heard one of your relatives having sex.",
+    "text": "Everybody drink {int: i} times if you've ever heard one of your relatives having sex.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4016,7 +4016,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever been busted by a public transportation controller more if it happened more than once.",
+    "text": "Everybody drink {int: i} times if you've ever been busted by a public transportation controller more if it happened more than once.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4029,7 +4029,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever danced alone in front of your mirror.",
+    "text": "Everybody drink {int: i} times if you've ever danced alone in front of your mirror.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4042,7 +4042,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've already thought about having cosmetic surgery.",
+    "text": "Everybody drink {int: i} times if you've already thought about having cosmetic surgery.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4055,7 +4055,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if, when using public transportation, you've ever pretended to be looking outside in order not to give up your seat to an old person.",
+    "text": "Everybody drink {int: i} times if, when using public transportation, you've ever pretended to be looking outside in order not to give up your seat to an old person.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4106,7 +4106,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times, if you've passed someone on the wrong side while driving.",
+    "text": "Everybody drink {int: i} times, if you've passed someone on the wrong side while driving.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4133,7 +4133,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you usually talk out loud to yourself, calling yourself by your first name.",
+    "text": "Everybody drink {int: i} times if you usually talk out loud to yourself, calling yourself by your first name.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4146,7 +4146,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you have said I love you to someone this week.",
+    "text": "Everybody drink {int: i} times if you have said I love you to someone this week.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4172,7 +4172,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times, if even one single time in your life, you believed your horoscope. more if this was less than a month ago.",
+    "text": "Everybody drink {int: i} times, if even one single time in your life, you believed your horoscope. more if this was less than a month ago.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4198,7 +4198,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you have more than pairs of shoes efault.",
+    "text": "Everybody drink {int: i} times if you have more than pairs of shoes efault.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4211,7 +4211,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if, in a restaurant, someone at your table has ever said to the staff that the food was awful. if that was you.",
+    "text": "Everybody drink {int: i} times if, in a restaurant, someone at your table has ever said to the staff that the food was awful. if that was you.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4224,7 +4224,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you think you're smarter than the neighbor to your right fault.",
+    "text": "Everybody drink {int: i} times if you think you're smarter than the neighbor to your right fault.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4237,7 +4237,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you sleep totally naked.",
+    "text": "Everybody drink {int: i} times if you sleep totally naked.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4263,7 +4263,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you haven't been to the dentist for more than a year.",
+    "text": "Everybody drink {int: i} times if you haven't been to the dentist for more than a year.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4276,7 +4276,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever slept with an ex.",
+    "text": "Everybody drink {int: i} times if you've ever slept with an ex.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4289,7 +4289,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you've ever made love with a stranger without wearing a condom.",
+    "text": "Everybody drink {int: i} times if you've ever made love with a stranger without wearing a condom.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4302,7 +4302,7 @@
     }
   },
   {
-    "text": "Drink {int: i} times if you have to be told a Picolo rule again because you weren't listening.",
+    "text": "Everybody drink {int: i} times if you have to be told a Picolo rule again because you weren't listening.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4562,7 +4562,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever moaned because you lost at thumbwrestling, saying that your opponent lifted their hand.",
+    "text": "Everybody drink {int: i} sips if you've ever moaned because you lost at thumbwrestling, saying that your opponent lifted their hand.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4575,7 +4575,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever held it in and not gone to the bathroom in the middle night because youd watched a horror movie that night.",
+    "text": "Everybody drink {int: i} sips if you've ever held it in and not gone to the bathroom in the middle night because youd watched a horror movie that night.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4588,7 +4588,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever used a Ouija or spirit board or a homemade version of one.",
+    "text": "Everybody drink {int: i} sips if you've ever used a Ouija or spirit board or a homemade version of one.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4601,7 +4601,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever fallen in love with someone in your class who acted like they didnt know you.",
+    "text": "Everybody drink {int: i} sips if you've ever fallen in love with someone in your class who acted like they didnt know you.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4614,7 +4614,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever looked for your keys in your apartment, and ended up finding them in the toilet or bathroom.",
+    "text": "Everybody drink {int: i} sips if you've ever looked for your keys in your apartment, and ended up finding them in the toilet or bathroom.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4627,7 +4627,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever had to sing in front of the whole music class, and got told to sing louder by the teacher.",
+    "text": "Everybody drink {int: i} sips if you've ever had to sing in front of the whole music class, and got told to sing louder by the teacher.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4640,7 +4640,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever pulled your stomach in with your shirt off, in order to look more appealing.",
+    "text": "Everybody drink {int: i} sips if you've ever pulled your stomach in with your shirt off, in order to look more appealing.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4653,7 +4653,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever made a false statement to the police, in order to claim from insurance.",
+    "text": "Everybody drink {int: i} sips if you've ever made a false statement to the police, in order to claim from insurance.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4666,7 +4666,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever enjoyed putting a movie with subtitles on mute and doing the voice over.",
+    "text": "Everybody drink {int: i} sips if you've ever enjoyed putting a movie with subtitles on mute and doing the voice over.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4679,7 +4679,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever borrowed your parents car without their knowing.",
+    "text": "Everybody drink {int: i} sips if you've ever borrowed your parents car without their knowing.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4692,7 +4692,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever been stung by a hornet.",
+    "text": "Everybody drink {int: i} sips if you've ever been stung by a hornet.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4705,7 +4705,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever been in love with your babysitter when you were young.",
+    "text": "Everybody drink {int: i} sips if you've ever been in love with your babysitter when you were young.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4718,7 +4718,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you still had a security blanket after the age of.",
+    "text": "Everybody drink {int: i} sips if you still had a security blanket after the age of.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4731,7 +4731,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever fallen asleep inside a movie theater.",
+    "text": "Everybody drink {int: i} sips if you've ever fallen asleep inside a movie theater.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4744,7 +4744,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if, at table, youve ever helped yourself to less water from the jug so as not to empty it, leaving it for someone else to go and top up.",
+    "text": "Everybody drink {int: i} sips if, at table, youve ever helped yourself to less water from the jug so as not to empty it, leaving it for someone else to go and top up.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4757,7 +4757,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever cried simply to get attention, after the age of.",
+    "text": "Everybody drink {int: i} sips if you've ever cried simply to get attention, after the age of.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4770,7 +4770,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever bought yourself something you've never used.",
+    "text": "Everybody drink {int: i} sips if you've ever bought yourself something you've never used.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4783,7 +4783,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever fallen after trying to swing higher and higher.",
+    "text": "Everybody drink {int: i} sips if you've ever fallen after trying to swing higher and higher.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4796,7 +4796,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever thought that there was some way of finding out who had peed in the pool.",
+    "text": "Everybody drink {int: i} sips if you've ever thought that there was some way of finding out who had peed in the pool.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4809,7 +4809,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever been the last one to be selected for a sports team.",
+    "text": "Everybody drink {int: i} sips if you've ever been the last one to be selected for a sports team.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4822,7 +4822,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever mistakenly turned on the flash while trying to discreetly take a picture.",
+    "text": "Everybody drink {int: i} sips if you've ever mistakenly turned on the flash while trying to discreetly take a picture.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5004,7 +5004,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you have ever announced that you were getting involved in a sport and packed it in after just one week.",
+    "text": "Everybody drink {int: i} sips if you have ever announced that you were getting involved in a sport and packed it in after just one week.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5017,7 +5017,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you brought nothing for this evening, no drink or food.",
+    "text": "Everybody drink {int: i} sips if you brought nothing for this evening, no drink or food.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5082,7 +5082,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you have ever tried to make your parents believe you were not drunk.",
+    "text": "Everybody drink {int: i} sips if you have ever tried to make your parents believe you were not drunk.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5095,7 +5095,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you have ever vomited out of a window.",
+    "text": "Everybody drink {int: i} sips if you have ever vomited out of a window.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5160,7 +5160,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you have ever annoyed any of the players.",
+    "text": "Everybody drink {int: i} sips if you have ever annoyed any of the players.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5186,7 +5186,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you have ever spoken to one of your body parts.",
+    "text": "Everybody drink {int: i} sips if you have ever spoken to one of your body parts.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5355,7 +5355,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever taken out a condom by mistake in front of the wrong people.",
+    "text": "Everybody drink {int: i} sips if you've ever taken out a condom by mistake in front of the wrong people.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5368,7 +5368,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've never inhaled nitrous oxide balloons, nor sniffed poppers.",
+    "text": "Everybody drink {int: i} sips if you've never inhaled nitrous oxide balloons, nor sniffed poppers.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5381,7 +5381,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever done the socksandslides thing in public.",
+    "text": "Everybody drink {int: i} sips if you've ever done the socksandslides thing in public.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5394,7 +5394,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever spent a whole night laying on grass with someone, just looking at the stars cheesy.",
+    "text": "Everybody drink {int: i} sips if you've ever spent a whole night laying on grass with someone, just looking at the stars cheesy.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5407,7 +5407,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever been a scout.",
+    "text": "Everybody drink {int: i} sips if you've ever been a scout.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5420,7 +5420,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever had a summer job.",
+    "text": "Everybody drink {int: i} sips if you've ever had a summer job.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5433,7 +5433,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've never driven while under the influence of drugs.",
+    "text": "Everybody drink {int: i} sips if you've never driven while under the influence of drugs.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5446,7 +5446,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever walked more than mins to get home after a night out.",
+    "text": "Everybody drink {int: i} sips if you've ever walked more than mins to get home after a night out.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5459,7 +5459,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever watched a video tutorial to exercise.",
+    "text": "Everybody drink {int: i} sips if you've ever watched a video tutorial to exercise.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5472,7 +5472,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever looked on Internet for tips and tricks to lose weight, without having to actually go on a diet.",
+    "text": "Everybody drink {int: i} sips if you've ever looked on Internet for tips and tricks to lose weight, without having to actually go on a diet.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5485,7 +5485,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever partied until the next morning.",
+    "text": "Everybody drink {int: i} sips if you've ever partied until the next morning.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5498,7 +5498,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever spent spring break in a city.",
+    "text": "Everybody drink {int: i} sips if you've ever spent spring break in a city.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5511,7 +5511,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if your friends have ever managed to run away with your swimming trunksswimsuit, leaving you in the water.",
+    "text": "Everybody drink {int: i} sips if your friends have ever managed to run away with your swimming trunksswimsuit, leaving you in the water.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5524,7 +5524,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever burnt your notes at the end of the year.",
+    "text": "Everybody drink {int: i} sips if you've ever burnt your notes at the end of the year.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5537,7 +5537,7 @@
     }
   },
   {
-    "text": "Drink {int: i} sips if you've ever made up a drinking game.",
+    "text": "Everybody drink {int: i} sips if you've ever made up a drinking game.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
