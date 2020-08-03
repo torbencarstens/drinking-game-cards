@@ -79,7 +79,7 @@
   },
   {
     "text": "Du darfst entscheiden: Du und jemand den du bestimmst trinken gemeinsam jeweils {int: i} oder {int: j} Schlücke.",
-    "count": 1,
+    "count": 2,
     "uses": 0,
     "rounds": 0,
     "personal": true,
@@ -1409,7 +1409,7 @@
   },
   {
     "text": "Alle trinken {int: i} Schlücke. Wer nicht trinken will, macht stattdessen {int: j} Liegestütze.",
-    "count": 2,
+    "count": 7,
     "uses": 0,
     "rounds": 0,
     "personal": false,
@@ -1978,20 +1978,6 @@
     "id": 158,
     "variables": {
       "i": "ANY"
-    }
-  },
-  {
-    "text": "Alle trinken {int: i} Schlücke. Wer nicht trinken will, macht stattdessen {int: j} Liegestütze.",
-    "count": 5,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 159,
-    "variables": {
-      "i": "ANY",
-      "j": "ANY"
     }
   },
   {
@@ -3640,20 +3626,6 @@
     }
   },
   {
-    "text": "Du darfst entscheiden: Du und jemand den du bestimmst trinken gemeinsam jeweils {int: i} oder {int: j} Schlücke.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": true,
-    "remote": true,
-    "unique": true,
-    "id": 290,
-    "variables": {
-      "i": "ANY",
-      "j": "ANY"
-    }
-  },
-  {
     "text": "Jeder, der schon einmal in seinem Leben Gras geraucht hat, trinkt {int: i} Schlücke.",
     "count": 1,
     "uses": 0,
@@ -4837,7 +4809,7 @@
   },
   {
     "text": "Du entscheidest: Alle trinken {int: i} oder {int: j} Schlücke.",
-    "count": 1,
+    "count": 3,
     "uses": 0,
     "rounds": 0,
     "personal": false,
@@ -6322,7 +6294,7 @@
   },
   {
     "text": "Du darfst entscheiden: Du und jemand den du bestimmst, trinken gemeinsam jeweils {int: i} oder {int: j} Schlücke.",
-    "count": 1,
+    "count": 3,
     "uses": 0,
     "rounds": 0,
     "personal": true,
@@ -7014,7 +6986,7 @@
   },
   {
     "text": "Wähle eine Zahl zwischen {int: i} und {int: j}. Alle trinken die gewählte Zahl als Schlücke.",
-    "count": 1,
+    "count": 6,
     "uses": 0,
     "rounds": 0,
     "personal": false,
@@ -8120,20 +8092,6 @@
     }
   },
   {
-    "text": "Wähle eine Zahl zwischen {int: i} und {int: j}. Alle trinken die gewählte Zahl als Schlücke.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 661,
-    "variables": {
-      "i": "ANY",
-      "j": "ANY"
-    }
-  },
-  {
     "text": "Alle, die aus dem Süden kommen, trinken {int: i} Schlücke.",
     "count": 2,
     "uses": 0,
@@ -8390,19 +8348,6 @@
     "id": 682,
     "variables": {
       "i": "ANY"
-    }
-  },
-  {
-    "text": "Du darfst entscheiden: Du und jemand den du bestimmst, trinken gemeinsam jeweils {int: i} oder {int: j} Schlücke.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": true,
-    "remote": true,
-    "unique": true,
-    "id": 683,
-    "variables": {
-      "j": "ANY"
     }
   },
   {
@@ -10236,20 +10181,6 @@
     "variables": {}
   },
   {
-    "text": "Wähle eine Zahl zwischen {int: i} und {int: j}. Alle trinken die gewählte Zahl als Schlücke.",
-    "count": 2,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 838,
-    "variables": {
-      "i": "ANY",
-      "j": "ANY"
-    }
-  },
-  {
     "text": "Alle die schon einmal, in ihrem Leben, League of Legends gespielt haben, trinken {int: i} Schlücke.",
     "count": 1,
     "uses": 0,
@@ -10333,20 +10264,6 @@
     "unique": true,
     "id": 845,
     "variables": {}
-  },
-  {
-    "text": "Du darfst entscheiden: Du und jemand den du bestimmst, trinken gemeinsam jeweils {int: i} oder {int: j} Schlücke.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": true,
-    "remote": true,
-    "unique": true,
-    "id": 846,
-    "variables": {
-      "i": "ANY",
-      "j": "ANY"
-    }
   },
   {
     "text": "Jeder, der schon einmal in seinem Leben über Franzosen geflucht hat, trinkt {int: i} Schlücke.",
@@ -10439,7 +10356,7 @@
   },
   {
     "text": "Trinke {int: i} Schlücke oder gib dir {int: j} Backpfeifen.",
-    "count": 10,
+    "count": 12,
     "uses": 0,
     "rounds": 0,
     "personal": true,
@@ -10589,20 +10506,6 @@
     "remote": true,
     "unique": true,
     "id": 865,
-    "variables": {
-      "i": "ANY",
-      "j": "ANY"
-    }
-  },
-  {
-    "text": "Du entscheidest: Alle trinken {int: i} oder {int: j} Schlücke.",
-    "count": 2,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 866,
     "variables": {
       "i": "ANY",
       "j": "ANY"
@@ -11907,20 +11810,6 @@
     "id": 978,
     "variables": {
       "i": "ANY"
-    }
-  },
-  {
-    "text": "Wähle eine Zahl zwischen {int: i} und {int: j}. Alle trinken die gewählte Zahl als Schlücke.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 979,
-    "variables": {
-      "i": "ANY",
-      "j": "ANY"
     }
   },
   {
@@ -13474,17 +13363,6 @@
     }
   },
   {
-    "text": "Wähle eine Zahl zwischen {int: i} und {int: j}. Alle trinken die gewählte Zahl als Schlücke.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 1110,
-    "variables": {}
-  },
-  {
     "text": "Themenspiel und {int: i} Schlücke für den Verlierer: „Festivals“, du beginnst.",
     "count": 1,
     "uses": 0,
@@ -13989,20 +13867,6 @@
     "id": 1154,
     "variables": {
       "i": "ANY"
-    }
-  },
-  {
-    "text": "Trinke {int: i} Schlücke oder gib dir {int: j} Backpfeifen.",
-    "count": 2,
-    "uses": 0,
-    "rounds": 0,
-    "personal": true,
-    "remote": true,
-    "unique": true,
-    "id": 1155,
-    "variables": {
-      "i": "ANY",
-      "j": "ANY"
     }
   },
   {
