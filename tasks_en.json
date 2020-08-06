@@ -1106,7 +1106,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": false,
-    "remote": true,
+    "remote": false,
     "unique": false,
     "id": 87,
     "variables": {
@@ -1127,7 +1127,7 @@
     }
   },
   {
-    "text": "If you've ever called your partner by your expartner's name, give out {int: i} sips.",
+    "text": "If you've ever called your partner by your expartners name, give out {int: i} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1166,7 +1166,7 @@
     }
   },
   {
-    "text": "Give out {int: i} sips if you've ever said no to a fcking handsome guy or hot woman.",
+    "text": "Give out {int: i} sips if you've ever said no to a fucking handsome guy or hot woman.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1192,7 +1192,7 @@
     }
   },
   {
-    "text": "The last player to celebrate their birthday can give out {int: i} sips.",
+    "text": "The last player to celebrate their birthday this year can give out {int: i} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1244,7 +1244,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've planned some sparkling waterlemon juiceAlkaSeltzer for tomorrow morning.",
+    "text": "Everybody drink {int: i} times if you've planned some sparkling waterlemon juice Alka Seltzer for tomorrow morning.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1283,7 +1283,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've ever kissed someone after a slow dance.",
+    "text": "Everybody drink {int: i} times if you've ever kissed the person you danced with directly after a slow dance.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1387,7 +1387,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've never donated blood bastard.",
+    "text": "Everybody drink {int: i} times if you've never donated blood, you bastard.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1413,7 +1413,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you have more than diplomas.",
+    "text": "Everybody drink {int: i} times if you have more than two diplomas.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1439,7 +1439,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you don't have your real name on Instagram.",
+    "text": "Everybody drink {int: i} times if you don't have your real name on Instagram/don't have Instagram.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1491,7 +1491,7 @@
     }
   },
   {
-    "text": "The first youngest players choose a guy that'll take {int: i} sips.",
+    "text": "The youngest player chooses a guy (or girl if no guys are present) that'll take {int: i} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1504,7 +1504,7 @@
     }
   },
   {
-    "text": "Girls choose a guy to take {int: i} sips.",
+    "text": "Girls choose a guy to take {int: i} sips. If there are no girls, down your drink.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1590,19 +1590,6 @@
     "remote": true,
     "unique": false,
     "id": 124,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
-    "text": "Everybody drink {int: i} sips if you don't have Picolo on your phone.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 125,
     "variables": {
       "i": "ANY"
     }
@@ -1712,7 +1699,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you made love within the past h ault.",
+    "text": "Everybody drink {int: i} times if you had sex within the past 12 hours.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1725,7 +1712,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you think someone in the room is not funny at all ault.",
+    "text": "Everybody drink {int: i} times if you think someone in the room is not funny at all.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1738,7 +1725,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you think someone in the room is dumber than the others efault.",
+    "text": "Everybody drink {int: i} times if you think someone in the room is dumber than the others.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1751,7 +1738,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you don't like your stepmother.",
+    "text": "Everybody drink {int: i} times if you don't like your stepmother. Drink {int: j} if you don't have one",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1760,11 +1747,12 @@
     "unique": false,
     "id": 137,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you're a mean drunk lt.",
+    "text": "Everybody drink {int: i} times if you're a mean drunk.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1777,7 +1765,7 @@
     }
   },
   {
-    "text": "Give out {int: i} sips if you've made love more than twice in the past days.",
+    "text": "Give out {int: i} sips if you had sex more than twice in the past 3 days.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1790,7 +1778,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've got an ex among your friends lt.",
+    "text": "Everybody drink {int: i} times if you've got an ex among your friends.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1801,17 +1789,6 @@
     "variables": {
       "i": "ANY"
     }
-  },
-  {
-    "text": "down drinks in a row or give Picolo a star rating in the app store.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 141,
-    "variables": {}
   },
   {
     "text": "Everybody drink {int: i} times if you think ALL the other players are cool.",
@@ -1827,7 +1804,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've ever made love in your parent's bed.",
+    "text": "Everybody drink {int: i} times if you ever had sex in your parents bed.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1853,7 +1830,7 @@
     }
   },
   {
-    "text": "Give out {int: i} sips if you've been dumped more than times.",
+    "text": "Give out {int: i} sips if you've been dumped more than 3 times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1931,7 +1908,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've ever regretted fcking someone.",
+    "text": "Everybody drink {int: i} times if you've ever regretted fucking someone.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1957,7 +1934,7 @@
     }
   },
   {
-    "text": "Give out {int: i} sips if you bank account is used to being abused.",
+    "text": "Give out {int: i} sips if your bank account is used to being abused.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -1996,7 +1973,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've masturbated in the past days.",
+    "text": "Everybody drink {int: i} times if you've masturbated in the past 12 hours.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2048,7 +2025,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you think some people here have a fcking shitty name.",
+    "text": "Everybody drink {int: i} times if you think some people here have a fucking shitty name.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2061,7 +2038,7 @@
     }
   },
   {
-    "text": "if your first time was after the age , drink {int: i} times.",
+    "text": "if your first time was after the age of 20, drink {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2069,19 +2046,6 @@
     "remote": true,
     "unique": false,
     "id": 161,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
-    "text": "Those who haven't liked the Picolo Facebook page, drink {int: i} times, unless you put a like within the next minute...",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 162,
     "variables": {
       "i": "ANY"
     }
@@ -2100,7 +2064,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've ever watched more than reality TV episodes in a row.",
+    "text": "Everybody drink {int: i} times if you've ever watched more than 5 reality TV episodes in a row.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2139,12 +2103,12 @@
     }
   },
   {
-    "text": "if you got here using public transportation, give out {int: i} sips. If not, next time be more ecofriendly. Now have {int: j} sips.",
+    "text": "if you got here using public transportation, give out {int: i} sips. If not, next time be more ecofriendly, now have {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
     "personal": false,
-    "remote": true,
+    "remote": false,
     "unique": false,
     "id": 167,
     "variables": {
@@ -2179,18 +2143,7 @@
     }
   },
   {
-    "text": "Drink more if you watched a whole season.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 170,
-    "variables": {}
-  },
-  {
-    "text": "you drive a Toyota If yes, you can give out {int: i} sips. Otherwise drink them.",
+    "text": "If you drive a Toyota, you can give out {int: i} sips. Otherwise drink {int: j}.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2199,20 +2152,8 @@
     "unique": false,
     "id": 171,
     "variables": {
-      "i": "ANY"
-    }
-  },
-  {
-    "text": "you drive a Ford If yes, you can give out {int: i} sips. Otherwise drink them.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 172,
-    "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
@@ -2260,7 +2201,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": false,
-    "remote": true,
+    "remote": false,
     "unique": false,
     "id": 176,
     "variables": {
@@ -2274,7 +2215,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": false,
-    "remote": true,
+    "remote": false,
     "unique": false,
     "id": 177,
     "variables": {
@@ -2283,7 +2224,7 @@
     }
   },
   {
-    "text": "those who aren't one of your friends on Facebook, drink {int: i} sips.",
+    "text": "Those who aren't one of your friends on Facebook, drink {int: i} sips. Everyone who doesn't have Facebook drinks {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2292,11 +2233,12 @@
     "unique": false,
     "id": 178,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
-    "text": "those who aren't following you on Instagram drink, {int: i} sips.",
+    "text": "Those who aren't following you on Instagram drink, {int: i} sips. Everyone who doesn't have Instagram drinks {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2305,11 +2247,12 @@
     "unique": false,
     "id": 179,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
-    "text": "those who aren't one of your friends on Snapchat, drink {int: i} sips.",
+    "text": "those who aren't one of your friends on Snapchat, drink {int: i} sips. Everyone who doesn't have Snapchat drinks {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2318,7 +2261,8 @@
     "unique": false,
     "id": 180,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
@@ -2348,7 +2292,7 @@
     }
   },
   {
-    "text": "Those who aren't active on both Twitter and Instagram can give out {int: i} sips.",
+    "text": "Those who aren't active on both Twitter and Instagram can give out {int: i} sips. Drink {int: j} for every service you don't have an account on.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2357,11 +2301,12 @@
     "unique": false,
     "id": 183,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
-    "text": "Hair war Everyone who doesn't have brown hair drinks.",
+    "text": "Everyone who doesn't have brown hair drinks.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2372,7 +2317,7 @@
     "variables": {}
   },
   {
-    "text": "Hair war Everyone who doesn't have blonde hair drinks.",
+    "text": "Everyone who doesn't have blonde hair drinks.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2383,7 +2328,7 @@
     "variables": {}
   },
   {
-    "text": "make someone drink if you passed drinks, drink otherwise.",
+    "text": "Make someone drink {int: i} if you passed drinks, drink {int: j} otherwise.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2391,10 +2336,13 @@
     "remote": true,
     "unique": false,
     "id": 186,
-    "variables": {}
+    "variables": {
+      "i": "ANY",
+      "j": "ANY"
+    }
   },
   {
-    "text": "if it's your first drink, drink half of it. Otherwise you can give out {int: i} sips.",
+    "text": "If it's your first drink today, drink half of it. Otherwise you can give out {int: i} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2407,7 +2355,7 @@
     }
   },
   {
-    "text": "Those who have kissed the brother or sister of a friend, drink {int: i} times.",
+    "text": "Those who have kissed the brother or sister of a friend drinks {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2447,7 +2395,7 @@
     }
   },
   {
-    "text": "drink as many sips as glasses you've poured.",
+    "text": "Drink as many sips as glasses you've poured. Drink {int: i} if you aren't sure",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2455,10 +2403,12 @@
     "remote": true,
     "unique": false,
     "id": 191,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
-    "text": "if you're not single and you're here without your boyfriend or girlfriend, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you're not single and you're here without your boyfriend or girlfriend, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2497,7 +2447,7 @@
     }
   },
   {
-    "text": "drink {int: i} sips if you planned to finish the night before am, otherwise give them out.",
+    "text": "Drink {int: i} sips if you planned to finish the night before 3am, otherwise give them out.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2510,7 +2460,7 @@
     }
   },
   {
-    "text": "if you're wearing any clothes you bought less than a month ago, drink {int: i} times. Otherwise give out {int: j} sips.",
+    "text": "If you're wearing any clothes you bought less than a month ago, drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2524,7 +2474,7 @@
     }
   },
   {
-    "text": "if your phone is in your pocket drink {int: i} times. Otherwise give out {int: j} sips.",
+    "text": "If your phone is in your pocket drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2538,7 +2488,7 @@
     }
   },
   {
-    "text": "if you're wearing any clothes that don't belong to you, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you're wearing any clothes that don't belong to you, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2551,7 +2501,7 @@
     }
   },
   {
-    "text": "did you plan to go out to a club afterwards Be honest, if so, give out {int: i} sips to those who will join you. Otherwise drink {int: j} times.",
+    "text": "Did you plan to go out to a club afterwards, if so, give out {int: i} sips to those who will join you. Otherwise drink {int: j} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2570,7 +2520,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": false,
-    "remote": true,
+    "remote": false,
     "unique": false,
     "id": 200,
     "variables": {
@@ -2583,7 +2533,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": false,
-    "remote": true,
+    "remote": false,
     "unique": false,
     "id": 201,
     "variables": {
@@ -2591,7 +2541,7 @@
     }
   },
   {
-    "text": "Couples only the ones who argued most recently, drink {int: i} times.",
+    "text": "Couples only the ones who argued most recently, drink {int: i} times. Everyone drink {int: j} if there are no couples present.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2600,7 +2550,8 @@
     "unique": false,
     "id": 202,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
@@ -2641,7 +2592,7 @@
     }
   },
   {
-    "text": "Give out {int: i} sips if you have a Nintendo Switch console.",
+    "text": "Give out {int: i} sips if you own a Nintendo Switch console.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2685,7 +2636,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": false,
-    "remote": true,
+    "remote": false,
     "unique": false,
     "id": 209,
     "variables": {
@@ -2706,7 +2657,7 @@
     }
   },
   {
-    "text": "did you wake up after am {int: i} sips for sleeping late Otherwise you can give them out.",
+    "text": "Did you wake up after 11am {int: i} sips for sleeping late, otherwise you can give them out.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2797,7 +2748,7 @@
     }
   },
   {
-    "text": "drink as many sips as credit, social security or ID cards you've lost.",
+    "text": "Drink as many sips as credit, social security or ID cards you've lost.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2808,7 +2759,7 @@
     "variables": {}
   },
   {
-    "text": "if you like one of Justin Bieber's songs, drink {int: i} times.",
+    "text": "If you like one of Justin Bieber's songs, drink {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2821,11 +2772,11 @@
     }
   },
   {
-    "text": "if you've ever lost your phone for good, drink {int: i} times. Otherwise give out {int: j} sips.",
+    "text": "If you've ever lost your phone for good, drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 220,
@@ -2848,11 +2799,11 @@
     }
   },
   {
-    "text": "if you like liver and onions, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you like to eat liver and onions, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 222,
@@ -2861,11 +2812,11 @@
     }
   },
   {
-    "text": "if you watch Keeping Up with the Kardashians or an even worse reality TV show, drink {int: i} times.",
+    "text": "If you watch Keeping Up with the Kardashians or an even worse reality TV show, drink {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 223,
@@ -2874,11 +2825,11 @@
     }
   },
   {
-    "text": "if you've been to the movies this week, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've been to the movies this week, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 224,
@@ -2887,7 +2838,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've ever fcked a stranger.",
+    "text": "Everybody drink {int: i} times if you've ever fucked a stranger.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -2900,11 +2851,11 @@
     }
   },
   {
-    "text": "if you've driven at more than mph, it's bad so drink {int: i} times. Otherwise give out {int: j} sips.",
+    "text": "If you've driven at more than 120 mph, it's bad so drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 226,
@@ -2914,11 +2865,11 @@
     }
   },
   {
-    "text": "if you've ever taken synthetic drugs it's bad, drink {int: i} times. Otherwise give out {int: j} sips.",
+    "text": "If you've ever taken synthetic drugs it's bad, drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 227,
@@ -2954,11 +2905,11 @@
     }
   },
   {
-    "text": "if you came home before am on your last night out, drink {int: i} times. Otherwise give out {int: j} sips.",
+    "text": "If you came home before32am on your last night out, drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 230,
@@ -2968,24 +2919,11 @@
     }
   },
   {
-    "text": "if you stayed out past am on your last night out, give out {int: i} sips. Otherwise drink them.",
+    "text": "If the last time you peed was at home, drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 231,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
-    "text": "if the last time you peed was at home, drink {int: i} times. Otherwise give out {int: j} sips.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 232,
@@ -2995,11 +2933,11 @@
     }
   },
   {
-    "text": "if your sense of direction is quite awful the group, you're the jury, drink {int: i} times. Otherwise give out {int: j} sips.",
+    "text": "If your sense of direction is quite awful the group, you're the jury, drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 233,
@@ -3022,11 +2960,11 @@
     }
   },
   {
-    "text": "if you feel like you must cuddle the dog when it's in the room, drink {int: i} times. Otherwise give out {int: j} sips.",
+    "text": "If you feel like you must cuddle the dog when it's in the room, drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 235,
@@ -3036,22 +2974,22 @@
     }
   },
   {
-    "text": "give out as many sips as pushups you can do with one hand.",
+    "text": "Give out as many sips as pushups you can do with one hand.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 236,
     "variables": {}
   },
   {
-    "text": "if you have even one single unfinished chore left today dishes, trash, etc., drink {int: i} times.",
+    "text": "If you have even one single unfinished chore left today dishes, trash, etc., drink {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 237,
@@ -3060,11 +2998,11 @@
     }
   },
   {
-    "text": "if you don't like your first name, that sucks, but you'll be able to give out {int: i} sips. If you like it, drink {int: j} times.",
+    "text": "If you don't like your first name, that sucks, but you'll be able to give out {int: i} sips. If you like it, drink {int: j} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 238,
@@ -3087,11 +3025,11 @@
     }
   },
   {
-    "text": "if you've ever been unemployed, drink {int: i} times. Otherwise give out {int: j} sips.",
+    "text": "If you've ever been unemployed, drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 240,
@@ -3114,11 +3052,11 @@
     }
   },
   {
-    "text": "if you've ever dropped your phone in the toilet, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've ever dropped your phone in the toilet, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 242,
@@ -3127,11 +3065,11 @@
     }
   },
   {
-    "text": "if you've ever broken a condom in action, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've ever broken a condom in action, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 243,
@@ -3140,11 +3078,11 @@
     }
   },
   {
-    "text": "if you've ever successfully finished a Rubik's cube, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've ever successfully finished a Rubik's cube, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 244,
@@ -3153,11 +3091,11 @@
     }
   },
   {
-    "text": "Those who've had sex thanks to Picolo, have {int: i} sips. You're welcome.",
+    "text": "Girls who currently have their period can give out {int: i} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 245,
@@ -3192,11 +3130,11 @@
     }
   },
   {
-    "text": "if you have long and beautiful hair you can give out {int: i} sips. Otherwise drink them.",
+    "text": "If you have long and beautiful hair you can give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 248,
@@ -3205,7 +3143,7 @@
     }
   },
   {
-    "text": "Those who have ever masturbated while thinking of a friend's partner, drink {int: i} times.",
+    "text": "Those who have ever masturbated while thinking of a friends (then) partner, drink {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3231,7 +3169,7 @@
     }
   },
   {
-    "text": "Drink them if you don't like coffee or if you like it with sugar.",
+    "text": "Drink {int: i} if you don't like coffee or if you like it with sugar.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3239,7 +3177,9 @@
     "remote": true,
     "unique": false,
     "id": 251,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "The oldest player gives out {int: i} sips to another player and {int: j} to another one.",
@@ -3256,11 +3196,11 @@
     }
   },
   {
-    "text": "if you don't have a beard, drink {int: i} sips. Otherwise give them out.",
+    "text": "If you don't have a beard, drink {int: i} sips. Otherwise give them out.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 253,
@@ -3269,7 +3209,7 @@
     }
   },
   {
-    "text": "The girl to have the most truelove boyfriends, give out {int: i} sips. Same thing with men.",
+    "text": "The girl to have the most truelove partner, give out {int: i} sips. Same thing with men.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3308,7 +3248,7 @@
     }
   },
   {
-    "text": "Those who have ever, even a little, flirted while being in a relationship... {int: i}sip penalty yes.",
+    "text": "Those who have ever, even a little, flirted while being in a relationship... {int: i} sips as a penalty.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3321,7 +3261,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you have refused to go out with a friend within the last month in order to stay in with your boyfriend or girlfriend.",
+    "text": "Everybody drink {int: i} times if you have refused to go out with a friend within the last month in order to stay in with your partner.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3347,7 +3287,7 @@
     }
   },
   {
-    "text": "Those who have ever farted on their partner drink {int: i} times, {int: j} more if they laughed fault.",
+    "text": "Those who have ever farted on their partner drink {int: i} times, {int: j} more if they laughed while doing it.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3361,20 +3301,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've already used Picolo in another language.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 261,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
-    "text": "the last of you to have been on a plane can give out {int: i} sips.",
+    "text": "The last of you to have been on a plane can give out {int: i} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3387,7 +3314,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've ever peed in a flower pot fault.",
+    "text": "Everybody drink {int: i} times if you've ever peed in a flower pot.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3400,7 +3327,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you're a girl and you've ever peed while crouching between two cars lt.",
+    "text": "Everybody drink {int: i} times if you're a girl and you've ever peed while crouching between two cars. {int: j} sips when there are no girls present.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3409,11 +3336,12 @@
     "unique": false,
     "id": 264,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've ever peed on a friend. Really fun though efault.",
+    "text": "Everybody drink {int: i} times if you've ever peed on a friend. Really fun though.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3426,7 +3354,7 @@
     }
   },
   {
-    "text": "The last player to have peed, drink {int: i} times ult.",
+    "text": "The last player to have peed, drink {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3439,11 +3367,11 @@
     }
   },
   {
-    "text": "if you've ever scraped your toes clean, drink {int: i} times fault.",
+    "text": "If you've ever scraped your toes clean, drink {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 267,
@@ -3452,11 +3380,11 @@
     }
   },
   {
-    "text": "if you know what glory hole means, drink {int: i} times. Otherwise give them out and have a look on the Internet.",
+    "text": "If you know what glory hole means, drink {int: i} times. Otherwise give them out and have a look on the Internet.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 268,
@@ -3465,7 +3393,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've ever had a boyfriendgirlfriend for less than a day ult.",
+    "text": "Everybody drink {int: i} times if you've ever had a partner for less than a day.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3478,7 +3406,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you were older than and were in a relationship with someone without having sex.",
+    "text": "Everybody drink {int: i} times if you were older than 18 and were in a relationship with someone without having sex.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3491,15 +3419,17 @@
     }
   },
   {
-    "text": "drink as many sips as bugs you have sucked up with the vacuum.",
+    "text": "Drink as many sips as bugs you have sucked up with the vacuum. Drink {int: i} if you're not sure.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 271,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Those who have ever bought something in a store just because it was in front of the checkout, drink {int: i} times.",
@@ -3529,11 +3459,11 @@
     }
   },
   {
-    "text": "License question drink time if you passed your driver's test on your first try, if you've ever failed it, if you don't have a license yet.",
+    "text": "Drink {int: i} if you didn't pass your driver's test on your first try, if you've ever failed it, if you don't have a license yet.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 274,
@@ -3566,7 +3496,7 @@
     }
   },
   {
-    "text": "drink {int: i} times if you've ever masturbated to help you fall asleep.",
+    "text": "Drink {int: i} times if you've ever masturbated to help you fall asleep.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3579,11 +3509,11 @@
     }
   },
   {
-    "text": "drink {int: i} times if you've ever cut in front of somebody in line. Otherwise give out {int: j} sips.",
+    "text": "Drink {int: i} times if you've ever cut in front of somebody in line. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 278,
@@ -3606,7 +3536,7 @@
     }
   },
   {
-    "text": "drink {int: i} times if you've ever been rude to a teacher. Otherwise give out {int: j} sips.",
+    "text": "Drink {int: i} times if you've ever been rude to a teacher. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3620,11 +3550,11 @@
     }
   },
   {
-    "text": "drink {int: i} times if you've ever taken dance classes. Otherwise give out {int: j} sips.",
+    "text": "Drink {int: i} times if you've ever taken dance classes. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 281,
@@ -3634,11 +3564,11 @@
     }
   },
   {
-    "text": "if you know a song by Justin Bieber by heart or almost, drink {int: i} times. Otherwise give out {int: j} sips.",
+    "text": "If you know a song by Justin Bieber by heart or almost, drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 282,
@@ -3648,11 +3578,11 @@
     }
   },
   {
-    "text": "if your parents put decorations outside for Christmas each year drink {int: i} sips, otherwise give out them.",
+    "text": "If your parents put decorations outside for Christmas each year drink {int: i} sips, otherwise give them out.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 283,
@@ -3661,11 +3591,11 @@
     }
   },
   {
-    "text": "if you've ever been dumped, drink {int: i} times. Otherwise give out {int: j} sips.",
+    "text": "If you've ever been dumped, drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 284,
@@ -3675,22 +3605,22 @@
     }
   },
   {
-    "text": "give out as many sips as partners you've dumped.",
+    "text": "Give out as many sips as partners you've dumped.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 285,
     "variables": {}
   },
   {
-    "text": "if you've ever had a MacDonald's order that was more than dollars, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've ever had a MacDonald's order that was more than 20 bucks, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 286,
@@ -3712,11 +3642,11 @@
     }
   },
   {
-    "text": "if you've had diarrhea this year drink {int: i} times. Otherwise give out {int: j} sips.",
+    "text": "If you've had diarrhea this year drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 288,
@@ -3726,11 +3656,11 @@
     }
   },
   {
-    "text": "if you've ever taken a shit at school or work drink {int: i} times. Otherwise give out {int: j} sips.",
+    "text": "If you've ever taken a shit at school or work drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 289,
@@ -3753,11 +3683,11 @@
     }
   },
   {
-    "text": "if you've ever pretended to wash your hands after going to the bathroom, drink {int: i} times. Otherwise give out {int: j} sips.",
+    "text": "If you've ever pretended to wash your hands after going to the bathroom, drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 291,
@@ -3767,7 +3697,7 @@
     }
   },
   {
-    "text": "Those who from time to time, can't pee at all when there are too many people nearby, drink {int: i} times.",
+    "text": "Those who, from time to time, can't pee at all when there are too many people nearby, drink {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3793,7 +3723,7 @@
     }
   },
   {
-    "text": "Those who don't fart yet in front of their partner, drink {int: i} times.",
+    "text": "Those who don't fart yet in front of their partner drink {int: i} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3833,11 +3763,11 @@
     }
   },
   {
-    "text": "if you've taken a shit at a highway rest stop, drink {int: i} sips. Otherwise give out them.",
+    "text": "If you've taken a shit at a highway rest stop, drink {int: i} sips. Otherwise give them out.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 297,
@@ -3846,11 +3776,11 @@
     }
   },
   {
-    "text": "if you don't like taking a shit while your partner is around, drink {int: i} times. Otherwise give out {int: j} sips.",
+    "text": "If you don't like taking a shit while your partner is around, drink {int: i} times. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 298,
@@ -3860,7 +3790,7 @@
     }
   },
   {
-    "text": "Those who've ever sniffed poppers or nitrous oxide drink {int: i} times more if that was today.",
+    "text": "Those who've ever sniffed poppers or nitrous oxide drink {int: i} times, {int: j} more if that was today.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3869,7 +3799,8 @@
     "unique": false,
     "id": 299,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
@@ -3925,11 +3856,11 @@
     }
   },
   {
-    "text": "drink {int: i} times if you have a nephew or niece. Otherwise give out {int: j} sips.",
+    "text": "Drink {int: i} times if you have a nephew or niece. Otherwise give out {int: j} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 304,
@@ -3939,11 +3870,11 @@
     }
   },
   {
-    "text": "if you have friends to whom you usually speak in another language, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you have friends to whom you usually speak in another language, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 305,
@@ -3952,7 +3883,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've ever been on the blacklist of a casino, bar, or night club. more if it's still true.",
+    "text": "Everybody drink {int: i} times if you've ever been on the blacklist of a casino, bar, or night club. {int: j} more if it's still true.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -3961,15 +3892,16 @@
     "unique": false,
     "id": 306,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
-    "text": "give out {int: i} sips if you've ever taken a photo with a celebrity. Otherwise drink {int: j} times.",
+    "text": "Give out {int: i} sips if you've ever taken a photo with a celebrity. Otherwise drink {int: j} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 307,
@@ -3992,7 +3924,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've ever been busted by a public transportation controller more if it happened more than once.",
+    "text": "Everybody drink {int: i} times if you've ever been busted by a public transportation controller, {int: j} more if it happened more than once.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4001,7 +3933,8 @@
     "unique": false,
     "id": 309,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
@@ -4044,18 +3977,18 @@
     }
   },
   {
-    "text": "drink as many sips as you have exes that you don't talk to anymore.",
+    "text": "Drink as many sips as you have exes that you don't talk to anymore.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 313,
     "variables": {}
   },
   {
-    "text": "if you've ever given more than dollars as a tip, give out {int: i} sips. Otherwise drink {int: j} times.",
+    "text": "If you've ever given more than 20% as a tip, give out {int: i} sips. Otherwise drink {int: j} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4095,7 +4028,7 @@
     }
   },
   {
-    "text": "give out {int: i} sips if you like skinny dipping in the ocean or the pool. Otherwise drink {int: j} times.",
+    "text": "Give out {int: i} sips if you like skinny dipping in the ocean or the pool. Otherwise drink {int: j} times.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4122,7 +4055,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you have said I love you to someone this week.",
+    "text": "Everybody drink {int: i} times if you have said I love you to someone else this week.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4148,7 +4081,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times, if even one single time in your life, you believed your horoscope. more if this was less than a month ago.",
+    "text": "Everybody drink {int: i} times, if even one single time in your life, you believed your horoscope. {int: j} more if this was less than a month ago.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4157,11 +4090,12 @@
     "unique": false,
     "id": 321,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
-    "text": "Nostalgia time If you have argued with one or many friends, so much that you don't see them anymore, drink {int: i} times... if it's better that way.",
+    "text": "If you have argued with one or many friends, so much that you don't see them anymore, drink {int: i} times...",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4174,7 +4108,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you have more than pairs of shoes efault.",
+    "text": "Everybody drink {int: i} times if you have more than 2 pairs of shoes.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4187,7 +4121,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if, in a restaurant, someone at your table has ever said to the staff that the food was awful. if that was you.",
+    "text": "Everybody drink {int: i} times if, in a restaurant, someone at your table has ever said to the staff that the food was awful. {int: j} more if that was you.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4196,16 +4130,17 @@
     "unique": false,
     "id": 324,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you think you're smarter than the neighbor to your right fault.",
+    "text": "Everybody drink {int: i} times if you think you're smarter than the neighbor to your right.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
     "personal": false,
-    "remote": true,
+    "remote": false,
     "unique": false,
     "id": 325,
     "variables": {
@@ -4226,11 +4161,11 @@
     }
   },
   {
-    "text": "give out {int: i} sips if you changed your bedsheets less than a month ago. Otherwise drink them.",
+    "text": "Give out {int: i} sips if you changed your bedsheets less than a month ago. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 327,
@@ -4252,7 +4187,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've ever slept with an ex.",
+    "text": "Everybody drink {int: i} times if you've ever slept with one of your exs.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4265,7 +4200,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you've ever made love with a stranger without wearing a condom.",
+    "text": "Everybody drink {int: i} times if you've ever had sex with a stranger without wearing a condom.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4278,24 +4213,11 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} times if you have to be told a Picolo rule again because you weren't listening.",
+    "text": "If you've never trimmed or shaved your beard, drink {int: i} sips. Otherwise give out them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 331,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
-    "text": "if you've never trimmed or shaved your beard, drink {int: i} sips. Otherwise give out them.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 332,
@@ -4304,11 +4226,11 @@
     }
   },
   {
-    "text": "if you've ever dumped more than people, drink {int: i} sips. Otherwise give out them.",
+    "text": "If you've ever dumped more than 3 people, drink {int: i} sips. Otherwise give out them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 333,
@@ -4317,11 +4239,11 @@
     }
   },
   {
-    "text": "if you've never bought a cell phone that cost more than dollars, drink {int: i} sips. Otherwise give out them.",
+    "text": "If you've never bought a cell phone that cost more than 300 dollars, drink {int: i} sips. Otherwise give out them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 334,
@@ -4330,7 +4252,7 @@
     }
   },
   {
-    "text": "if you've ever recorded your own voice while singing, drink {int: i} sips. Otherwise give out them.",
+    "text": "If you've ever recorded your own voice while singing, drink {int: i} sips. Otherwise give out them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4343,11 +4265,11 @@
     }
   },
   {
-    "text": "if you've ever written a poem outside school, drink {int: i} sips. Otherwise give out them.",
+    "text": "If you've ever written a poem outside of school, drink {int: i} sips. Otherwise give out them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 336,
@@ -4356,11 +4278,11 @@
     }
   },
   {
-    "text": "if you've ever written or played in a short film, even when you were a kid with your parents camera, drink {int: i} sips. Otherwise give out them.",
+    "text": "If you've ever written or played in a short film, even when you were a kid with your parents camera, drink {int: i} sips. Otherwise give out them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 337,
@@ -4369,11 +4291,11 @@
     }
   },
   {
-    "text": "if you've ever lived together with someone, drink {int: i} sips. Otherwise give out them.",
+    "text": "If you've ever lived together with someone, besides family, drink {int: i} sips. Otherwise give out them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 338,
@@ -4382,11 +4304,11 @@
     }
   },
   {
-    "text": "if you've ever been scared of a spider that was smaller than your thumb nail, drink {int: i} sips. Otherwise give out them.",
+    "text": "If you've ever been scared of a spider that was smaller than your thumb nail, drink {int: i} sips. Otherwise give them out.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 339,
@@ -4395,11 +4317,11 @@
     }
   },
   {
-    "text": "if you've ever played an escape game, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've ever played an escape game, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 340,
@@ -4408,11 +4330,11 @@
     }
   },
   {
-    "text": "if you've ever taught students, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've ever taught students, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 341,
@@ -4421,11 +4343,11 @@
     }
   },
   {
-    "text": "if you've ever done babysitting, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've ever done babysitting, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 342,
@@ -4434,11 +4356,11 @@
     }
   },
   {
-    "text": "if you've ever rescued a wild animal, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've ever rescued a wild animal, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 343,
@@ -4447,11 +4369,11 @@
     }
   },
   {
-    "text": "if you've ever seen stuff that physics or logic still cant explain, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've ever seen stuff that physics or logic still cant explain, give out {int: i} sips. Otherwise drink them. Down your drink if one person in the group can explain it.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 344,
@@ -4460,11 +4382,11 @@
     }
   },
   {
-    "text": "if you've ever dumped your boyfriend girlfriend on the phone, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've ever dumped your boyfriend girlfriend on the phone, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 345,
@@ -4473,11 +4395,11 @@
     }
   },
   {
-    "text": "if you've never watched a World Series game, or an NBA game from start to finish, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've never watched a World Series game, or an NBA game from start to finish, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 346,
@@ -4486,11 +4408,11 @@
     }
   },
   {
-    "text": "give out {int: i} sips. Otherwise drink them.",
+    "text": "Give out {int: i} sips.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 347,
@@ -4499,37 +4421,11 @@
     }
   },
   {
-    "text": "give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've never had a pony tail, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 348,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
-    "text": "give out {int: i} sips. Otherwise drink them.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 349,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
-    "text": "if you've never had a pony tail, give out {int: i} sips. Otherwise drink them.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 350,
@@ -4694,7 +4590,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} sips if you still had a security blanket after the age of.",
+    "text": "Everybody drink {int: i} sips if you still had a security blanket after the age of 12.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4720,7 +4616,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} sips if, at table, youve ever helped yourself to less water from the jug so as not to empty it, leaving it for someone else to go and top up.",
+    "text": "Everybody drink {int: i} sips if, at table, you've ever helped yourself to less water from the jug so as not to empty it, leaving it for someone else to go and top up.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4733,7 +4629,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} sips if you've ever cried simply to get attention, after the age of.",
+    "text": "Everybody drink {int: i} sips if you've ever cried simply to get attention, after the age of 12.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4759,7 +4655,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} sips if you've ever fallen after trying to swing higher and higher.",
+    "text": "Everybody drink {int: i} sips if you've ever fallen off after trying to swing higher and higher.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4815,7 +4711,7 @@
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 372,
@@ -4828,7 +4724,7 @@
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 373,
@@ -4837,11 +4733,11 @@
     }
   },
   {
-    "text": "Give out {int: i} sips if you have a specific handshake for one of the players here.",
+    "text": "Give out {int: i} sips if you have a specific handshake with one of the players here.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 374,
@@ -4850,11 +4746,11 @@
     }
   },
   {
-    "text": "Give out {int: i} sips if you've ever gone further than miles from the place where you born.",
+    "text": "Give out {int: i} sips if you've ever gone further than 500 miles from the place where you born.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 375,
@@ -4867,7 +4763,7 @@
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 376,
@@ -4880,7 +4776,7 @@
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 377,
@@ -4893,7 +4789,7 @@
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 378,
@@ -4902,11 +4798,11 @@
     }
   },
   {
-    "text": "Give out {int: i} sips if you've ever done a forward or backward somersault without a trampoline .",
+    "text": "Give out {int: i} sips if you've ever done a forward or backward somersault without a trampoline.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": false,
     "id": 379,
@@ -4915,7 +4811,7 @@
     }
   },
   {
-    "text": "Give out {int: i} sips if you've ever unscrewed the salt cellar and waited for someone to use it fault.",
+    "text": "Give out {int: i} sips if you've ever unscrewed the salt cellar and waited for someone to use it.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4928,7 +4824,7 @@
     }
   },
   {
-    "text": "Give out {int: i} sips if you've ever left the movie theater before the end of the movie fault.",
+    "text": "Give out {int: i} sips if you've ever left the movie theater before the end of the movie.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4941,7 +4837,7 @@
     }
   },
   {
-    "text": "Give out {int: i} sips if you've ever run to save your life lt.",
+    "text": "Give out {int: i} sips if you've ever run to save your life.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -4954,7 +4850,7 @@
     }
   },
   {
-    "text": "Give out {int: i} sips if you've ever been to Disneyland fault.",
+    "text": "Give out {int: i} sips if you've ever been to Disneyland.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5006,7 +4902,7 @@
     }
   },
   {
-    "text": "drink {int: i} sips if you have ever talked about marriage andor children with one of your exes or your current partner. Otherwise, hand them out.",
+    "text": "Drink {int: i} sips if you have ever talked about marriage and/or children with one of your exes or your current partner. Otherwise, hand them out.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5019,7 +4915,7 @@
     }
   },
   {
-    "text": "drink {int: i} sips if you have written a poem since you were years old. Otherwise, hand them out.",
+    "text": "Drink {int: i} sips if you have written a poem since you were 12 years old. Otherwise, hand them out.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5032,7 +4928,7 @@
     }
   },
   {
-    "text": "drink {int: i} sips if either of you has moaned today.",
+    "text": "Drink {int: i} sips if you've moaned today.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5045,7 +4941,7 @@
     }
   },
   {
-    "text": "drink {int: i} sips if you have planned a trip abroad this year.",
+    "text": "Drink {int: i} sips if you have planned a trip abroad this year.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5084,7 +4980,7 @@
     }
   },
   {
-    "text": "Hand out {int: i} sips if you have mates who call you regularly when they are pissed off the players must know them.",
+    "text": "Hand out {int: i} sips if you have mates who call you regularly when they are pissed off (the players must know them).",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5097,7 +4993,7 @@
     }
   },
   {
-    "text": "Hand out {int: i} sips if you have mates who prefer to call you instead of writing a line text message the players must know them.",
+    "text": "Hand out {int: i} sips if you have mates who prefer to call you instead of writing a line text message (the players must know them).",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5149,7 +5045,7 @@
     }
   },
   {
-    "text": "if you have ever been to a festival without taking drugs, hand out {int: i} sips. Otherwise, you have to drink them.",
+    "text": "If you have ever been to a festival without taking drugs (excluding alcohol), hand out {int: i} sips. Otherwise, you have to drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5175,7 +5071,7 @@
     }
   },
   {
-    "text": "if you've ever been skateboarding in a skate park, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've ever been skateboarding in a skate park, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5188,7 +5084,7 @@
     }
   },
   {
-    "text": "if you've ever fallen asleep in a seated position in a nightclub, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've ever fallen asleep in a seated position in a nightclub, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5201,7 +5097,7 @@
     }
   },
   {
-    "text": "if you've ever spent more than a week on an island, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've ever spent more than a week on an island, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5214,85 +5110,7 @@
     }
   },
   {
-    "text": "give out {int: i} sips. Otherwise drink them.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 403,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
-    "text": "give out {int: i} sips. Otherwise drink them.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 404,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
-    "text": "give out {int: i} sips. Otherwise drink them.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 405,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
-    "text": "give out {int: i} sips. Otherwise drink them.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 406,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
-    "text": "give out {int: i} sips. Otherwise drink them.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 407,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
-    "text": "give out {int: i} sips. Otherwise drink them.",
-    "count": 1,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": false,
-    "id": 408,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
-    "text": "if you've ever been DD on a night out, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you've ever been DD on a night out, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5305,7 +5123,7 @@
     }
   },
   {
-    "text": "if, on your last night out, there was never a moment when you had a drink in one hand and a smoke in the other, give out {int: i} sips. Otherwise drink them.",
+    "text": "If, on your last night out, there was never a moment when you had a drink in one hand and a smoke in the other, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5318,7 +5136,7 @@
     }
   },
   {
-    "text": "if you used the stairs instead of the elevator this week to burn up more calories, give out {int: i} sips. Otherwise drink them.",
+    "text": "If you used the stairs instead of the elevator this week to burn up more calories, give out {int: i} sips. Otherwise drink them.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5370,7 +5188,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} sips if you've ever spent a whole night laying on grass with someone, just looking at the stars cheesy.",
+    "text": "Everybody drink {int: i} sips if you've ever spent a whole night laying on grass with someone, just looking at the stars.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5422,7 +5240,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} sips if you've ever walked more than mins to get home after a night out.",
+    "text": "Everybody drink {int: i} sips if you've ever walked more than 2 hours to get home after a night out.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -5487,7 +5305,7 @@
     }
   },
   {
-    "text": "Everybody drink {int: i} sips if your friends have ever managed to run away with your swimming trunksswimsuit, leaving you in the water.",
+    "text": "Everybody drink {int: i} sips if your friends have ever managed to run away with your swimming trunks/swimsuit, leaving you in the water.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
