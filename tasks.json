@@ -3449,7 +3449,7 @@
     }
   },
   {
-    "text": "Einmal im Kreis: Jeder sagt etwas, was er/sie noch nie gemacht hat. Alle, die es schon einmal gemacht haben, trinken. Du beginnst.",
+    "text": "Einmal im Kreis: Jeder sagt etwas, was er/sie noch nie gemacht hat. Alle, die es schon einmal gemacht haben, trinken {int: i}. Du beginnst.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -3457,7 +3457,9 @@
     "remote": true,
     "unique": true,
     "id": 275,
-    "variables": {}
+    "variables": {
+      "i": "ANY"
+    }
   },
   {
     "text": "Trink {int: i} Schlücke, wenn du schon einmal deinen Penis (oder den deines Partners) gemessen hast.",
@@ -8519,7 +8521,7 @@
   {
     "text": "Wenn du willst, kannst du dein Glas exen und erhältst Immunität für die nächste Runde.",
     "count": 4,
-    "uses": 0,
+    "uses": 1,
     "rounds": 1,
     "personal": true,
     "remote": true,
@@ -10917,7 +10919,7 @@
     "text": "Du bekommst die Polen-Karte. Irgendwann im Laufe des Spieles kannst du eine Aufgabe, die für jemanden anderen bestimmt war, klauen und für dich benutzen.",
     "count": 5,
     "uses": 1,
-    "rounds": 0,
+    "rounds": -1,
     "personal": true,
     "remote": true,
     "unique": true,
