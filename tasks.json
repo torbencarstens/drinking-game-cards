@@ -3332,7 +3332,7 @@
     }
   },
   {
-    "text": "Derjenige, mit den meisten Münzen im Portmonee, trinkt {int: i} Schlücke.",
+    "text": "Derjenige, mit den meisten Münzen im Portemonnaie, trinkt {int: i} Schlücke.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
