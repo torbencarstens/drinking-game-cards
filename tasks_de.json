@@ -7790,7 +7790,7 @@
     }
   },
   {
-    "text": "Alle Markenbitches, die mehr als 3 Sachen von einer Marke an haben, trinken {int: i} Schlücke.",
+    "text": "Alle Markenbitches, die mehr als 3 Sachen von einer Marke anhaben, trinken {int: i} Schlücke.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
