@@ -3792,7 +3792,7 @@
     "text": "Du redest, bis dein Getränk leer ist, nur noch englisch.",
     "count": 1,
     "uses": 0,
-    "rounds": 0,
+    "rounds": -1,
     "personal": true,
     "remote": true,
     "unique": true,
@@ -13508,7 +13508,7 @@
     }
   },
   {
-    "text": "Sage den Zungenbrecher „Als der KlapperschlangÂ´ Klapper schlapper klang, klang der KlapperschlangÂ´ Klapper schlapper“ auf. Schaffst du es: Verteile {int: i} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+    "text": "Sage den Zungenbrecher „Als der Klapperschlangen Klapper schlapper klang, klang der Klapperschlangen Klapper schlapper“ auf. Schaffst du es: Verteile {int: i} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
