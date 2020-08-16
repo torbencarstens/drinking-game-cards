@@ -1801,7 +1801,7 @@
     }
   },
   {
-    "text": "Jeder, der weiße Schuhe an hat, trinkt {int: i} Schlücke.",
+    "text": "Jeder, der weiße Schuhe anhat, trinkt {int: i} Schlücke.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
