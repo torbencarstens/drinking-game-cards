@@ -5499,19 +5499,6 @@
     "variables": {}
   },
   {
-    "text": "Sage den Zungenbrecher „Die Katze tritt die Treppe krumm, krumm tritt die Katze die Treppe.“ auf. Schaffst du es: Verteile {int: i} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
-    "count": 2,
-    "uses": 0,
-    "rounds": 0,
-    "personal": true,
-    "remote": true,
-    "unique": true,
-    "id": 446,
-    "variables": {
-      "i": "ANY"
-    }
-  },
-  {
     "text": "Dafür oder dagegen 100.000â‚¬ zu gewinnen und deine/n beste/n Freund/in 10 Minuten lang foltern zu lassen? Stimmt alle gleichzeitig ab, die Verlierer trinken {int: i} Schlücke.",
     "count": 2,
     "uses": 0,
