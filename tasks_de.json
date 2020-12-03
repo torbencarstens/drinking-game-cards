@@ -1369,7 +1369,7 @@
     }
   },
   {
-    "text": "Les die erste Nachricht vor, die angezeigt wird, wenn du „Sex“ in die WhatsApp-Suchleiste eingibst. Wenn du dich weigerst: {int: i} Schlücke.",
+    "text": "Les die erste Nachricht vor, die angezeigt wird, wenn du „Sex“ in eine Messenger-Suchleiste eingibst. Wenn du dich weigerst: {int: i} Schlücke.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
