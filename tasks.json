@@ -14467,5 +14467,18 @@
     "unique": true,
     "id": 1207,
     "variables": {}
+  },
+  {
+    "text": "Wer am längsten nicht gekotzt hat trinkt {int: i} Schlücke.",
+    "count": 2,
+    "uses": 0,
+    "rounds": 0,
+    "personal": false,
+    "remote": true,
+    "unique": true,
+    "id": 1207,
+    "variables": {
+      "i": "ANY"
+    }
   }
 ]
