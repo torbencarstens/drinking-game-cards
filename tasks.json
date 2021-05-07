@@ -181,7 +181,7 @@
     }
   },
   {
-    "text": "Du bekommst die Urlaubskarte. Irgendwann wenn du an der Reihe bist, kannst du sagen, dass du zwei Runden Pause machen willst. Somit setzt du für zwei Runden aus und musst nicht trinken oder sonstige Regeln beachten. Deine nächste Aufgabe wird ignoriert.",
+    "text": "Du bekommst die Urlaubskarte. Irgendwann wenn du an der Reihe bist, kannst du sagen, dass du 2 Runden Pause machen willst. Somit setzt du für 2 Runden aus und musst nicht trinken oder sonstige Regeln beachten. Deine nächste Aufgabe wird ignoriert.",
     "count": 3,
     "uses": 1,
     "rounds": 2,
@@ -918,7 +918,7 @@
     "variables": {}
   },
   {
-    "text": "Stelle, einem Mitspieler deiner Wahl, eine Additionsaufgabe, welche aus zwei Zahlen zwischen 0 und 100 besteht. Schafft er sie nicht innerhalb von 10 Sek zu lösen, trinkt er {int: i} Schlücke.",
+    "text": "Stelle, einem Mitspieler deiner Wahl, eine Additionsaufgabe, welche aus 2 Zahlen zwischen 0 und 100 besteht. Schafft er sie nicht innerhalb von 10 Sek zu lösen, trinkt er {int: i} Schlücke.",
     "count": 5,
     "uses": 0,
     "rounds": 0,
@@ -3882,7 +3882,7 @@
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": true,
     "id": 312,
@@ -4031,7 +4031,7 @@
     }
   },
   {
-    "text": "Sage den Zungenbrecher „Zwischen Zwetschgenzweigen sitzen zwei tschechisch zwitschernde Schwalben. Zwei tschechisch zwitschernde Schwalben sitzen zwischen Zwetschgenzweigen.“ auf. Schaffst du es: Verteile {int: i} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+    "text": "Sage den Zungenbrecher „Zwischen Zwetschgen2gen sitzen 2 tschechisch zwitschernde Schwalben. Zwei tschechisch zwitschernde Schwalben sitzen zwischen Zwetschgen2gen.“ auf. Schaffst du es: Verteile {int: i} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -6600,7 +6600,7 @@
     }
   },
   {
-    "text": "Sage den Zungenbrecher „Zwischen zwei Zwetschgenbaumzweigen zwitschern zwei geschwätzige Schwalben.“ auf. Schaffst du es: Verteile {int: i} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
+    "text": "Sage den Zungenbrecher „Zwischen 2 Zwetschgenbaum2gen zwitschern 2 geschwätzige Schwalben.“ auf. Schaffst du es: Verteile {int: i} Schlücke. Schaffst du es nicht: Trinke sie selbst.",
     "count": 4,
     "uses": 0,
     "rounds": 0,
@@ -8893,7 +8893,7 @@
     }
   },
   {
-    "text": "Trinke zwei Gläser deiner Wahl aus.",
+    "text": "Trinke 2 Gläser deiner Wahl aus.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -11752,7 +11752,7 @@
     }
   },
   {
-    "text": "Stelle, einem Mitspieler deiner Wahl, eine Subtraktionsaufgabe, welche aus zwei Zahlen zwischen 0 und 100 besteht. Schafft er sie nicht innerhalb von 10 Sek zu lösen, trinkt er {int: i} Schlücke.",
+    "text": "Stelle, einem Mitspieler deiner Wahl, eine Subtraktionsaufgabe, welche aus 2 Zahlen zwischen 0 und 100 besteht. Schafft er sie nicht innerhalb von 10 Sek zu lösen, trinkt er {int: i} Schlücke.",
     "count": 5,
     "uses": 0,
     "rounds": 0,
@@ -12193,7 +12193,7 @@
     }
   },
   {
-    "text": "Bist du länger als zwei Jahre single trinke {int: i} Schlücke.",
+    "text": "Bist du länger als 2 Jahre single trinke {int: i} Schlücke.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -12206,7 +12206,7 @@
     }
   },
   {
-    "text": "Du kannst, wenn du willst, jemanden bestimmen der sein Getränk exen muss. Dafür musst du deins zweimal exen.",
+    "text": "Du kannst, wenn du willst, jemanden bestimmen der sein Getränk exen muss. Dafür musst du deins 2x exen (exen rettet nicht).",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -12658,7 +12658,7 @@
     }
   },
   {
-    "text": "Die Person, die zuerst zwei Kleidungsstücke ausgezogen hat, verteilt {int: i} Schlücke.",
+    "text": "Die Person, die zuerst 2 Kleidungsstücke ausgezogen hat, verteilt {int: i} Schlücke.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
@@ -13613,7 +13613,7 @@
     }
   },
   {
-    "text": "Du entscheidest: Alle exen ein Mal ihr Getränk oder alle exen zwei Mal ihr Getränk.",
+    "text": "Du entscheidest: Alle exen ein Mal ihr Getränk oder alle exen 2 Mal ihr Getränk.",
     "count": 1,
     "uses": 0,
     "rounds": 0,
