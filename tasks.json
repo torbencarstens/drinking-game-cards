@@ -12050,12 +12050,12 @@
     }
   },
   {
-    "text": "Tanze 10 Sekunden mit einem Mitspieler deiner Wahl. Trinke danach mit ihm {int: i} Schlücke. Machst du es nicht: Trinke {int: j} Schlücke.",
+    "text": "Tanze 10 Sekunden mit einem Mitspieler deiner Wahl. Trinke danach mit ihm {int: i} Schlücke. Machst du es nicht: Trinke {int: j} Schlücke (die Person die sich weigert trinkt 2x {int: j} Schlücke).",
     "count": 5,
     "uses": 0,
     "rounds": 0,
     "personal": true,
-    "remote": false,
+    "remote": true,
     "unique": true,
     "id": 1001,
     "variables": {
