@@ -797,7 +797,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": true,
-    "remote": false,
+    "remote": true,
     "unique": true,
     "id": 65,
     "variables": {
@@ -4687,7 +4687,7 @@
     "text": "Ihr dürft nur noch mit der linken Hand trinken und wer dagegen verstößt, trinkt {int: i} Schlücke.",
     "count": 2,
     "uses": 0,
-    "rounds": 0,
+    "rounds": -1,
     "personal": false,
     "remote": true,
     "unique": true,
@@ -7130,17 +7130,6 @@
       "i": "ANY",
       "j": "ANY"
     }
-  },
-  {
-    "text": "Trinke, bis zum Ende des Spieles, immer ein Schluck weniger als du müsstest.",
-    "count": 2,
-    "uses": 0,
-    "rounds": -1,
-    "personal": true,
-    "remote": true,
-    "unique": false,
-    "id": 583,
-    "variables": {}
   },
   {
     "text": "Lieber doppelter Lohn oder doppelte Urlaubstage? Stimmt alle gleichzeitig ab, die Verlierer trinken {int: i} Schlücke.",
