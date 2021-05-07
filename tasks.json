@@ -210,7 +210,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": true,
-    "remote": false,
+    "remote": true,
     "unique": true,
     "id": 17,
     "variables": {
@@ -1750,7 +1750,7 @@
     }
   },
   {
-    "text": "Du entscheidest: Alle trinken 6 oder {int: i} Schlücke.",
+    "text": "Du entscheidest: Alle trinken {int: i} oder {int: j} Schlücke.",
     "count": 2,
     "uses": 0,
     "rounds": 0,
@@ -1759,7 +1759,8 @@
     "unique": true,
     "id": 140,
     "variables": {
-      "i": "ANY"
+      "i": "ANY",
+      "j": "ANY"
     }
   },
   {
@@ -9110,7 +9111,7 @@
     "text": "Dein rechter Sitznachbar ist nun dein Trinkpartner. Ihr trinkt immer die selbe Anzahl an Schlücken. Diese Regel geht bis zum Spielende.",
     "count": 2,
     "uses": 0,
-    "rounds": 0,
+    "rounds": -1,
     "personal": true,
     "remote": true,
     "unique": true,
