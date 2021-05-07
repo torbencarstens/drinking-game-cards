@@ -10711,7 +10711,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": true,
-    "remote": false,
+    "remote": true,
     "unique": true,
     "id": 884,
     "variables": {
