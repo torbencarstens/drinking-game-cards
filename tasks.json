@@ -1412,7 +1412,7 @@
     "count": 7,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": true,
     "id": 114,
@@ -4592,19 +4592,6 @@
     "variables": {
       "i": "ANY",
       "j": "ANY"
-    }
-  },
-  {
-    "text": "Einer aus der Runde muss seinem Ex oder seiner Ex schreiben, dass es ihm leidtut, wie er sich damals verhalten hat. Wer sich nicht traut, muss {int: i} Shots auf ex trinken.",
-    "count": 2,
-    "uses": 0,
-    "rounds": 0,
-    "personal": false,
-    "remote": true,
-    "unique": true,
-    "id": 373,
-    "variables": {
-      "i": "ANY"
     }
   },
   {
