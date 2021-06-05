@@ -210,7 +210,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": true,
-    "remote": true,
+    "remote": false,
     "unique": true,
     "id": 17,
     "variables": {
@@ -3155,7 +3155,7 @@
     "count": 1,
     "uses": 0,
     "rounds": 0,
-    "personal": false,
+    "personal": true,
     "remote": true,
     "unique": true,
     "id": 252,
@@ -6262,7 +6262,7 @@
     "uses": 0,
     "rounds": 0,
     "personal": true,
-    "remote": true,
+    "remote": false,
     "unique": true,
     "id": 508,
     "variables": {
